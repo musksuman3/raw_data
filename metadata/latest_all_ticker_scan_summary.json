@@ -1,0 +1,17 @@
+{
+  "source_repo": "jansuman200001-prog/MMM",
+  "github_run_id": "27509610693",
+  "github_run_attempt": "1",
+  "finished_at_utc": "2026-06-14T19:30:52+00:00",
+  "raw_data_repo": "musksuman3/raw_data",
+  "export_type": "computed_scanner_api_simulated_data",
+  "note": "This is every ticker scanner output, not OHLCV historical candle data.",
+  "chunks_expected": 3,
+  "chunks_completed": 0,
+  "tickers_processed_total": 0,
+  "latest_csv": "raw_data_payload/scanner_runs/latest/all_ticker_scan_data_latest.csv",
+  "latest_json": "raw_data_payload/scanner_runs/latest/all_ticker_scan_data_latest.json",
+  "archive_csv": "raw_data_payload/scanner_runs/archive/all_ticker_scan_data_2026-06-14_1930.csv",
+  "archive_json": "raw_data_payload/scanner_runs/archive/all_ticker_scan_data_2026-06-14_1930.json",
+  "chunk_summaries": []
+}

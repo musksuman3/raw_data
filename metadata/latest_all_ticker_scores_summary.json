@@ -1,0 +1,10 @@
+{
+  "export_type": "all_ticker_scores_from_existing_daily_workflow",
+  "note": "Created from scores_chunk_*.json artifacts. Scanner was not run a second time.",
+  "generated_at_utc": "2026-06-16T16:52:29+00:00",
+  "ticker_count": 3144,
+  "latest_json": "raw_data_payload/scanner_runs/latest/all_ticker_scores_latest.json",
+  "latest_csv": "raw_data_payload/scanner_runs/latest/all_ticker_scores_latest.csv",
+  "archive_json": "raw_data_payload/scanner_runs/archive/all_ticker_scores_2026-06-16_1652.json",
+  "archive_csv": "raw_data_payload/scanner_runs/archive/all_ticker_scores_2026-06-16_1652.csv"
+}

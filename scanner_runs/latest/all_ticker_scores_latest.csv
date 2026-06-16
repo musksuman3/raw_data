@@ -1,0 +1,3145 @@
+ticker,chunk,raw,norm,conviction,layer,industry,momentum,flow,real_fields,data_source
+2324.TW,3,5.0,4.12,C,9,,,neutral,0,simulated
+2356.TW,3,5.0,4.12,C,9,,,neutral,0,simulated
+2382.TW,3,5.21,5.36,B,3,Computer Hardware,nan,low_volume,7,simulated
+3037.TW,3,5.0,4.12,C,9,,,neutral,0,simulated
+3231.TW,3,5.0,4.12,C,9,,,neutral,0,simulated
+3436.T,3,5.0,4.12,C,9,,,neutral,0,simulated
+4062.T,3,5.39,6.42,B,2,Electronic Components,nan,neutral,6,simulated
+4186.T,3,5.75,8.54,B,2,Electronic Components,nan,neutral,6,simulated
+4938.TW,3,5.0,4.12,C,9,,,neutral,0,simulated
+5347.TW,3,5.0,4.12,C,9,,,neutral,0,simulated
+5802.T,3,5.0,4.12,C,9,,,neutral,0,simulated
+6146.T,3,5.0,4.12,C,9,,,neutral,0,simulated
+6501.T,3,5.0,4.12,C,9,,,neutral,0,simulated
+6669.TW,3,5.0,4.12,C,9,,,neutral,0,simulated
+6723.T,3,5.0,4.12,C,9,,,neutral,0,simulated
+6754.T,3,5.0,4.12,C,9,,,neutral,0,simulated
+6857.T,3,5.0,4.12,C,9,,,neutral,0,simulated
+6920.T,3,5.0,4.12,C,9,,,neutral,0,simulated
+6951.T,3,5.0,4.12,C,9,,,neutral,0,simulated
+6967.T,3,5.0,4.12,C,9,,,neutral,0,simulated
+6971.T,3,4.98,4.0,B,9,Conglomerates,nan,neutral,5,simulated
+7731.T,3,5.23,5.47,B,9,Leisure,nan,neutral,5,simulated
+7735.T,3,5.0,4.12,C,9,,,neutral,0,simulated
+7751.T,3,5.0,4.12,C,9,,,neutral,0,simulated
+8035.T,3,5.63,7.83,B,2,Semiconductor Equipment & Materials,nan,elevated_volume,7,simulated
+A,3,5.0,4.12,C,9,,,neutral,0,simulated
+AA,1,5.18,5.19,A,9,Aluminum,-25.4,neutral,7,polygon
+AACBU,1,5.0,4.09,C,9,,,neutral,0,polygon
+AACG,1,5.61,7.8,A,9,Education & Training Services,-62.1,low_volume,8,polygon
+AACI,3,5.59,7.6,A,9,Shell Companies,0.0,elevated_volume,6,finnhub
+AACIU,3,5.0,4.12,C,9,,,neutral,0,polygon
+AACIW,3,5.0,4.12,C,9,,,neutral,0,simulated
+AACO,3,5.22,5.42,A,9,Shell Companies,,low_volume,5,finnhub
+AACOU,1,5.0,4.09,C,9,,,neutral,0,polygon
+AAME,1,5.0,4.09,C,9,,,neutral,0,polygon
+AAOI,1,5.51,7.19,A,3,Communication Equipment,-20.7,neutral,7,polygon
+AAON,3,5.0,4.12,C,9,,,neutral,0,simulated
+AAPG,1,5.0,4.09,C,9,,,neutral,0,polygon
+AAPL,1,5.35,6.22,C,6,,,neutral,0,polygon
+AARD,3,5.0,4.12,C,9,,,neutral,0,finnhub
+AB,1,5.0,4.09,C,9,,,neutral,0,polygon
+ABAT,3,6.22,10.0,B,9,Waste Management,-71.8,neutral,7,simulated
+ABBNY,3,5.51,7.13,B,9,Electrical Equipment & Parts,-3.0,elevated_volume,8,simulated
+ABBV,1,5.31,5.98,A,9,Drug Manufacturers - General,-7.6,neutral,7,polygon
+ABCB,3,5.0,4.12,C,9,,,neutral,0,polygon
+ABEO,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ABLV,1,4.6,1.66,A,9,Specialty Retail,-10.6,neutral,7,polygon
+ABLVW,3,5.0,4.12,C,9,,,neutral,0,simulated
+ABNB,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ABSCI,1,5.41,6.59,C,5,,,neutral,0,simulated
+ABT,3,5.0,4.12,C,9,,,neutral,0,polygon
+ABUS,3,6.04,10.0,A,9,Biotechnology,-13.0,neutral,6,polygon
+ABVEW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ABX,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ACA,3,5.0,4.12,C,9,,,neutral,0,simulated
+ACAA,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ACAD,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ACDC,1,5.0,4.09,C,9,,,neutral,0,polygon
+ACGCU,3,4.74,2.58,A,9,Shell Companies,,low_volume,5,finnhub
+ACGL,1,5.0,4.09,C,9,,,neutral,0,polygon
+ACHV,1,5.0,4.09,C,9,,,neutral,0,polygon
+ACI,1,5.0,4.09,C,9,,,neutral,0,polygon
+ACIU,1,5.0,4.09,C,9,,,neutral,0,polygon
+ACIW,3,5.0,4.12,C,9,,,neutral,0,simulated
+ACLS,2,5.0,4.08,C,9,,,neutral,0,simulated
+ACM,3,5.0,4.12,C,9,,,neutral,0,simulated
+ACMR,1,5.41,6.59,C,2,,,neutral,0,polygon
+ACN,3,5.0,4.12,C,9,,,neutral,0,simulated
+ACNB,3,5.0,4.12,C,9,,,neutral,0,simulated
+ACOG,3,5.0,4.12,C,9,,,neutral,0,polygon
+ACP,1,4.99,4.03,A,9,Asset Management,-2.4,low_volume,6,polygon
+ACRE,3,4.85,3.23,A,9,REIT - Mortgage,-12.6,neutral,6,finnhub
+ACRS,1,4.91,3.54,A,9,Biotechnology,-15.1,neutral,7,polygon
+ACT,3,5.0,4.12,C,9,,,neutral,0,polygon
+ACTU,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ACVA,3,5.0,4.12,C,9,,,neutral,0,simulated
+ADAG,3,5.66,8.01,B,9,Biotechnology,-23.4,neutral,6,simulated
+ADAMG,1,4.74,2.51,A,9,,0.0,low_volume,6,polygon
+ADAMH,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ADAMM,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ADAMO,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ADBE,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ADCT,1,6.16,10.0,A,9,Biotechnology,-78.7,low_volume,8,polygon
+ADI,1,5.41,6.59,C,2,,,neutral,0,polygon
+ADMA,1,5.0,4.09,C,9,,,neutral,0,polygon
+ADP,1,5.35,6.22,C,6,,,neutral,0,polygon
+ADPT,3,5.0,4.12,C,9,,,neutral,0,simulated
+ADSK,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ADT,1,5.0,4.09,C,9,,,neutral,0,polygon
+ADTN,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ADTX,3,5.0,4.12,C,9,,,neutral,0,simulated
+ADUR,1,5.0,4.09,C,9,,,neutral,0,polygon
+ADUS,1,5.09,4.64,A,9,Medical Care Facilities,-21.7,low_volume,8,polygon
+ADX,2,5.16,5.07,B,9,Asset Management,-0.9,neutral,6,simulated
+AEAQ,1,5.0,4.09,C,9,,,neutral,0,polygon
+AEAQU,1,5.0,4.09,C,9,,,neutral,0,polygon
+AEE,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AEF,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AEHR,1,5.41,6.59,C,2,,,neutral,0,polygon
+AEI,1,5.84,9.2,A,9,Real Estate - Development,-67.2,neutral,7,polygon
+AEIS,1,5.0,4.09,C,9,,,neutral,0,polygon
+AEM,1,5.0,4.09,C,9,,,neutral,0,polygon
+AEP,1,5.0,4.09,C,9,,,neutral,0,polygon
+AER,3,5.0,4.12,C,9,,,neutral,0,finnhub
+AES,1,5.35,6.22,C,1,,,neutral,0,finnhub
+AEXA,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AFGD,3,5.31,5.95,B,9,,-9.6,neutral,4,polygon
+AFRM,1,5.48,7.01,A,8,Credit Services,-20.0,neutral,7,polygon
+AFX.DE,3,5.0,4.12,C,9,,,neutral,0,simulated
+AGAE,1,5.0,4.09,C,9,,,neutral,0,polygon
+AGBK,1,5.0,4.09,C,9,,,neutral,0,polygon
+AGCC,1,5.0,4.09,C,9,,,neutral,0,polygon
+AGI,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AGIO,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AGL,3,5.0,4.12,C,9,,,neutral,0,simulated
+AGMB,1,5.0,4.09,C,9,,,neutral,0,polygon
+AGNCL,1,5.0,4.09,C,9,,,neutral,0,polygon
+AGNCN,1,5.08,4.58,A,9,REIT - Mortgage,-0.2,neutral,5,polygon
+AGPU,1,5.0,4.09,C,9,,,neutral,0,polygon
+AI,1,6.45,10.0,A,5,Software - Infrastructure,-62.9,neutral,7,finnhub
+AIFC,1,5.96,9.93,A,4,Software - Infrastructure,-92.8,low_volume,7,finnhub
+AIHS,1,5.0,4.09,C,9,,,neutral,0,polygon
+AII,3,5.0,4.12,C,9,,,neutral,0,polygon
+AIIOW,1,4.95,3.79,A,9,,0.0,elevated_volume,7,polygon
+AIMDW,1,4.85,3.18,A,9,,-22.2,neutral,6,polygon
+AIN,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AIO,1,5.22,5.43,A,9,Asset Management,0.0,low_volume,6,polygon
+AIQUY,3,5.0,4.12,C,9,,,neutral,0,simulated
+AIRE,1,5.0,4.09,C,9,,,neutral,0,polygon
+AIRG,1,5.4,6.53,A,3,Communication Equipment,-4.1,low_volume,7,polygon
+AIRS,3,5.0,4.12,C,9,,,neutral,0,finnhub
+AIRT,1,5.0,4.09,C,9,,,neutral,0,polygon
+AISP,1,5.0,4.09,C,9,,,neutral,0,polygon
+AIT,1,5.23,5.49,A,9,Industrial Distribution,0.0,neutral,7,polygon
+AIV,3,5.0,4.12,C,9,,,neutral,0,finnhub
+AIXA.DE,3,5.0,4.12,C,9,,,neutral,0,simulated
+AIXC,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AIXI,3,5.0,4.12,C,9,,,neutral,0,simulated
+AIZ,1,5.0,4.09,C,9,,,neutral,0,polygon
+AJG,1,5.0,4.09,C,9,,,neutral,0,polygon
+AJINY,3,5.0,4.12,C,9,,,neutral,0,simulated
+AKAM,1,5.41,6.59,C,7,,,neutral,0,polygon
+AKAN,1,5.0,4.09,C,9,,,neutral,0,polygon
+ALAB,3,5.18,5.18,B,2,Semiconductors,0.0,neutral,7,simulated
+ALB,1,5.0,4.09,C,9,,,neutral,0,polygon
+ALC,1,5.0,4.09,C,9,,,neutral,0,polygon
+ALCO,1,5.0,4.09,C,9,,,neutral,0,polygon
+ALCY,1,5.09,4.64,A,9,Shell Companies,-23.2,low_volume,6,polygon
+ALDF,3,5.31,5.95,B,9,Shell Companies,0.0,neutral,5,simulated
+ALF,1,5.0,4.09,C,9,,,neutral,0,polygon
+ALFUU,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ALGN,1,5.0,4.09,C,9,,,neutral,0,polygon
+ALHC,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ALISU,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ALIT,1,5.97,9.99,A,5,Software - Application,-89.5,neutral,6,polygon
+ALKS,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ALKT,3,5.0,4.12,C,9,,,neutral,0,polygon
+ALL,2,5.0,4.08,C,9,,,neutral,0,simulated
+ALLE,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ALLR,1,4.85,3.18,A,9,Biotechnology,-27.5,low_volume,6,polygon
+ALLY,1,5.52,7.26,A,3,Credit Services,-1.7,neutral,6,polygon
+ALMU,1,5.0,4.09,C,9,,,neutral,0,polygon
+ALNT,1,5.0,4.09,C,9,,,neutral,0,polygon
+ALNY,1,5.0,4.09,C,9,,,neutral,0,polygon
+ALOVW,3,5.0,4.12,C,9,,,neutral,0,simulated
+ALOY,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ALRS,2,5.0,4.08,C,9,,,neutral,0,simulated
+ALTI,3,5.0,4.12,C,9,,,neutral,0,simulated
+ALVO,3,5.0,4.12,C,9,,,neutral,0,simulated
+ALX,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ALXO,3,5.0,4.12,C,9,,,neutral,0,finnhub
+AMAT,1,5.41,6.59,C,2,,,neutral,0,polygon
+AMBA,3,5.41,6.54,C,2,,,neutral,0,simulated
+AMBR,1,5.0,4.09,C,9,,,neutral,0,polygon
+AMC,1,5.0,4.09,C,9,,,neutral,0,polygon
+AMCI,1,5.68,8.23,A,3,Computer Hardware,-79.7,low_volume,8,polygon
+AMD,1,5.54,7.38,A,2,Semiconductors,-3.0,neutral,7,polygon
+AME,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AMGN,1,5.0,4.09,C,9,,,neutral,0,polygon
+AMIX,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AMKR,3,5.0,4.12,C,9,,,neutral,0,simulated
+AMLX,3,5.0,4.12,C,9,,,neutral,0,finnhub
+AMN,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AMOD,1,4.89,3.42,A,5,Software - Application,-24.9,low_volume,6,polygon
+AMPG,3,5.0,4.12,C,9,,,neutral,0,simulated
+AMPGZ,2,5.0,4.08,C,9,,,neutral,0,simulated
+AMPH,3,5.45,6.77,B,9,Drug Manufacturers - Specialty & Generic,-35.2,low_volume,7,simulated
+AMPY,1,5.0,4.09,C,9,,,neutral,0,polygon
+AMRC,3,5.0,4.12,C,9,,,neutral,0,simulated
+AMRX,1,5.0,4.09,C,9,,,neutral,0,polygon
+AMST,1,5.0,4.09,C,9,,,neutral,0,polygon
+AMT,1,5.08,4.58,A,9,REIT - Specialty,-16.9,neutral,7,polygon
+AMTM,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AMTX,1,5.46,6.89,A,9,Specialty Chemicals,-47.3,low_volume,8,polygon
+AMWD,3,5.0,4.12,C,9,,,neutral,0,polygon
+AMX,1,5.0,4.09,C,9,,,neutral,0,polygon
+AMZN,1,5.41,6.59,C,5,,,neutral,0,polygon
+AN,2,5.0,4.08,C,9,,,neutral,0,simulated
+ANDE,2,5.23,5.51,B,9,Food Distribution,-11.5,neutral,6,simulated
+ANDG,3,5.0,4.12,C,9,,,neutral,0,simulated
+ANET,1,5.35,6.22,C,3,,,neutral,0,finnhub
+ANIK,1,4.92,3.6,A,9,Drug Manufacturers - Specialty & Generic,-9.7,neutral,7,polygon
+ANIP,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ANY,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AOMD,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AOMN,3,5.0,4.12,C,9,,,neutral,0,simulated
+AON,1,5.0,4.09,C,9,,,neutral,0,polygon
+AOS,1,5.42,6.65,A,9,Specialty Industrial Machinery,-23.9,neutral,6,polygon
+AOSL,3,5.0,4.12,C,9,,,neutral,0,finnhub
+AOUT,1,5.0,4.09,C,9,,,neutral,0,polygon
+APA,1,5.0,4.09,C,9,,,neutral,0,polygon
+APAC,3,5.0,4.12,C,9,,,neutral,0,finnhub
+APC,1,5.0,4.09,C,9,,,neutral,0,polygon
+APD,1,5.0,4.09,C,9,,,neutral,0,finnhub
+APEI,1,5.0,4.09,C,9,,,neutral,0,finnhub
+APGE,3,5.0,4.12,C,9,,,neutral,0,polygon
+APH,1,5.39,6.46,A,2,Electronic Components,-4.7,neutral,7,polygon
+API,1,5.63,7.92,A,5,Software - Application,-20.5,low_volume,8,polygon
+APLD,1,5.35,6.22,C,3,,,neutral,0,polygon
+APLE,1,4.82,3.0,A,9,REIT - Hotel & Motel,0.0,neutral,6,polygon
+APLMW,1,5.0,4.09,C,9,,,neutral,0,polygon
+APP,1,5.35,6.22,C,6,,,neutral,0,finnhub
+APPN,1,5.35,6.22,C,6,,,neutral,0,finnhub
+APTV,1,5.32,6.04,A,9,Auto Parts,-25.3,low_volume,8,polygon
+AQMS,3,5.0,4.12,C,9,,,neutral,0,polygon
+AR,1,5.0,4.09,C,9,,,neutral,0,polygon
+ARAI,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ARAY,1,5.59,7.68,A,9,Medical Devices,-82.7,low_volume,8,polygon
+ARCI,3,4.97,3.94,B,9,Shell Companies,-0.1,low_volume,6,simulated
+ARCIU,3,5.0,4.12,C,9,,,neutral,0,polygon
+ARCIW,1,5.23,5.49,C,9,,,neutral,1,polygon
+ARCLU,1,5.0,4.09,C,9,,,neutral,0,polygon
+ARCO,3,5.0,4.12,A,9,Restaurants,-7.6,neutral,7,polygon
+ARDC,1,5.0,4.09,C,9,,,neutral,0,polygon
+ARDX,1,5.68,8.23,A,9,Biotechnology,-29.2,neutral,7,polygon
+ARE,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AREN,1,5.0,4.09,C,9,,,neutral,0,polygon
+ARGX,1,5.0,4.09,C,9,,,neutral,0,polygon
+ARKO,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ARLO,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ARM,1,5.41,6.59,C,2,,,neutral,0,finnhub
+AROW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ARQQW,3,7.04,10.0,B,9,,-81.8,dark_pool_buying,6,simulated
+ARR,1,5.0,4.09,C,9,,,neutral,0,polygon
+ARTL,3,5.0,4.12,C,9,,,neutral,0,simulated
+ARTNA,1,5.42,6.65,A,1,Utilities - Regulated Water,-4.4,neutral,7,polygon
+ARTV,1,5.0,4.09,C,9,,,neutral,0,polygon
+ARW,1,5.0,4.09,C,9,,,neutral,0,polygon
+ASA,2,5.0,4.08,C,9,,,neutral,0,simulated
+ASBA,3,5.31,5.95,B,9,,-0.6,neutral,4,simulated
+ASBP,3,5.51,7.13,B,9,Biotechnology,-73.6,low_volume,7,simulated
+ASC,3,5.0,4.12,C,9,,,neutral,0,polygon
+ASG,1,4.93,3.66,A,9,Asset Management,-0.4,neutral,6,polygon
+ASGI,1,5.0,4.09,C,9,,,neutral,0,polygon
+ASIC,3,4.91,3.59,A,9,Insurance - Property & Casualty,-11.5,low_volume,7,polygon
+ASMB,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ASMIY,3,5.0,4.12,C,9,,,neutral,0,simulated
+ASML,1,5.39,6.46,A,2,Semiconductor Equipment & Materials,-1.7,neutral,7,polygon
+ASPC,1,5.0,4.09,C,9,,,neutral,0,polygon
+ASPSW,1,5.0,4.09,C,9,,,neutral,0,polygon
+ASR,2,5.0,4.08,C,9,,,neutral,0,simulated
+ASST,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ASTC,1,5.0,4.09,C,9,,,neutral,0,polygon
+ASTE,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ASTH,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ASTI,3,6.03,10.0,B,1,Solar,-25.9,neutral,6,simulated
+ASTS,1,5.0,4.09,C,9,,,neutral,0,finnhub
+ASX,3,5.62,7.77,B,2,Semiconductors,-8.0,neutral,7,simulated
+ASYS,1,5.0,4.09,C,9,,,neutral,0,polygon
+ATAT,2,5.0,4.08,C,9,,,neutral,0,simulated
+ATEC,1,5.0,4.09,C,9,,,neutral,0,polygon
+ATEX,1,5.34,6.16,A,9,Telecom Services,-4.0,elevated_volume,8,polygon
+ATEYY,3,5.0,4.12,C,9,,,neutral,0,simulated
+ATHE,1,5.23,5.49,A,9,Biotechnology,-32.1,elevated_volume,7,polygon
+ATHS,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ATI,3,4.82,3.06,B,9,Metal Fabrication,-1.1,neutral,6,simulated
+ATKR,3,5.0,4.12,C,9,,,neutral,0,simulated
+ATLCL,3,5.0,4.12,C,9,,,neutral,0,simulated
+ATLCZ,1,5.31,5.98,B,9,,-0.6,neutral,4,polygon
+ATLN,3,5.0,4.12,C,9,,,neutral,0,simulated
+ATO,1,5.0,4.09,C,9,,,neutral,0,polygon
+ATOM,1,5.79,8.9,A,2,Semiconductor Equipment & Materials,-24.1,low_volume,8,polygon
+ATR,1,5.19,5.25,A,9,Medical Instruments & Supplies,-25.3,neutral,7,polygon
+ATRC,3,5.42,6.59,A,9,Medical Instruments & Supplies,-34.1,neutral,7,polygon
+ATRO,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ATS,1,6.33,10.0,A,9,Specialty Industrial Machinery,-20.1,neutral,7,polygon
+ATYR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AUB,3,5.0,4.12,C,9,,,neutral,0,polygon
+AUDC,3,5.0,4.12,C,9,,,neutral,0,polygon
+AUGO,3,5.0,4.12,C,9,,,neutral,0,finnhub
+AUPH,3,5.0,4.12,C,9,,,neutral,0,simulated
+AUR,1,5.0,4.09,C,9,,,neutral,0,polygon
+AVA,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AVAH,3,5.34,6.12,A,9,Medical Care Facilities,-27.1,neutral,7,finnhub
+AVGO,1,5.79,8.9,A,2,Semiconductors,-20.4,neutral,7,polygon
+AVIR,1,5.38,6.4,A,9,Biotechnology,-28.6,low_volume,6,polygon
+AVNT,1,5.0,4.09,A,9,Specialty Chemicals,-12.0,neutral,6,polygon
+AVNW,3,4.99,4.06,B,3,Communication Equipment,-23.1,low_volume,8,simulated
+AVR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AVT,1,5.0,4.09,C,9,,,neutral,0,polygon
+AVTR,1,5.05,4.4,A,9,Medical Instruments & Supplies,-38.3,low_volume,7,polygon
+AVTX,1,5.0,4.09,C,9,,,neutral,0,polygon
+AVX,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AVY,1,5.0,4.09,C,9,,,neutral,0,polygon
+AWF,3,4.99,4.06,A,9,Asset Management,-5.5,low_volume,6,polygon
+AWI,1,5.0,4.09,C,9,,,neutral,0,polygon
+AWK,1,5.35,6.22,C,1,,,neutral,0,polygon
+AWP,1,5.08,4.58,A,9,Asset Management,-3.4,neutral,5,polygon
+AWRE,1,5.65,8.05,A,5,Software - Application,-51.4,low_volume,8,polygon
+AX,1,5.15,5.0,A,9,Banks - Regional,-10.9,neutral,6,polygon
+AXINU,1,5.0,4.09,C,9,,,neutral,0,polygon
+AXON,1,5.0,4.09,C,9,,,neutral,0,finnhub
+AXP,1,5.3,5.92,A,3,Credit Services,-12.1,neutral,6,polygon
+AXS,1,5.08,4.58,A,9,Insurance - Specialty,-4.6,neutral,6,polygon
+AXSM,1,5.0,4.09,C,9,,,neutral,0,polygon
+AXT,3,5.0,4.12,C,9,,,neutral,0,simulated
+AXTA,3,4.82,3.06,B,9,Specialty Chemicals,-4.9,neutral,6,simulated
+AXTI,3,5.41,6.54,C,2,,,neutral,0,simulated
+AYI,3,5.0,4.12,C,9,,,neutral,0,simulated
+AZ,3,5.0,4.12,C,9,,,neutral,0,simulated
+AZI,2,5.0,4.08,C,9,,,neutral,0,simulated
+AZO,1,5.09,4.64,A,9,Auto Parts,-28.0,low_volume,8,polygon
+AZTA,3,5.0,4.12,C,9,,,neutral,0,simulated
+AZZ,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BA,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BABA,1,5.0,4.09,C,9,,,neutral,0,polygon
+BAC,1,5.0,4.09,C,9,,,neutral,0,polygon
+BAER,3,5.0,4.12,C,9,,,neutral,0,finnhub
+BAERW,1,6.41,10.0,A,9,,-51.9,dark_pool_buying,6,polygon
+BAH,3,5.0,4.12,C,9,,,neutral,0,simulated
+BAK,3,5.0,4.12,C,9,,,neutral,0,finnhub
+BALL,1,5.0,4.09,A,9,Packaging & Containers,-14.0,neutral,7,polygon
+BAM,1,5.0,4.09,C,9,,,neutral,0,polygon
+BANC,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BAND,3,5.0,4.12,C,9,,,neutral,0,simulated
+BANR,3,5.0,4.12,C,9,,,neutral,0,finnhub
+BANX,1,5.0,4.09,C,9,,,neutral,0,polygon
+BAP,1,5.0,4.09,A,9,Banks - Regional,-1.0,neutral,6,polygon
+BATL,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BATRA,1,5.0,4.09,C,9,,,neutral,0,polygon
+BAX,1,5.09,4.64,A,9,Medical Instruments & Supplies,-33.0,neutral,6,polygon
+BAYAR,3,5.0,4.12,C,9,,,neutral,0,polygon
+BB,3,5.48,6.95,A,4,Software - Infrastructure,-12.8,neutral,7,polygon
+BBAI,1,5.41,6.59,C,5,,,neutral,0,finnhub
+BBAR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BBCP,3,5.0,4.12,C,9,,,neutral,0,finnhub
+BBLGW,1,5.0,4.09,C,9,,,neutral,0,polygon
+BBNX,3,5.0,4.12,C,9,,,neutral,0,simulated
+BBT,3,5.38,6.36,A,9,Banks - Regional,-7.5,neutral,6,polygon
+BBW,3,6.63,10.0,A,9,Specialty Retail,-56.3,neutral,6,polygon
+BBY,1,5.0,4.09,C,9,,,neutral,0,polygon
+BCAB,1,5.61,7.8,A,9,Biotechnology,-94.4,neutral,5,polygon
+BCAL,1,4.93,3.66,A,9,Banks - Regional,-1.8,neutral,6,finnhub
+BCDA,1,5.0,4.09,C,9,,,neutral,0,polygon
+BCGWW,1,6.13,10.0,A,9,,-1.6,dark_pool_buying,6,polygon
+BCH,1,5.0,4.09,C,9,,,neutral,0,polygon
+BCHT,1,5.4,6.53,A,9,Pollution & Treatment Controls,-54.7,low_volume,8,polygon
+BCIC,3,5.0,4.12,C,9,,,neutral,0,finnhub
+BCML,1,5.0,4.09,C,9,,,neutral,0,polygon
+BCSF,1,5.0,4.09,C,9,,,neutral,0,polygon
+BCTXL,3,5.0,4.12,C,9,,,neutral,0,simulated
+BCV,1,4.93,3.66,A,9,Asset Management,-2.9,neutral,6,finnhub
+BCX,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BDC,2,5.0,4.08,C,9,,,neutral,0,simulated
+BDCI,3,4.97,3.94,B,9,Shell Companies,-1.5,low_volume,6,simulated
+BDL,3,5.0,4.12,C,9,,,neutral,0,finnhub
+BDSX,3,5.0,4.12,C,9,,,neutral,0,finnhub
+BDX,1,5.32,6.04,A,9,Medical Instruments & Supplies,-20.4,low_volume,8,polygon
+BE,1,5.35,6.22,C,1,,,neutral,0,finnhub
+BEAM,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BEBE,3,5.0,4.12,C,9,,,neutral,0,simulated
+BEEM,1,6.03,10.0,A,1,Solar,-68.0,elevated_volume,8,polygon
+BEEP,3,5.0,4.12,C,9,,,neutral,0,simulated
+BELFA,3,5.8,8.84,B,2,Electronic Components,-2.5,elevated_volume,8,simulated
+BEN,1,5.23,5.49,A,9,Asset Management,0.0,neutral,7,polygon
+BEP,1,5.0,4.09,C,9,,,neutral,0,polygon
+BEPI,1,5.0,4.09,C,9,,,neutral,0,polygon
+BEPJ,2,5.22,5.45,B,9,,0.0,low_volume,5,simulated
+BESIY,3,5.0,4.12,C,9,,,neutral,0,simulated
+BETR,1,5.0,4.09,C,9,,,neutral,0,polygon
+BFRG,3,5.0,4.12,C,9,,,neutral,0,simulated
+BFRGW,1,5.0,4.09,C,9,,,neutral,0,polygon
+BFRI,1,5.0,4.09,C,9,,,neutral,0,polygon
+BFRIW,3,5.0,4.12,C,9,,,neutral,0,polygon
+BFST,1,5.0,4.09,C,9,,,neutral,0,polygon
+BGB,3,5.31,5.95,B,9,Asset Management,-4.8,neutral,5,simulated
+BGC,3,5.0,4.12,C,9,,,neutral,0,polygon
+BGL,3,5.94,9.66,A,9,Gold,-99.7,neutral,5,polygon
+BGLC,1,5.0,4.09,C,9,,,neutral,0,polygon
+BGM,3,5.0,4.12,C,9,,,neutral,0,polygon
+BGS,3,5.0,4.12,C,9,,,neutral,0,polygon
+BGSI,3,5.0,4.12,C,9,,,neutral,0,polygon
+BGT,2,5.0,4.08,C,9,,,neutral,0,simulated
+BH,3,5.0,4.12,C,9,,,neutral,0,simulated
+BHAV,3,5.0,4.12,C,9,,,neutral,0,polygon
+BHE,3,5.41,6.54,B,2,Electronic Components,0.0,neutral,7,simulated
+BHF,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BHFAL,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BHFAM,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BHFAP,3,5.0,4.12,C,9,,,neutral,0,finnhub
+BHK,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BHM,3,5.0,4.12,C,9,,,neutral,0,polygon
+BHP,1,5.15,5.0,A,9,Other Industrial Metals & Mining,-0.7,neutral,7,polygon
+BHRB,1,5.0,4.09,C,9,,,neutral,0,polygon
+BHST,1,5.0,4.09,C,9,,,neutral,0,polygon
+BHVN,1,5.0,4.09,C,9,,,neutral,0,polygon
+BIAF,2,5.0,4.08,C,9,,,neutral,0,simulated
+BIDU,1,5.41,6.59,C,5,,,neutral,0,polygon
+BIIB,1,5.0,4.09,A,9,Drug Manufacturers - General,-4.4,neutral,6,polygon
+BILI,1,6.23,10.0,A,5,Internet Content & Information,-51.9,low_volume,8,polygon
+BILL,3,5.71,8.31,A,4,Software - Application,-39.7,neutral,7,finnhub
+BIO,1,5.0,4.09,C,9,,,neutral,0,polygon
+BIP,1,5.0,4.09,C,9,,,neutral,0,polygon
+BIPH,3,5.31,5.95,B,9,,-2.3,neutral,4,simulated
+BIPI,1,5.0,4.09,C,9,,,neutral,0,polygon
+BIRD,3,5.0,4.12,C,9,,,neutral,0,simulated
+BIRK,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BIT,1,5.31,5.98,A,9,Asset Management,-7.2,neutral,5,polygon
+BITF,1,5.35,6.22,C,3,,,neutral,0,finnhub
+BIVI,1,5.51,7.19,A,9,Biotechnology,-84.9,low_volume,6,polygon
+BIVIW,1,5.0,4.09,C,9,,,neutral,0,polygon
+BIXIU,1,5.0,4.09,C,9,,,neutral,0,polygon
+BIXIW,3,5.46,6.83,A,9,,-30.8,elevated_volume,5,polygon
+BJ,3,5.0,4.12,C,9,,,neutral,0,finnhub
+BJRI,1,4.98,3.97,A,9,Restaurants,-2.2,neutral,6,polygon
+BK,1,5.08,4.58,A,9,Banks - Diversified,-0.0,neutral,5,polygon
+BKH,3,5.0,4.12,C,9,,,neutral,0,polygon
+BKNG,1,5.19,5.25,A,9,Travel Services,-23.7,neutral,6,finnhub
+BKR,1,5.56,7.5,A,1,Oil & Gas Equipment & Services,-11.1,neutral,6,polygon
+BKSY,1,5.0,4.09,C,9,,,neutral,0,polygon
+BKTI,3,5.33,6.06,B,3,Communication Equipment,-16.8,neutral,7,simulated
+BLBD,3,5.0,4.12,C,9,,,neutral,0,finnhub
+BLFS,3,5.15,5.0,A,9,Medical Instruments & Supplies,-8.7,neutral,7,polygon
+BLIN,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BLIV,3,5.0,4.12,C,9,,,neutral,0,finnhub
+BLK,1,5.0,4.09,C,9,,,neutral,0,polygon
+BLKB,1,5.0,4.09,C,9,,,neutral,0,polygon
+BLLN,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BLRKU,1,5.09,4.64,A,9,Shell Companies,0.0,low_volume,6,polygon
+BLRKW,3,5.23,5.47,C,9,,,neutral,1,simulated
+BLTE,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BLUWW,3,6.39,10.0,B,9,,-23.0,dark_pool_buying,5,simulated
+BLZE,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BLZR,1,5.0,4.09,C,9,,,neutral,0,polygon
+BLZRU,1,5.0,4.09,C,9,,,neutral,0,polygon
+BMBL,1,5.95,9.87,A,5,Internet Content & Information,-65.1,low_volume,8,polygon
+BME,3,4.84,3.17,B,9,Asset Management,-3.2,neutral,6,simulated
+BMEZ,1,5.22,5.43,A,9,Asset Management,-3.8,low_volume,6,polygon
+BMGL,3,5.51,7.13,A,9,Medical Care Facilities,-83.1,low_volume,8,finnhub
+BMHL,3,5.53,7.24,B,8,Capital Markets,-0.4,elevated_volume,8,simulated
+BMI,1,6.06,10.0,A,9,Scientific & Technical Instruments,-44.3,neutral,7,polygon
+BML,1,5.0,4.09,C,9,,,neutral,0,simulated
+BMNR,3,5.0,4.12,C,9,,,neutral,0,finnhub
+BMO,1,5.0,4.09,C,9,,,neutral,0,polygon
+BMRA,3,5.0,4.12,C,9,,,neutral,0,simulated
+BMRC,3,5.15,5.0,A,9,Banks - Regional,-5.7,neutral,6,finnhub
+BMRN,1,4.91,3.54,A,9,Biotechnology,-14.6,low_volume,7,polygon
+BMY,1,5.0,4.09,C,9,,,neutral,0,polygon
+BNBX,1,5.0,4.09,C,9,,,neutral,0,polygon
+BNC,2,5.0,4.08,C,9,,,neutral,0,simulated
+BNCWW,3,5.0,4.12,C,9,,,neutral,0,simulated
+BNCWZ,1,5.0,4.09,C,9,,,neutral,2,polygon
+BNGO,1,5.99,10.0,A,9,Medical Instruments & Supplies,-76.4,low_volume,7,polygon
+BNH,1,5.31,5.98,B,9,,-3.8,neutral,4,polygon
+BNKK,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BNT,2,5.13,4.89,B,9,Insurance - Diversified,-7.6,neutral,5,simulated
+BNTC,1,5.0,4.09,C,9,,,neutral,0,polygon
+BNTX,3,5.04,4.35,B,9,Biotechnology,-24.2,neutral,7,simulated
+BNZI,3,5.0,4.12,C,9,,,neutral,0,simulated
+BNZIW,3,5.0,4.12,C,9,,,neutral,0,polygon
+BODI,3,5.0,4.12,C,9,,,neutral,0,finnhub
+BOF,1,5.0,4.09,C,9,,,neutral,0,polygon
+BORR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BOTJ,3,4.75,2.64,B,9,Banks - Regional,-1.4,neutral,6,simulated
+BOX,3,5.35,6.18,C,4,,,neutral,0,polygon
+BOXL,3,5.0,4.12,C,9,,,neutral,0,simulated
+BPAC,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BPACU,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BPOPM,3,5.0,4.12,C,9,,,neutral,0,simulated
+BPRE,1,5.0,4.09,C,9,,,neutral,0,polygon
+BRAI,1,5.7,8.35,A,3,Computer Hardware,-49.3,low_volume,7,polygon
+BRBR,1,5.61,7.8,A,9,Packaged Foods,-86.2,neutral,6,finnhub
+BRBS,1,5.0,4.09,C,9,,,neutral,0,polygon
+BRIA,1,5.0,4.09,C,9,,,neutral,0,polygon
+BRK.B,1,5.0,4.09,C,9,,,neutral,0,polygon
+BRKR,3,5.0,4.12,C,9,,,neutral,0,simulated
+BRKRP,3,5.0,4.12,C,9,,,neutral,0,simulated
+BRLS,1,5.74,8.59,A,9,Packaged Foods,-72.4,low_volume,8,polygon
+BRLSW,3,5.0,4.12,C,9,,,neutral,0,simulated
+BRLT,1,5.51,7.19,A,9,Luxury Goods,-60.4,low_volume,8,polygon
+BRN,3,5.0,4.12,C,9,,,neutral,0,finnhub
+BRSP,3,5.23,5.47,A,9,REIT - Mortgage,-6.3,neutral,7,polygon
+BRX,1,5.0,4.09,C,9,,,neutral,0,polygon
+BRZE,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BSAAU,1,5.0,4.09,C,9,,,neutral,0,polygon
+BSM,2,5.0,4.08,C,9,,,neutral,0,simulated
+BSRR,3,5.0,4.12,C,9,,,neutral,0,simulated
+BSX,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BTBD,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BTBT,1,5.35,6.22,C,3,,,neutral,0,finnhub
+BTCS,1,5.35,6.22,C,8,,,neutral,0,finnhub
+BTDR,1,5.35,6.22,C,3,,,neutral,0,polygon
+BTG,1,5.72,8.47,A,9,Gold,-26.3,neutral,7,polygon
+BTM,1,5.0,4.09,C,9,,,neutral,0,polygon
+BTMD,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BTMWW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+BTO,1,5.0,4.09,C,9,,,neutral,0,polygon
+BTQ,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BTSG,1,5.0,4.09,C,9,,,neutral,0,polygon
+BTSGU,1,5.0,4.09,C,9,,,neutral,0,polygon
+BTTC,1,6.78,10.0,A,9,,-96.6,dark_pool_buying,6,polygon
+BTU,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BTZ,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BUDA,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BULLW,3,5.61,7.72,A,9,,-71.5,neutral,6,finnhub
+BUR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BUSE,3,5.0,4.12,C,9,,,neutral,0,simulated
+BVC,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BVFL,3,5.0,4.12,C,9,,,neutral,0,simulated
+BW,3,5.0,4.12,C,9,,,neutral,0,simulated
+BWA,1,4.91,3.54,A,9,Auto Parts,-5.3,low_volume,7,finnhub
+BWB,2,5.72,8.54,B,9,Banks - Regional,-1.9,dark_pool_buying,7,simulated
+BWEN,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BWMX,3,5.0,4.12,B,9,Specialty Retail,-3.9,neutral,6,simulated
+BWXT,1,5.0,4.09,A,9,Aerospace & Defense,-17.0,neutral,7,finnhub
+BX,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BXMT,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BY,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BYAH,3,5.0,4.12,C,9,,,neutral,0,polygon
+BYND,2,5.0,4.08,C,9,,,neutral,0,simulated
+BYSI,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BZAIW,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BZFDW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+BZH,1,5.0,4.09,C,9,,,neutral,0,finnhub
+BZUN,3,5.0,4.12,C,9,,,neutral,0,finnhub
+C,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CAAS,2,5.0,4.08,C,9,,,neutral,0,simulated
+CABR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CACI,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CADL,3,5.0,4.12,C,9,,,neutral,0,simulated
+CAG,1,5.19,5.25,A,9,Packaged Foods,-31.7,neutral,6,finnhub
+CAJPY,3,5.0,4.12,C,9,,,neutral,0,simulated
+CAKE,3,5.0,4.12,C,9,,,neutral,0,simulated
+CAL,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CALX,3,6.31,10.0,B,4,Software - Infrastructure,-44.1,neutral,7,simulated
+CAMT,1,5.59,7.68,A,2,Semiconductor Equipment & Materials,-8.5,low_volume,7,finnhub
+CAN,1,6.2,10.0,A,3,Computer Hardware,-82.8,neutral,7,finnhub
+CANF,1,5.61,7.8,A,9,Biotechnology,-87.2,low_volume,7,finnhub
+CAPL,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CAPN,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CAPNR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CAR,2,5.55,7.49,B,9,Rental & Leasing Services,-73.7,low_volume,7,simulated
+CARG,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CARL,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CARR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CARS,1,5.84,9.2,A,5,Internet Content & Information,-27.8,low_volume,7,finnhub
+CASS,1,5.08,4.58,A,9,Specialty Business Services,-2.6,neutral,5,finnhub
+CASY,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CAT,1,5.0,4.09,A,9,Farm & Heavy Construction Machinery,0.0,neutral,7,finnhub
+CATX,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CAVA,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CB,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CBAT,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CBC,3,5.23,5.47,A,9,Banks - Regional,-4.7,neutral,6,polygon
+CBFV,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CBIO,1,5.61,7.8,A,9,Biotechnology,-35.2,low_volume,6,finnhub
+CBNA,3,5.27,5.71,A,9,Banks - Regional,-1.0,elevated_volume,7,finnhub
+CBOE,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CBRE,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CBRL,1,5.94,9.81,A,9,Restaurants,-37.8,elevated_volume,7,finnhub
+CCD,3,5.0,4.12,C,9,,,neutral,0,polygon
+CCEC,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CCI,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CCIF,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CCII,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CCIIU,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CCIX,2,4.74,2.48,B,9,Shell Companies,-0.3,low_volume,6,simulated
+CCIXW,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CCJ,1,5.35,6.22,C,1,,,neutral,0,finnhub
+CCL,1,4.98,3.97,A,9,Travel Services,-9.3,neutral,7,finnhub
+CCLDO,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CCNEP,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CCO,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CCRN,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CCU,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CCXI,2,5.0,4.08,C,9,,,neutral,0,simulated
+CCZ,1,5.22,5.43,B,9,,-2.8,low_volume,4,finnhub
+CD,2,5.0,4.08,C,9,,,neutral,0,simulated
+CDIOW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CDNL,1,4.72,2.39,A,9,Engineering & Construction,0.0,neutral,6,finnhub
+CDNS,1,5.41,6.59,C,2,,,neutral,0,finnhub
+CDRE,3,5.89,9.37,A,9,Aerospace & Defense,-40.9,neutral,7,polygon
+CDTG,3,5.0,4.12,C,9,,,neutral,0,simulated
+CDW,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CDZI,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CDZIP,1,5.53,7.32,A,1,Utilities - Regulated Water,-2.2,elevated_volume,8,finnhub
+CE,1,5.01,4.15,A,9,Chemicals,-25.5,low_volume,7,finnhub
+CEG,1,5.52,7.26,A,1,Utilities - Independent Power Producers,-32.7,neutral,7,finnhub
+CELU,3,5.46,6.83,B,9,Biotechnology,-82.0,neutral,7,simulated
+CELUW,3,4.52,1.29,B,9,,0.0,neutral,6,simulated
+CELZ,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CENT,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CENTA,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CENX,3,5.0,4.12,C,9,,,neutral,0,simulated
+CEPT,3,5.0,4.12,C,9,,,neutral,0,simulated
+CERS,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CET,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CETY,1,5.74,8.59,A,9,Specialty Industrial Machinery,-81.5,elevated_volume,8,finnhub
+CEVA,3,5.24,5.53,A,2,Semiconductors,-5.3,low_volume,8,polygon
+CF,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CFG,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CFLT,1,5.35,6.22,C,4,,,neutral,0,simulated
+CGABL,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CGBD,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CGC,3,5.0,4.12,C,9,,,neutral,0,polygon
+CGCTW,1,4.82,3.0,B,9,,-12.6,neutral,4,finnhub
+CGEN,3,6.04,10.0,A,9,Biotechnology,-35.5,low_volume,7,polygon
+CGO,1,4.93,3.66,A,9,Asset Management,-2.7,neutral,5,finnhub
+CGTX,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CHAI,3,5.88,9.31,A,5,Internet Content & Information,-93.6,low_volume,6,polygon
+CHAR,3,5.0,4.12,C,9,,,neutral,0,simulated
+CHCI,2,5.0,4.08,C,9,,,neutral,0,simulated
+CHD,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CHE,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CHGG,3,4.98,4.0,B,9,Education & Training Services,-36.1,low_volume,8,simulated
+CHH,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CHKP,1,5.76,8.72,A,7,Software - Infrastructure,-47.2,low_volume,7,finnhub
+CHMG,1,5.0,4.09,A,9,Banks - Regional,-1.6,neutral,6,finnhub
+CHNR,3,5.0,4.12,C,9,,,neutral,0,simulated
+CHOW,3,5.0,4.12,C,9,,,neutral,0,simulated
+CHPT,2,5.0,4.08,C,9,,,neutral,0,simulated
+CHR,2,5.0,4.08,C,9,,,neutral,0,simulated
+CHRD,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CHRW,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CHSCM,3,5.0,4.12,C,9,,,neutral,0,polygon
+CHSCN,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CHSCO,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CHTR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CHWY,1,5.99,10.0,A,9,Internet Retail,-55.6,neutral,7,finnhub
+CI,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CICB,3,5.08,4.59,B,9,,0.0,neutral,4,simulated
+CIEN,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CIFR,1,5.19,5.25,A,3,Information Technology Services,0.0,neutral,7,finnhub
+CIM,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CINF,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CING,1,5.57,7.56,A,9,Biotechnology,-58.9,low_volume,6,finnhub
+CINT,2,5.0,4.08,C,9,,,neutral,0,simulated
+CISS,1,5.51,7.19,A,9,Marine Shipping,-99.6,low_volume,8,finnhub
+CJMB,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CKX,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CL,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CLAR,3,5.0,4.12,C,9,,,neutral,0,polygon
+CLB,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CLBK,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CLBR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CLBT,3,5.36,6.24,A,4,Software - Infrastructure,-34.3,low_volume,8,finnhub
+CLDI,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CLDX,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CLF,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CLH,3,5.23,5.47,B,9,Waste Management,-7.8,neutral,6,simulated
+CLMT,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CLNE,3,5.0,4.12,C,9,,,neutral,0,simulated
+CLOV,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CLRB,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CLS,3,5.0,4.12,C,9,,,neutral,0,simulated
+CLSK,1,5.51,7.19,A,3,Capital Markets,-23.2,neutral,7,finnhub
+CLST,1,4.84,3.12,A,9,Banks - Regional,-6.1,neutral,6,finnhub
+CLW,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CLYM,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CM,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CMA,1,5.0,4.09,C,9,,,neutral,0,simulated
+CMBT,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CME,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CMG,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CMI,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CMIIW,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CMMB,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CMND,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CMPR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CMPX,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CMRC,3,6.47,10.0,A,5,Software - Application,-50.7,low_volume,8,polygon
+CMS,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CMSA,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CMSC,3,5.0,4.12,C,9,,,neutral,0,simulated
+CMTG,3,5.01,4.18,B,9,REIT - Mortgage,-28.4,neutral,5,simulated
+CMTL,3,5.0,4.12,C,9,,,neutral,0,simulated
+CNA,3,5.0,4.12,C,9,,,neutral,0,polygon
+CNC,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CNCK,1,5.82,9.08,A,8,Capital Markets,-77.3,low_volume,7,finnhub
+CNET,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CNEY,1,6.07,10.0,A,9,Specialty Chemicals,-70.1,low_volume,7,finnhub
+CNI,1,5.31,5.98,A,9,Railroads,-2.7,neutral,6,finnhub
+CNL,3,5.0,4.12,C,9,,,neutral,0,simulated
+CNM,1,6.14,10.0,A,9,Industrial Distribution,-28.1,dark_pool_buying,7,finnhub
+CNNE,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CNO,1,4.58,1.53,A,9,Insurance - Life,0.0,low_volume,5,finnhub
+CNOBP,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CNP,1,5.56,7.5,A,1,Utilities - Regulated Electric,-1.0,neutral,6,finnhub
+CNQ,3,5.0,4.12,C,9,,,neutral,0,simulated
+CNTB,1,5.57,7.56,A,9,Biotechnology,-46.7,neutral,5,finnhub
+CNTN,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CNVS,1,5.4,6.53,A,9,Entertainment,-57.6,elevated_volume,8,finnhub
+CNX,3,5.0,4.12,C,9,,,neutral,0,simulated
+CNXN,1,5.0,4.09,C,9,,,neutral,0,finnhub
+COCH,3,5.61,7.72,A,9,Medical Devices,-62.3,low_volume,8,finnhub
+CODI,1,5.0,4.09,C,9,,,neutral,0,finnhub
+COF,1,5.7,8.35,A,3,Credit Services,-23.1,neutral,6,finnhub
+COHN,3,6.47,10.0,A,8,Capital Markets,-58.6,low_volume,8,polygon
+COHR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+COHU,1,5.41,6.59,C,2,,,neutral,0,finnhub
+COIN,1,5.35,6.22,C,8,,,neutral,0,finnhub
+COLA,2,5.0,4.08,C,9,,,neutral,0,simulated
+COLM,3,5.0,4.12,C,9,,,neutral,0,finnhub
+COMM,1,5.23,5.49,C,9,,,neutral,0,simulated
+COMP,1,5.34,6.16,A,9,Real Estate Services,-30.3,neutral,7,finnhub
+CON,1,5.0,4.09,C,9,,,neutral,0,finnhub
+COO,1,5.0,4.09,C,9,,,neutral,0,finnhub
+COOK,3,5.0,4.12,C,9,,,neutral,0,finnhub
+COOTW,3,5.0,4.12,C,9,,,neutral,0,polygon
+COP,1,5.0,4.09,C,9,,,neutral,0,finnhub
+COR,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CORT,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CORZ,1,5.35,6.22,C,3,,,neutral,0,finnhub
+COSM,1,6.12,10.0,A,9,Medical Distribution,-81.6,elevated_volume,8,finnhub
+COST,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CPA,1,5.0,4.09,A,9,Airlines,-3.9,neutral,7,finnhub
+CPAC,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CPBI,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CPF,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CPHI,3,5.59,7.6,A,9,Drug Manufacturers - Specialty & Generic,-60.8,low_volume,8,polygon
+CPRI,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CPRT,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CPSH,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CPSS,3,5.44,6.71,A,3,Credit Services,-6.3,low_volume,7,polygon
+CPT,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CR,3,5.0,4.12,C,9,,,neutral,0,simulated
+CRACW,3,4.9,3.53,C,9,,0.0,neutral,3,finnhub
+CRAQR,1,5.0,4.09,C,9,,,neutral,1,finnhub
+CRBG,3,5.0,4.12,C,9,,,neutral,0,simulated
+CRBP,3,5.42,6.59,B,9,Biotechnology,-58.2,low_volume,6,simulated
+CRC,3,5.26,5.65,B,1,Oil & Gas E&P,-19.4,low_volume,8,simulated
+CRDL,3,5.0,4.12,C,9,,,neutral,0,polygon
+CRDO,3,5.91,9.48,A,2,Semiconductors,-6.4,neutral,7,polygon
+CRF,1,6.16,10.0,A,9,Asset Management,-4.9,neutral,6,finnhub
+CRGOW,1,6.89,10.0,A,9,,-73.9,dark_pool_buying,6,finnhub
+CRL,3,5.0,4.12,C,9,,,neutral,0,polygon
+CRM,1,6.05,10.0,A,5,Software - Application,-40.0,neutral,7,finnhub
+CRML,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CRMLW,3,5.0,4.12,C,9,,,neutral,0,polygon
+CRMT,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CRS,3,5.0,4.12,C,9,,,neutral,0,simulated
+CRSP,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CRSR,3,5.42,6.59,A,3,Computer Hardware,-29.2,low_volume,7,finnhub
+CRUS,3,5.0,4.12,C,9,,,neutral,0,simulated
+CRWD,1,5.41,6.59,C,7,,,neutral,0,finnhub
+CRWV,1,5.41,6.59,C,5,,,neutral,0,finnhub
+CSAI,3,6.75,10.0,A,4,Software - Infrastructure,-83.7,low_volume,8,finnhub
+CSCO,1,5.35,6.22,C,3,,,neutral,0,finnhub
+CSGP,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CSIQ,1,6.03,10.0,A,1,Solar,-50.1,neutral,7,finnhub
+CSPI,1,6.23,10.0,A,3,Information Technology Services,-38.0,elevated_volume,8,finnhub
+CSQ,3,5.08,4.59,B,9,Asset Management,-0.4,neutral,5,simulated
+CSR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CSTL,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CSV,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CTAA,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CTAAR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CTAS,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CTBI,1,4.75,2.57,A,9,Banks - Regional,-2.3,neutral,6,finnhub
+CTDD,3,4.8,2.94,B,9,,-3.6,low_volume,5,simulated
+CTEV,1,5.32,6.04,A,9,Health Information Services,-58.4,low_volume,8,finnhub
+CTKB,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CTM,3,5.0,4.12,C,9,,,neutral,0,simulated
+CTOS,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CTRS,1,5.0,4.09,C,9,,,neutral,0,simulated
+CTS,3,5.62,7.77,B,2,Electronic Components,-2.5,neutral,7,simulated
+CTSH,1,6.1,10.0,A,3,Information Technology Services,-40.6,neutral,7,finnhub
+CTW,2,5.0,4.08,C,9,,,neutral,0,simulated
+CUBB,1,5.31,5.98,B,9,,-6.3,neutral,4,finnhub
+CUBE,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CUPR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CURR,2,5.42,6.68,B,5,Software - Application,-34.5,neutral,7,simulated
+CUZ,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CVBF,3,5.0,4.12,C,9,,,neutral,0,simulated
+CVCO,3,5.0,4.12,C,9,,,neutral,0,polygon
+CVEO,3,5.0,4.12,C,9,,,neutral,0,finnhub
+CVLT,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CVNA,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CVR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CVRX,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CVS,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CVU,3,4.92,3.65,A,9,Aerospace & Defense,-8.2,neutral,7,finnhub
+CVX,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CW,3,5.0,4.12,C,9,,,neutral,0,simulated
+CX,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CXAI,2,5.95,9.96,B,5,Software - Application,-82.0,low_volume,7,simulated
+CXAIW,3,6.26,10.0,B,9,,-19.6,dark_pool_buying,6,simulated
+CXE,3,5.0,4.12,C,9,,,neutral,0,simulated
+CXH,3,5.0,4.12,C,9,,,neutral,0,simulated
+CXM,1,5.98,10.0,A,5,Software - Application,-43.5,neutral,6,finnhub
+CYCU,3,5.91,9.48,A,3,Information Technology Services,-95.0,low_volume,8,finnhub
+CYCUW,1,6.09,10.0,A,9,,-20.8,dark_pool_buying,7,finnhub
+CYTK,1,5.0,4.09,C,9,,,neutral,0,finnhub
+CZFS,1,5.19,5.25,A,9,Banks - Regional,0.0,elevated_volume,7,finnhub
+CZR,1,4.41,0.5,A,9,Resorts & Casinos,-6.6,low_volume,7,finnhub
+D,1,5.63,7.92,A,1,Utilities - Regulated Electric,0.0,neutral,7,finnhub
+DAR,1,5.13,4.88,A,9,Packaged Foods,-14.4,low_volume,8,finnhub
+DASH,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DASTY,3,5.0,4.12,C,9,,,neutral,0,simulated
+DAVA,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DAVEW,3,5.0,4.12,C,9,,,neutral,0,simulated
+DB,3,5.0,4.12,B,9,Banks - Regional,-9.9,neutral,5,simulated
+DBL,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DBRG,3,5.2,5.3,A,9,Asset Management,0.0,low_volume,8,finnhub
+DBVT,3,5.0,4.12,C,9,,,neutral,0,finnhub
+DCGO,3,5.0,4.12,C,9,,,neutral,0,polygon
+DCI,1,5.25,5.61,A,9,Specialty Industrial Machinery,-20.8,low_volume,8,finnhub
+DCO,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DCOM,3,5.0,4.12,C,9,,,neutral,0,simulated
+DCOY,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DCTH,1,5.57,7.56,A,9,Medical Devices,-24.0,neutral,7,finnhub
+DCX,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DD,3,5.23,5.47,B,9,Specialty Chemicals,-5.2,neutral,6,simulated
+DDC,1,5.84,9.2,A,9,Packaged Foods,-94.7,neutral,7,finnhub
+DDD,3,5.0,4.12,C,9,,,neutral,0,simulated
+DDOG,1,5.35,6.22,C,4,,,neutral,0,finnhub
+DDS,1,5.19,5.25,A,9,Department Stores,-19.7,low_volume,7,finnhub
+DE,1,4.51,1.11,A,9,Farm & Heavy Construction Machinery,-11.6,low_volume,8,finnhub
+DEA,3,5.0,4.12,C,9,,,neutral,0,finnhub
+DECK,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DEI,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DELL,1,5.35,6.22,C,3,,,neutral,0,finnhub
+DERM,3,5.53,7.24,B,9,Drug Manufacturers - Specialty & Generic,-33.1,low_volume,8,simulated
+DEVS,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DFDVW,1,5.99,10.0,A,9,,-92.3,neutral,6,finnhub
+DFNS,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DFP,3,5.31,5.95,B,9,Asset Management,-4.8,neutral,5,simulated
+DG,1,5.08,4.58,A,9,Discount Stores,-26.1,low_volume,7,finnhub
+DGII,1,5.78,8.84,A,3,Communication Equipment,-1.9,low_volume,7,finnhub
+DGX,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DGXX,1,5.31,5.98,A,1,Utilities - Independent Power Producers,-17.7,low_volume,8,finnhub
+DHF,3,5.0,4.12,C,9,,,neutral,0,simulated
+DHI,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DHR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DINO,1,5.56,7.5,A,1,Oil & Gas Refining & Marketing,-9.9,neutral,7,finnhub
+DIOD,3,5.24,5.53,B,2,Semiconductors,-2.8,low_volume,8,simulated
+DIS,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DJCO,2,5.0,4.08,C,9,,,neutral,0,simulated
+DLHC,1,4.75,2.57,A,9,Specialty Business Services,-16.0,low_volume,8,finnhub
+DLR,1,5.81,9.02,A,3,REIT - Specialty,-6.8,neutral,7,finnhub
+DLTEY,3,5.0,4.12,C,9,,,neutral,0,simulated
+DLTR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DLXY,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DLY,3,5.0,4.12,C,9,,,neutral,0,polygon
+DMAA,3,5.0,4.12,C,9,,,neutral,0,finnhub
+DMAAR,1,5.0,4.09,C,9,,,neutral,0,finnhub
+DMAAU,3,5.0,4.12,C,9,,,neutral,0,finnhub
+DMII,1,5.0,4.09,C,9,,,neutral,0,simulated
+DMIIR,1,5.0,4.09,C,9,,,neutral,0,simulated
+DMO,1,5.0,4.09,C,9,,,neutral,0,simulated
+DMRA,2,5.78,8.91,B,9,Biotechnology,-40.7,neutral,5,simulated
+DMRC,1,5.0,4.09,C,9,,,neutral,0,simulated
+DNA,1,5.0,4.09,C,9,,,neutral,0,simulated
+DNLI,1,5.0,4.09,C,9,,,neutral,0,simulated
+DNN,1,5.35,6.22,C,1,,,neutral,0,simulated
+DNPLY,3,5.0,4.12,C,9,,,neutral,0,simulated
+DNUT,3,5.0,4.12,C,9,,,neutral,0,finnhub
+DOC,1,4.91,3.54,B,9,REIT - Healthcare Facilities,-2.4,low_volume,8,simulated
+DOCN,1,5.35,6.22,C,4,,,neutral,0,simulated
+DOCU,1,5.0,4.09,C,9,,,neutral,0,simulated
+DOLE,1,5.0,4.09,C,9,,,neutral,0,simulated
+DOO,1,5.0,4.09,C,9,,,neutral,0,simulated
+DORM,3,5.0,4.12,C,9,,,neutral,0,simulated
+DOV,1,5.31,5.98,B,9,Specialty Industrial Machinery,-3.4,neutral,7,simulated
+DOW,1,5.04,4.33,B,9,Chemicals,-21.5,neutral,7,simulated
+DPG,3,5.0,4.12,C,9,,,neutral,0,finnhub
+DPRO,1,5.73,8.53,B,3,Computer Hardware,-58.2,low_volume,8,simulated
+DPZ,1,5.0,4.09,C,9,,,neutral,0,simulated
+DQ,1,5.0,4.09,C,9,,,neutral,0,simulated
+DRAM,1,4.98,3.97,B,9,,0.0,neutral,4,simulated
+DRDB,3,5.0,4.12,C,9,,,neutral,0,polygon
+DRI,2,5.0,4.08,C,9,,,neutral,0,simulated
+DRVN,3,5.53,7.24,A,9,Auto & Truck Dealerships,-30.8,neutral,7,finnhub
+DSAC,1,5.0,4.09,C,9,,,neutral,0,simulated
+DSACU,3,5.18,5.18,A,9,Shell Companies,-1.9,elevated_volume,5,polygon
+DSCSY,3,5.0,4.12,C,9,,,neutral,0,simulated
+DSGR,2,5.0,4.08,C,9,,,neutral,0,simulated
+DSL,1,5.0,4.09,C,9,,,neutral,0,simulated
+DSP,2,5.0,4.08,C,9,,,neutral,0,simulated
+DSX,3,5.0,4.12,C,9,,,neutral,0,finnhub
+DSYWW,1,5.0,4.09,C,9,,,neutral,0,simulated
+DT,3,5.35,6.18,C,4,,,neutral,0,simulated
+DTCRF,3,5.0,4.12,C,9,,,neutral,0,simulated
+DTE,1,5.0,4.09,C,9,,,neutral,0,simulated
+DTK,3,5.0,4.12,C,9,,,neutral,0,polygon
+DTSS,1,6.64,10.0,B,4,Software - Infrastructure,-65.3,dark_pool_buying,8,simulated
+DTW,1,5.31,5.98,B,9,,-5.1,neutral,4,simulated
+DUK,1,5.35,6.22,C,1,,,neutral,0,simulated
+DUO,3,5.61,7.72,A,9,Real Estate Services,-83.7,low_volume,8,polygon
+DUOL,2,5.35,6.25,C,6,,,neutral,0,simulated
+DV,1,5.0,4.09,C,9,,,neutral,0,simulated
+DVA,1,5.0,4.09,C,9,,,neutral,0,simulated
+DVN,1,5.0,4.09,C,9,,,neutral,0,simulated
+DXC,2,5.0,4.08,C,9,,,neutral,0,simulated
+DXCM,1,5.0,4.09,C,9,,,neutral,0,simulated
+DY,3,5.0,4.12,C,9,,,neutral,0,simulated
+DYN,1,5.0,4.09,C,9,,,neutral,0,simulated
+DYNCW,3,5.0,4.12,C,9,,,neutral,0,polygon
+E,1,5.0,4.09,C,9,,,neutral,0,simulated
+EA,1,5.0,4.09,C,9,,,neutral,0,simulated
+EAD,1,5.0,4.09,C,9,,,neutral,0,simulated
+EARN,3,5.0,4.12,C,9,,,neutral,0,polygon
+EAT,1,5.38,6.4,B,9,Restaurants,-16.1,neutral,6,simulated
+EBAY,1,5.0,4.09,C,9,,,neutral,0,simulated
+EBMT,1,4.84,3.12,B,9,Banks - Regional,-0.7,neutral,6,simulated
+EC,3,5.42,6.59,B,1,Oil & Gas Integrated,-5.7,neutral,7,simulated
+ECAT,3,5.0,4.12,C,9,,,neutral,0,simulated
+ECBK,1,5.0,4.09,C,9,,,neutral,0,simulated
+ECCC,1,4.84,3.12,B,9,Asset Management,-0.6,low_volume,7,simulated
+ECCV,1,5.31,5.98,B,9,,-1.1,neutral,4,simulated
+ECCX,3,5.0,4.12,C,9,,,neutral,0,polygon
+ECG,1,5.0,4.09,C,9,,,neutral,0,simulated
+ECL,1,5.31,5.98,B,9,Specialty Chemicals,-10.9,neutral,7,simulated
+ECO,3,5.0,4.12,C,9,,,neutral,0,simulated
+ECX,1,5.0,4.09,C,9,,,neutral,0,simulated
+ED,1,5.0,4.09,C,9,,,neutral,0,simulated
+EDBLW,1,5.0,4.09,C,9,,,neutral,0,simulated
+EDD,1,5.0,4.09,C,9,,,neutral,0,simulated
+EDF,1,5.0,4.09,C,9,,,neutral,0,simulated
+EDIT,1,5.0,4.09,C,9,,,neutral,0,simulated
+EDN,3,5.0,4.12,C,9,,,neutral,0,simulated
+EDRY,1,5.0,4.09,C,9,,,neutral,0,simulated
+EEIQ,1,5.0,4.09,C,9,,,neutral,0,simulated
+EFSC,1,5.0,4.09,C,9,,,neutral,0,simulated
+EFSI,3,5.0,4.12,C,9,,,neutral,0,simulated
+EFT,1,5.0,4.09,C,9,,,neutral,0,simulated
+EFX,1,5.0,4.09,C,9,,,neutral,0,simulated
+EGBN,3,5.0,4.12,C,9,,,neutral,0,finnhub
+EGY,1,5.0,4.09,C,9,,,neutral,0,simulated
+EHGO,1,6.33,10.0,B,9,Business Equipment & Supplies,-90.8,dark_pool_buying,8,simulated
+EHLD,1,5.0,4.09,C,9,,,neutral,0,simulated
+EIIA,2,5.0,4.08,C,9,,,neutral,0,simulated
+EIKN,1,5.0,4.09,C,9,,,neutral,0,simulated
+EIM,1,5.0,4.09,C,9,,,neutral,0,simulated
+EIX,1,5.0,4.09,C,9,,,neutral,0,simulated
+EKSO,1,4.58,1.53,B,9,Medical Instruments & Supplies,-10.0,neutral,7,simulated
+EL,1,5.0,4.09,C,9,,,neutral,0,simulated
+ELAB,1,5.0,4.09,C,9,,,neutral,0,simulated
+ELAN,1,5.0,4.09,C,9,,,neutral,0,simulated
+ELBM,3,5.0,4.12,C,9,,,neutral,0,simulated
+ELC,1,5.31,5.98,B,9,,-4.2,neutral,4,simulated
+ELDN,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ELLO,1,5.0,4.09,C,9,,,neutral,0,simulated
+ELMD,1,5.0,4.09,C,9,,,neutral,0,simulated
+ELME,1,5.0,4.09,C,9,,,neutral,0,simulated
+ELTK,1,5.35,6.22,B,2,Electronic Components,-20.5,low_volume,8,simulated
+ELTX,1,5.0,4.09,C,9,,,neutral,0,simulated
+ELUT,1,5.0,4.09,C,9,,,neutral,0,simulated
+ELV,1,5.0,4.09,C,9,,,neutral,0,simulated
+EMA,3,5.0,4.12,C,9,,,neutral,0,simulated
+EMBC,1,5.36,6.28,B,9,Medical Instruments & Supplies,-79.2,low_volume,8,simulated
+EMBJ,3,5.09,4.65,B,9,Aerospace & Defense,-24.5,low_volume,8,simulated
+EME,3,5.0,4.12,C,9,,,neutral,0,simulated
+EMF,1,5.0,4.09,C,9,,,neutral,0,simulated
+EMN,1,5.0,4.09,B,9,Specialty Chemicals,-8.5,neutral,6,simulated
+EMO,3,5.22,5.42,A,9,Asset Management,-8.1,low_volume,6,finnhub
+EMPD,3,5.84,9.07,A,9,Auto Manufacturers,-82.0,low_volume,8,finnhub
+EMR,1,5.35,6.22,C,3,,,neutral,0,simulated
+ENB,1,5.0,4.09,C,9,,,neutral,0,simulated
+ENJ,1,5.0,4.09,C,9,,,neutral,0,simulated
+ENOV,1,5.96,9.93,B,9,Medical Devices,-40.6,neutral,7,simulated
+ENPH,1,5.35,6.22,C,1,,,neutral,0,simulated
+ENR,1,5.0,4.09,C,9,,,neutral,0,simulated
+ENTG,1,5.41,6.59,C,2,,,neutral,0,simulated
+ENVA,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ENVB,1,6.89,10.0,B,9,Biotechnology,-92.0,dark_pool_buying,6,simulated
+ENVX,1,5.0,4.09,C,9,,,neutral,0,simulated
+EOG,1,5.0,4.09,C,9,,,neutral,0,simulated
+EONR,3,6.03,10.0,B,1,Oil & Gas E&P,-67.8,elevated_volume,8,simulated
+EOT,3,5.0,4.12,C,9,,,neutral,0,simulated
+EPAM,1,5.0,4.09,C,9,,,neutral,0,simulated
+EPC,3,4.74,2.58,A,9,Household & Personal Products,-13.9,neutral,6,polygon
+EPD,1,5.41,6.59,B,1,Oil & Gas Midstream,-9.4,low_volume,8,simulated
+EPM,3,5.0,4.12,C,9,,,neutral,0,finnhub
+EPRX,1,5.0,4.09,C,9,,,neutral,0,simulated
+EPSM,1,5.0,4.09,C,9,,,neutral,0,simulated
+EQ,1,5.0,4.09,C,9,,,neutral,0,simulated
+EQIX,1,5.73,8.53,B,3,REIT - Specialty,-1.0,neutral,7,simulated
+EQPT,3,5.0,4.12,C,9,,,neutral,0,simulated
+EQR,1,5.0,4.09,C,9,,,neutral,0,simulated
+EQS,3,5.53,7.24,B,9,Asset Management,-51.8,neutral,6,simulated
+EQT,1,6.03,10.0,B,1,Oil & Gas E&P,-24.4,neutral,7,simulated
+ERAS,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ERC,3,5.0,4.12,C,9,,,neutral,0,polygon
+ERH,1,4.84,3.12,B,9,Asset Management,-6.2,low_volume,7,simulated
+ERIC,1,5.0,4.09,C,9,,,neutral,0,simulated
+ERII,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ERO,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ES,1,5.0,4.09,C,9,,,neutral,0,simulated
+ESAB,3,5.63,7.83,A,9,Metal Fabrication,-23.6,elevated_volume,8,polygon
+ESEA,1,5.0,4.09,C,9,,,neutral,0,simulated
+ESLAW,1,5.0,4.09,C,9,Biotechnology,,neutral,1,simulated
+ESQ,1,5.0,4.09,C,9,,,neutral,0,simulated
+ESS,1,5.0,4.09,C,9,,,neutral,0,simulated
+ESTC,1,5.35,6.22,C,4,,,neutral,0,simulated
+ET,1,5.0,4.09,C,9,,,neutral,0,simulated
+ETD,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ETJ,1,5.0,4.09,C,9,,,neutral,0,simulated
+ETN,1,5.35,6.22,C,3,,,neutral,0,simulated
+ETOR,1,5.0,4.09,C,9,,,neutral,0,simulated
+ETR,1,5.34,6.16,B,1,Utilities - Regulated Electric,-4.3,low_volume,8,simulated
+ETSY,1,5.0,4.09,C,9,,,neutral,0,simulated
+ETV,1,5.06,4.46,B,9,Asset Management,0.0,low_volume,7,simulated
+ETW,1,5.0,4.09,C,9,,,neutral,0,simulated
+EU,3,5.35,6.18,C,1,,,neutral,0,simulated
+EUDA,1,5.0,4.09,C,9,,,neutral,0,simulated
+EUDAW,1,5.0,4.09,C,9,,,neutral,0,simulated
+EURKR,3,5.0,4.12,C,9,,,neutral,0,finnhub
+EVAC,1,5.31,5.98,B,9,Shell Companies,-0.1,neutral,4,simulated
+EVEX,1,5.0,4.09,C,9,,,neutral,0,simulated
+EVG,3,4.84,3.17,A,9,Asset Management,-1.1,low_volume,7,finnhub
+EVGN,1,5.0,4.09,C,9,,,neutral,0,simulated
+EVGO,1,5.0,4.09,C,9,,,neutral,0,simulated
+EVH,1,5.0,4.09,C,9,,,neutral,0,simulated
+EVN,3,5.0,4.12,C,9,,,neutral,0,polygon
+EVOXU,1,5.0,4.09,C,9,,,neutral,0,simulated
+EVR,1,5.0,4.09,C,9,,,neutral,0,simulated
+EVRG,1,5.0,4.09,C,9,,,neutral,0,simulated
+EVTC,3,5.0,4.12,C,9,,,neutral,0,simulated
+EVTL,1,5.0,4.09,C,9,,,neutral,0,simulated
+EWBC,1,5.0,4.09,B,9,Banks - Regional,-1.3,neutral,6,simulated
+EWCZ,3,5.0,4.12,C,9,,,neutral,0,finnhub
+EXC,1,5.35,6.22,C,1,,,neutral,0,simulated
+EXEL,1,5.19,5.25,B,9,Biotechnology,-1.9,low_volume,8,simulated
+EXK,1,5.32,6.04,B,9,Silver,-34.9,neutral,7,simulated
+EXPD,1,5.0,4.09,C,9,,,neutral,0,simulated
+EXPE,1,5.0,4.09,C,9,,,neutral,0,simulated
+EXPI,1,6.46,10.0,B,9,Real Estate Services,-60.1,neutral,7,simulated
+EXPO,1,5.19,5.25,B,9,Engineering & Construction,-27.5,neutral,5,simulated
+EXR,1,5.0,4.09,C,9,,,neutral,0,simulated
+EXTR,1,5.26,5.67,B,3,Communication Equipment,0.0,neutral,7,simulated
+EYPT,3,6.0,10.0,A,9,Biotechnology,-33.5,neutral,7,polygon
+EZGO,1,5.0,4.09,C,9,,,neutral,0,simulated
+EZPW,1,5.0,4.09,C,9,,,neutral,0,simulated
+EZRA,1,5.0,4.09,C,9,,,neutral,0,simulated
+F,1,5.0,4.09,C,9,,,neutral,0,simulated
+FA,3,5.0,4.12,C,9,,,neutral,0,simulated
+FACT,1,5.0,4.09,C,9,,,neutral,0,simulated
+FAMI,1,5.51,7.19,B,9,Packaged Foods,-37.4,elevated_volume,8,simulated
+FANG,1,5.35,6.22,B,1,Oil & Gas E&P,-12.1,neutral,6,simulated
+FAST,1,5.0,4.09,C,9,,,neutral,0,simulated
+FAX,1,4.93,3.66,B,9,Asset Management,-6.8,neutral,6,simulated
+FBGL,1,6.22,10.0,B,9,Engineering & Construction,-60.1,neutral,7,simulated
+FBIZ,1,5.0,4.09,B,9,Banks - Regional,-1.2,neutral,6,simulated
+FCBC,1,5.0,4.09,C,9,,,neutral,0,simulated
+FCCO,1,5.0,4.09,C,9,,,neutral,0,simulated
+FCEL,1,5.08,4.58,B,9,Electrical Equipment & Parts,-25.9,low_volume,7,simulated
+FCHL,1,5.51,7.19,B,9,Education & Training Services,-100.0,low_volume,7,simulated
+FCNCA,1,5.28,5.79,B,9,Banks - Regional,-6.0,neutral,5,simulated
+FCNCN,1,6.03,10.0,B,9,,-0.6,dark_pool_buying,5,simulated
+FCNCO,1,5.0,4.09,C,9,,,neutral,0,simulated
+FCNCP,1,5.0,4.09,C,9,,,neutral,0,simulated
+FCPT,1,5.0,4.09,C,9,,,neutral,0,simulated
+FCRS,1,5.0,4.09,C,9,,,neutral,0,simulated
+FCUUF,3,5.23,5.47,C,9,,,neutral,0,simulated
+FCUV,3,5.36,6.24,B,9,Scientific & Technical Instruments,-98.5,low_volume,7,simulated
+FCX,1,5.0,4.09,B,9,Copper,-1.9,neutral,7,simulated
+FDBC,1,5.0,4.09,C,9,,,neutral,0,simulated
+FDMT,1,5.0,4.09,C,9,,,neutral,0,simulated
+FDUS,3,5.0,4.12,C,9,,,neutral,0,finnhub
+FDX,1,5.0,4.09,C,9,,,neutral,0,simulated
+FE,1,5.0,4.09,C,9,,,neutral,0,simulated
+FEAM,1,5.51,7.19,B,9,Specialty Chemicals,-75.8,low_volume,6,simulated
+FEDU,3,5.0,4.12,C,9,,,neutral,0,polygon
+FEED,3,5.36,6.24,A,9,Medical Devices,-93.3,low_volume,8,polygon
+FEIM,3,5.0,4.12,C,9,,,neutral,0,finnhub
+FELE,1,5.0,4.09,C,9,,,neutral,0,simulated
+FER,1,5.31,5.98,B,9,Engineering & Construction,-5.8,neutral,7,simulated
+FET,3,5.0,4.12,C,9,,,neutral,0,finnhub
+FF,1,5.0,4.09,C,9,,,neutral,0,simulated
+FFAIW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+FFC,1,5.0,4.09,C,9,,,neutral,0,simulated
+FFIC,3,5.72,8.36,A,9,Banks - Regional,-9.4,dark_pool_buying,6,polygon
+FFIN,1,5.0,4.09,C,9,,,neutral,0,simulated
+FFIV,1,5.0,4.09,C,9,,,neutral,0,simulated
+FGBIP,1,5.0,4.09,C,9,,,neutral,0,simulated
+FGII,2,5.22,5.45,B,9,Shell Companies,-0.1,low_volume,6,simulated
+FGIWW,1,5.0,4.09,C,9,,,neutral,0,simulated
+FGMCR,1,5.23,5.49,C,9,,,neutral,1,simulated
+FGN,1,5.0,4.09,C,9,,,neutral,0,simulated
+FGNXP,1,5.28,5.79,B,9,Asset Management,-1.6,elevated_volume,7,simulated
+FGSN,3,5.22,5.42,A,9,,-8.0,low_volume,5,polygon
+FHI,1,5.0,4.09,C,9,,,neutral,0,simulated
+FHTX,1,5.0,4.09,C,9,,,neutral,0,simulated
+FICO,1,5.0,4.09,C,9,,,neutral,0,simulated
+FIGR,1,5.0,4.09,C,9,,,neutral,0,simulated
+FIGX,1,6.03,10.0,B,9,Shell Companies,-0.1,dark_pool_buying,6,simulated
+FINW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+FIS,1,5.35,6.22,C,8,,,neutral,0,simulated
+FISV,1,5.35,6.22,C,8,,,neutral,0,simulated
+FITB,1,4.91,3.54,B,9,Banks - Regional,-2.3,neutral,6,simulated
+FITBI,1,5.0,4.09,C,9,,,neutral,0,simulated
+FITBM,1,5.0,4.09,C,9,,,neutral,0,simulated
+FITBO,3,5.0,4.12,C,9,,,neutral,0,simulated
+FIVE,1,5.0,4.09,C,9,,,neutral,0,simulated
+FIX,3,5.0,4.12,C,9,,,neutral,0,simulated
+FLEX,3,5.0,4.12,C,9,,,neutral,0,simulated
+FLG,1,5.0,4.09,C,9,,,neutral,0,simulated
+FLNG,3,5.0,4.12,C,9,,,neutral,0,simulated
+FLNT,1,5.3,5.92,B,9,Advertising Agencies,-33.6,elevated_volume,8,simulated
+FLR,1,5.0,4.09,C,9,,,neutral,0,simulated
+FLS,1,5.0,4.09,C,9,,,neutral,0,simulated
+FLUX,3,5.0,4.12,C,9,,,neutral,0,polygon
+FLWS,1,5.0,4.09,C,9,,,neutral,0,simulated
+FMACU,3,5.0,4.12,C,9,,,neutral,0,simulated
+FMAO,1,5.0,4.09,B,9,Banks - Regional,-2.4,neutral,6,simulated
+FMC,1,5.0,4.09,C,9,,,neutral,0,simulated
+FMST,1,5.0,4.09,C,9,,,neutral,0,simulated
+FMX,2,5.0,4.08,C,9,,,neutral,0,simulated
+FMY,3,5.0,4.12,C,9,,,neutral,0,finnhub
+FN,3,5.33,6.06,B,2,Electronic Components,-18.9,neutral,7,simulated
+FNB,3,5.0,4.12,C,9,,,neutral,0,finnhub
+FNF,1,5.0,4.09,C,9,,,neutral,0,simulated
+FNKO,3,5.0,4.12,C,9,,,neutral,0,polygon
+FNUC,1,5.0,4.09,C,9,,,neutral,0,simulated
+FNV,3,5.0,4.12,C,9,,,neutral,0,simulated
+FNWB,3,5.0,4.12,C,9,,,neutral,0,finnhub
+FONR,1,5.31,5.98,B,9,Diagnostics & Research,-0.1,dark_pool_buying,7,simulated
+FORA,3,5.0,4.12,C,9,,,neutral,0,simulated
+FORM,1,5.41,6.59,C,2,,,neutral,0,simulated
+FOSL,3,5.17,5.12,A,9,Footwear & Accessories,-20.4,neutral,6,finnhub
+FOXA,1,5.0,4.09,C,9,,,neutral,0,simulated
+FOXF,1,5.0,4.09,C,9,,,neutral,0,simulated
+FPI,1,6.05,10.0,B,9,REIT - Specialty,-24.6,neutral,6,simulated
+FRA,1,5.08,4.58,B,9,Asset Management,-9.9,neutral,5,simulated
+FRME,1,5.0,4.09,C,9,,,neutral,0,simulated
+FRMI,1,5.89,9.51,B,9,REIT - Specialty,-77.4,elevated_volume,6,simulated
+FROG,3,5.27,5.71,B,6,Software - Application,-9.8,neutral,7,simulated
+FRPT,1,5.0,4.09,C,9,,,neutral,0,simulated
+FRST,3,5.0,4.12,C,9,,,neutral,0,finnhub
+FSBC,1,5.0,4.09,C,9,,,neutral,0,simulated
+FSHP,3,5.0,4.12,C,9,,,neutral,0,polygon
+FSI,1,5.0,4.09,C,9,,,neutral,0,simulated
+FSLR,1,5.35,6.22,C,1,,,neutral,0,simulated
+FSLY,3,5.0,4.12,C,9,,,neutral,0,simulated
+FSP,1,5.91,9.63,B,9,REIT - Office,-62.8,neutral,6,simulated
+FSS,1,5.38,6.4,B,9,Farm & Heavy Construction Machinery,-12.7,neutral,7,simulated
+FSTR,1,4.66,2.02,B,9,Railroads,0.0,low_volume,8,simulated
+FSV,1,5.0,4.09,C,9,,,neutral,0,simulated
+FT,1,5.0,4.09,C,9,,,neutral,0,simulated
+FTAI,1,5.0,4.09,C,9,,,neutral,0,simulated
+FTAIM,1,5.0,4.09,C,9,,,neutral,0,simulated
+FTAIN,1,5.0,4.09,C,9,,,neutral,0,simulated
+FTCI,1,5.98,10.0,B,1,Solar,-64.2,low_volume,8,simulated
+FTF,3,4.93,3.7,B,9,Asset Management,-2.5,neutral,6,simulated
+FTI,1,5.0,4.09,C,9,,,neutral,0,simulated
+FTLF,1,5.0,4.09,C,9,,,neutral,0,simulated
+FTNT,1,5.41,6.59,C,7,,,neutral,0,simulated
+FTRK,1,5.0,4.09,C,9,,,neutral,0,simulated
+FTS,1,5.0,4.09,C,9,,,neutral,0,simulated
+FTV,1,5.0,4.09,B,9,Scientific & Technical Instruments,-2.7,neutral,7,simulated
+FUJIY,3,5.0,4.12,C,9,,,neutral,0,simulated
+FUL,1,5.23,5.49,B,9,Specialty Chemicals,-4.2,neutral,6,simulated
+FUNC,1,4.87,3.3,B,9,Banks - Regional,0.0,elevated_volume,7,simulated
+FUSEW,3,5.74,8.48,B,9,,-65.3,low_volume,6,simulated
+FUTU,1,5.0,4.09,C,9,,,neutral,0,simulated
+FVR,1,5.0,4.09,C,9,,,neutral,0,simulated
+FVRR,1,5.0,4.09,C,9,,,neutral,0,simulated
+FWRD,1,5.0,4.09,C,9,,,neutral,0,simulated
+FWRG,1,5.0,4.09,C,9,,,neutral,0,simulated
+GAING,1,5.31,5.98,B,9,,-2.2,neutral,4,simulated
+GALT,2,5.99,10.0,B,9,Biotechnology,-61.3,neutral,5,simulated
+GAMB,1,5.68,8.23,B,9,Gambling,-81.0,low_volume,7,simulated
+GAP,3,5.0,4.12,C,9,,,neutral,0,polygon
+GASS,3,5.0,4.12,C,9,,,neutral,0,finnhub
+GATX,1,5.0,4.09,C,9,,,neutral,0,simulated
+GAU,1,5.84,9.2,B,9,Gold,-36.7,neutral,7,simulated
+GAUZ,1,5.0,4.09,C,9,,,neutral,0,simulated
+GBDC,1,4.99,4.03,B,9,Asset Management,-8.5,low_volume,7,simulated
+GBLI,3,5.19,5.24,A,9,Insurance - Property & Casualty,-21.2,neutral,5,polygon
+GBTG,1,5.0,4.09,C,9,,,neutral,0,simulated
+GCBC,2,5.0,4.08,C,9,,,neutral,0,simulated
+GCT,1,5.47,6.95,B,4,Software - Infrastructure,-33.2,neutral,7,simulated
+GCTK,1,5.0,4.09,C,9,,,neutral,0,simulated
+GCTS,1,5.0,4.09,C,9,,,neutral,0,simulated
+GD,1,5.08,4.58,B,9,Aerospace & Defense,-0.7,neutral,7,simulated
+GDC,3,5.0,4.12,C,9,,,neutral,0,finnhub
+GDEV,1,5.0,4.09,C,9,,,neutral,0,simulated
+GDL,3,5.0,4.12,C,9,,,neutral,0,simulated
+GDOT,2,5.0,4.08,C,9,,,neutral,0,simulated
+GDRX,3,5.0,4.12,C,9,,,neutral,0,simulated
+GDS,1,5.0,4.09,C,9,,,neutral,0,simulated
+GDTC,1,5.0,4.09,C,9,,,neutral,0,simulated
+GDV,3,5.0,4.12,C,9,,,neutral,0,simulated
+GDYN,3,5.62,7.77,B,3,Information Technology Services,-48.0,low_volume,7,simulated
+GE,1,4.98,3.97,B,9,Aerospace & Defense,0.0,neutral,7,simulated
+GECC,1,5.32,6.04,B,9,Asset Management,-42.4,neutral,6,simulated
+GECCH,1,5.22,5.43,B,9,,nan,low_volume,5,simulated
+GECCI,1,5.22,5.43,B,9,,nan,low_volume,5,simulated
+GECCO,3,5.0,4.12,C,9,,,neutral,0,finnhub
+GEHC,1,5.0,4.09,C,9,,,neutral,0,simulated
+GEL,1,5.0,4.09,C,9,,,neutral,0,simulated
+GELS,3,5.0,4.12,C,9,,,neutral,0,finnhub
+GEMI,3,5.0,4.12,C,9,,,neutral,0,finnhub
+GEN,1,5.0,4.09,C,9,,,neutral,0,simulated
+GENI,1,5.54,7.38,B,5,Internet Content & Information,-49.4,neutral,7,simulated
+GENK,1,5.0,4.09,C,9,,,neutral,0,simulated
+GENVR,1,5.0,4.09,C,9,,,neutral,0,simulated
+GEO,1,5.0,4.09,C,9,,,neutral,0,simulated
+GEOS,1,6.05,10.0,B,1,Oil & Gas Equipment & Services,-74.4,low_volume,8,simulated
+GETY,1,5.0,4.09,C,9,,,neutral,0,simulated
+GEV,1,5.99,10.0,B,3,Specialty Industrial Machinery,-13.4,elevated_volume,8,simulated
+GEVO,1,5.0,4.09,C,9,,,neutral,0,simulated
+GF,3,5.46,6.83,A,9,Asset Management,-2.1,neutral,6,polygon
+GFAI,1,5.41,6.59,C,5,,,neutral,0,simulated
+GFF,1,5.0,4.09,C,9,,,neutral,0,simulated
+GFL,3,5.0,4.12,C,9,,,neutral,0,simulated
+GFS,1,5.0,4.09,C,9,,,neutral,0,simulated
+GGAL,1,5.0,4.09,C,9,,,neutral,0,simulated
+GGB,3,5.0,4.12,C,9,,,neutral,0,simulated
+GGG,3,5.0,4.12,C,9,,,neutral,0,simulated
+GGR,2,5.0,4.08,C,9,,,neutral,0,simulated
+GGRP,3,5.8,8.84,A,4,Software - Infrastructure,-56.4,low_volume,8,finnhub
+GHM,3,5.0,4.12,C,9,,,neutral,0,simulated
+GIB,3,6.1,10.0,B,3,Information Technology Services,-38.4,neutral,5,simulated
+GIBO,1,5.0,4.09,C,9,,,neutral,0,simulated
+GIGM,3,5.0,4.12,C,9,,,neutral,0,simulated
+GIII,1,4.89,3.42,B,9,Apparel Manufacturing,-1.5,neutral,7,simulated
+GIL,1,6.04,10.0,B,9,Apparel Manufacturing,-30.1,elevated_volume,8,simulated
+GILD,1,5.0,4.09,C,9,,,neutral,0,simulated
+GILT,1,5.0,4.09,C,9,,,neutral,0,simulated
+GIPR,3,5.92,9.54,A,9,REIT - Diversified,-90.3,low_volume,8,polygon
+GIS,1,5.0,4.09,C,9,,,neutral,0,simulated
+GIXXR,1,5.0,4.09,C,9,,,neutral,0,simulated
+GJR,2,5.22,5.45,B,9,,-0.5,low_volume,5,simulated
+GJS,1,5.0,4.09,C,9,,,neutral,0,simulated
+GJT,3,5.0,4.12,C,9,,,neutral,0,finnhub
+GLBE,1,5.0,4.09,C,9,,,neutral,0,simulated
+GLBS,2,4.63,1.8,B,9,Marine Shipping,0.0,elevated_volume,8,simulated
+GLDG,1,5.0,4.09,C,9,,,neutral,0,simulated
+GLIBA,2,5.0,4.08,C,9,,,neutral,0,simulated
+GLIBK,1,5.7,8.35,B,9,Telecom Services,-46.5,neutral,6,simulated
+GLNG,1,5.0,4.09,C,9,,,neutral,0,simulated
+GLOB,3,6.11,10.0,A,3,Information Technology Services,-61.2,low_volume,7,polygon
+GLOO,2,5.0,4.08,C,9,,,neutral,0,simulated
+GLPG,1,5.17,5.13,B,9,Biotechnology,-23.2,neutral,7,simulated
+GLSI,1,5.0,4.09,C,9,,,neutral,0,simulated
+GLU,3,5.0,4.12,C,9,,,neutral,0,simulated
+GLUE,1,5.0,4.09,C,9,,,neutral,0,simulated
+GLW,1,5.0,4.09,C,9,,,neutral,0,simulated
+GLXY,1,5.0,4.09,C,9,,,neutral,0,simulated
+GM,1,5.0,4.09,B,9,Auto Manufacturers,-1.7,neutral,6,simulated
+GMAB,1,5.09,4.64,B,9,Biotechnology,-31.3,low_volume,8,simulated
+GME,1,5.0,4.09,C,9,,,neutral,0,simulated
+GMED,1,5.0,4.09,C,9,,,neutral,0,simulated
+GMM,1,6.47,10.0,B,3,Information Technology Services,-97.6,elevated_volume,8,simulated
+GNLX,1,5.0,4.09,C,9,,,neutral,0,simulated
+GNRC,3,5.0,4.12,C,9,,,neutral,0,polygon
+GNTA,3,5.27,5.71,A,9,Biotechnology,-70.2,low_volume,6,polygon
+GNTX,3,4.97,3.94,A,9,Auto Parts,-9.3,neutral,7,finnhub
+GNW,2,5.0,4.08,C,9,,,neutral,0,simulated
+GO,3,5.56,7.42,A,9,Grocery Stores,-48.9,low_volume,7,finnhub
+GOCO,3,5.0,4.12,C,9,,,neutral,0,simulated
+GOGO,3,6.4,10.0,B,9,Telecom Services,-78.3,neutral,6,simulated
+GOLD,1,6.23,10.0,B,8,Capital Markets,-30.4,low_volume,8,simulated
+GOLF,3,5.0,4.12,C,9,,,neutral,0,simulated
+GOOD,1,5.23,5.49,B,9,REIT - Diversified,-6.4,neutral,7,simulated
+GOOG,1,5.62,7.86,B,5,Internet Content & Information,-6.6,neutral,7,simulated
+GOOGL,1,5.62,7.86,B,5,Internet Content & Information,-6.9,neutral,7,simulated
+GOSS,1,5.0,4.09,C,9,,,neutral,0,simulated
+GOVX,3,5.0,4.12,C,9,,,neutral,0,polygon
+GP,1,5.0,4.09,C,9,,,neutral,0,simulated
+GPC,1,5.01,4.15,B,9,Auto Parts,-27.0,neutral,7,simulated
+GPI,1,5.0,4.09,C,9,,,neutral,0,simulated
+GPJA,3,5.0,4.12,C,9,,,neutral,0,simulated
+GPK,1,5.0,4.09,C,9,,,neutral,0,simulated
+GPMT,1,5.0,4.09,C,9,,,neutral,0,simulated
+GPN,1,5.35,6.22,C,8,,,neutral,0,simulated
+GPS,1,5.0,4.09,C,9,,,neutral,0,simulated
+GRAB,1,5.0,4.09,C,9,,,neutral,0,simulated
+GRC,3,4.59,1.7,B,9,Specialty Industrial Machinery,0.0,neutral,7,simulated
+GRCE,1,5.0,4.09,C,9,,,neutral,0,simulated
+GRDN,1,4.87,3.3,B,9,Medical Care Facilities,0.0,low_volume,7,simulated
+GREE,1,5.0,4.09,C,9,,,neutral,0,simulated
+GRFS,1,5.0,4.09,C,9,,,neutral,0,simulated
+GRI,1,5.0,4.09,C,9,,,neutral,0,simulated
+GRMLW,3,5.0,4.12,C,9,,,neutral,0,polygon
+GRMN,1,5.13,4.88,B,9,Scientific & Technical Instruments,-11.2,low_volume,7,simulated
+GRNQ,2,5.42,6.68,B,9,Consulting Services,-55.4,low_volume,8,simulated
+GRO,1,5.0,4.09,C,9,,,neutral,0,simulated
+GROY,3,5.0,4.12,C,9,,,neutral,0,simulated
+GRRR,1,5.0,4.09,C,9,,,neutral,0,simulated
+GRX,3,5.0,4.12,C,9,,,neutral,0,finnhub
+GS,2,5.0,4.08,C,9,,,neutral,0,simulated
+GSAT,3,5.0,4.12,C,9,,,neutral,0,simulated
+GSBC,3,5.0,4.12,B,9,Banks - Regional,-1.7,neutral,5,simulated
+GSHD,1,5.0,4.09,C,9,,,neutral,0,simulated
+GSHRW,1,5.0,4.09,C,9,,,neutral,0,simulated
+GSIT,1,5.97,9.99,B,2,Semiconductors,-40.4,low_volume,8,simulated
+GSM,1,5.0,4.09,C,9,,,neutral,0,simulated
+GSRFR,1,5.0,4.09,C,9,,,neutral,0,simulated
+GSUN,1,5.0,4.09,C,9,,,neutral,0,simulated
+GTBP,3,5.74,8.48,A,9,Biotechnology,-87.9,low_volume,6,polygon
+GTEC,1,5.74,8.59,B,9,Auto Parts,-72.0,low_volume,8,simulated
+GTENW,1,5.0,4.09,C,9,,,neutral,0,simulated
+GTIM,1,5.0,4.09,C,9,,,neutral,0,simulated
+GTLB,3,5.35,6.18,C,4,,,neutral,0,simulated
+GTX,1,5.0,4.09,C,9,,,neutral,0,simulated
+GUT,1,5.0,4.09,C,9,,,neutral,0,simulated
+GUTS,1,5.0,4.09,C,9,,,neutral,0,simulated
+GV,1,5.92,9.69,B,9,Education & Training Services,-92.2,low_volume,8,simulated
+GVA,3,5.13,4.88,B,9,Engineering & Construction,0.0,neutral,7,simulated
+GVH,1,5.0,4.09,C,9,,,neutral,0,simulated
+GWW,1,5.0,4.09,C,9,,,neutral,0,simulated
+GXAI,2,5.0,4.08,C,9,,,neutral,0,simulated
+GYRE,2,5.0,4.08,C,9,,,neutral,0,simulated
+HACQU,1,5.0,4.09,C,9,,,neutral,0,simulated
+HAFC,1,5.0,4.09,C,9,,,neutral,0,simulated
+HAIN,1,6.07,10.0,B,9,Packaged Foods,-71.6,low_volume,8,simulated
+HAL,1,5.35,6.22,B,1,Oil & Gas Equipment & Services,-12.2,neutral,6,simulated
+HAS,1,5.0,4.09,C,9,,,neutral,0,simulated
+HBANL,1,5.0,4.09,C,9,,,neutral,0,simulated
+HBANM,1,5.0,4.09,C,9,,,neutral,0,simulated
+HBM,3,5.0,4.12,C,9,,,neutral,0,finnhub
+HBNB,1,5.0,4.09,C,9,,,neutral,0,simulated
+HBNC,3,5.0,4.12,C,9,,,neutral,0,finnhub
+HBT,3,5.0,4.12,C,9,,,neutral,0,polygon
+HCA,1,5.0,4.09,C,9,,,neutral,0,simulated
+HCAC,1,5.31,5.98,B,9,Shell Companies,-0.3,neutral,5,simulated
+HCAT,3,5.63,7.83,B,9,Health Information Services,-56.5,neutral,7,simulated
+HCC,3,5.0,4.12,C,9,,,neutral,0,simulated
+HCIC,1,4.97,3.91,B,9,Shell Companies,-0.1,low_volume,6,simulated
+HCICU,3,5.0,4.12,C,9,,,neutral,0,simulated
+HCKT,3,5.0,4.12,C,9,,,neutral,0,polygon
+HCMAW,1,5.01,4.15,B,9,,-20.9,neutral,4,simulated
+HCSG,3,5.0,4.12,C,9,,,neutral,0,finnhub
+HCTI,3,5.0,4.12,C,9,,,neutral,0,finnhub
+HCXY,1,5.0,4.09,C,9,,,neutral,0,simulated
+HDL,1,5.0,4.09,C,9,,,neutral,0,simulated
+HDSN,3,5.47,6.89,B,9,Specialty Chemicals,-46.5,neutral,7,simulated
+HE,3,5.78,8.72,B,1,Utilities - Regulated Electric,-21.7,low_volume,7,simulated
+HEI,3,5.0,4.12,C,9,,,neutral,0,simulated
+HELP,3,5.0,4.12,C,9,,,neutral,0,finnhub
+HERZ,1,6.85,10.0,B,9,Asset Management,-25.7,dark_pool_buying,7,simulated
+HFBL,3,4.91,3.59,A,9,Banks - Regional,-3.2,low_volume,7,finnhub
+HFFG,1,5.0,4.09,C,9,,,neutral,0,simulated
+HFRO,3,4.9,3.53,A,9,Asset Management,0.0,neutral,5,polygon
+HG,1,5.0,4.09,C,9,,,neutral,0,simulated
+HGTY,3,5.0,4.12,C,9,,,neutral,0,finnhub
+HHH,1,5.0,4.09,C,9,,,neutral,0,simulated
+HHS,3,5.43,6.65,A,9,Conglomerates,-40.4,low_volume,8,polygon
+HIFS,1,5.13,4.88,B,9,Banks - Regional,-14.0,neutral,5,simulated
+HIG,1,5.08,4.58,B,9,Insurance - Diversified,-7.7,neutral,5,simulated
+HIHO,3,5.0,4.12,C,9,,,neutral,0,simulated
+HII,1,5.0,4.09,C,9,,,neutral,0,simulated
+HIMS,1,5.0,4.09,C,9,,,neutral,0,simulated
+HIMX,3,5.42,6.59,B,2,Semiconductors,-29.1,neutral,7,simulated
+HIPO,3,5.19,5.24,B,9,Insurance - Property & Casualty,-32.3,neutral,6,simulated
+HIT,3,5.0,4.12,C,9,,,neutral,0,simulated
+HITI,3,5.0,4.12,C,9,,,neutral,0,simulated
+HIVE,1,5.0,4.09,C,9,,,neutral,0,simulated
+HKD,3,6.35,10.0,B,5,Software - Application,-43.4,neutral,7,simulated
+HKPD,3,5.0,4.12,C,9,,,neutral,0,finnhub
+HLF,1,5.0,4.09,C,9,,,neutral,0,simulated
+HLIO,1,5.0,4.09,C,9,,,neutral,0,simulated
+HLIT,3,5.44,6.71,B,3,Communication Equipment,-13.3,low_volume,8,simulated
+HLLY,1,5.0,4.09,C,9,,,neutral,0,simulated
+HLNE,1,5.0,4.09,C,9,,,neutral,0,simulated
+HLP,1,5.0,4.09,C,9,,,neutral,0,simulated
+HLT,1,5.0,4.09,C,9,,,neutral,0,simulated
+HLXC,3,5.0,4.12,C,9,,,neutral,0,finnhub
+HMY,1,5.0,4.09,C,9,,,neutral,0,simulated
+HNHPF,3,5.0,4.12,C,9,,,neutral,0,simulated
+HNRG,1,5.0,4.09,C,9,,,neutral,0,simulated
+HNVR,1,5.0,4.09,C,9,,,neutral,0,simulated
+HOFT,1,5.0,4.09,C,9,,,neutral,0,simulated
+HOG,3,4.75,2.64,A,9,Recreational Vehicles,-14.0,neutral,7,polygon
+HOLOW,1,5.0,4.09,C,9,,,neutral,0,simulated
+HON,1,5.0,4.09,C,9,,,neutral,0,simulated
+HOOD,1,5.92,9.69,B,8,Capital Markets,-37.4,neutral,7,simulated
+HOV,1,5.11,4.76,B,9,Residential Construction,-22.9,neutral,6,simulated
+HOVRW,3,4.87,3.35,A,9,,0.0,elevated_volume,6,finnhub
+HPAI,3,6.17,10.0,A,4,Software - Infrastructure,-85.4,elevated_volume,8,polygon
+HPAIW,1,5.0,4.09,C,9,,,neutral,0,simulated
+HPE,1,5.35,6.22,C,3,,,neutral,0,simulated
+HPI,3,5.08,4.59,B,9,Asset Management,-1.4,neutral,5,simulated
+HPP,2,4.94,3.71,B,9,REIT - Office,-31.7,neutral,7,simulated
+HPQ,1,5.0,4.09,C,9,,,neutral,0,simulated
+HPS,2,5.0,4.08,C,9,,,neutral,0,simulated
+HR,3,5.0,4.12,C,9,,,neutral,0,finnhub
+HRB,1,5.0,4.09,C,9,,,neutral,0,simulated
+HRI,3,4.92,3.65,B,9,Rental & Leasing Services,-14.4,neutral,7,simulated
+HRMY,3,4.91,3.59,A,9,Biotechnology,-16.1,neutral,7,polygon
+HROW,1,4.86,3.24,B,9,Drug Manufacturers - Specialty & Generic,-29.7,neutral,7,simulated
+HRZN,3,5.0,4.12,C,9,,,neutral,0,finnhub
+HSAI,2,5.13,4.89,B,9,Auto Parts,-41.4,low_volume,8,simulated
+HSBC,3,5.0,4.12,C,9,,,neutral,0,simulated
+HSCSW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+HSDT,1,5.0,4.09,C,9,,,neutral,0,simulated
+HSIC,1,5.0,4.09,C,9,,,neutral,0,simulated
+HSLV,3,5.23,5.47,A,9,Silver,-24.3,elevated_volume,7,finnhub
+HST,1,4.84,3.12,B,9,REIT - Hotel & Motel,-0.1,neutral,6,simulated
+HSTM,1,4.66,2.02,B,9,Health Information Services,-11.1,low_volume,8,simulated
+HSY,3,5.0,4.12,C,9,,,neutral,0,simulated
+HTB,3,5.37,6.3,A,9,Banks - Regional,-0.9,elevated_volume,7,polygon
+HTCO,1,5.0,4.09,C,9,,,neutral,0,simulated
+HTCR,1,5.0,4.09,C,9,,,neutral,0,simulated
+HTD,3,5.08,4.59,A,9,Asset Management,0.0,neutral,6,finnhub
+HTFC,3,4.9,3.53,B,9,,0.0,neutral,4,polygon
+HTFL,3,4.73,2.53,B,9,Health Information Services,-17.4,neutral,7,simulated
+HTHIY,3,5.0,4.12,C,9,,,neutral,0,simulated
+HTHT,3,5.42,6.59,A,9,Lodging,-20.4,neutral,7,finnhub
+HTLM,1,5.0,4.09,C,9,,,neutral,0,simulated
+HTZ,1,5.0,4.09,C,9,,,neutral,0,simulated
+HTZWW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+HUBB,1,5.0,4.09,C,9,,,neutral,0,simulated
+HUBCW,1,5.08,4.58,B,9,,0.0,elevated_volume,6,simulated
+HUBCZ,1,5.0,4.09,C,9,,,neutral,0,simulated
+HUBG,1,5.0,4.09,C,9,,,neutral,0,simulated
+HUBS,1,6.03,10.0,B,5,Software - Application,-67.7,low_volume,8,simulated
+HUHU,3,5.0,4.12,C,9,,,neutral,0,polygon
+HUM,3,4.49,1.11,A,9,Healthcare Plans,-0.4,low_volume,7,polygon
+HUMA,1,5.0,4.09,C,9,,,neutral,0,simulated
+HUT,1,5.35,6.22,C,3,,,neutral,0,simulated
+HVII,3,5.0,4.12,C,9,,,neutral,0,simulated
+HWBK,1,5.0,4.09,B,9,Banks - Regional,nan,neutral,6,simulated
+HWCPZ,3,5.0,4.12,C,9,,,neutral,0,finnhub
+HWH,3,5.0,4.12,C,9,,,neutral,0,simulated
+HWKN,1,5.19,5.25,B,9,Specialty Chemicals,-15.1,low_volume,7,simulated
+HWM,1,5.0,4.09,C,9,,,neutral,0,simulated
+HXHX,2,5.0,4.08,C,9,,,neutral,0,simulated
+HXL,3,5.0,4.12,C,9,,,neutral,0,simulated
+HXSCF,3,5.0,4.12,C,9,,,neutral,0,simulated
+HY,3,5.0,4.12,C,9,,,neutral,0,finnhub
+HYFM,1,5.36,6.28,B,9,Farm & Heavy Construction Machinery,-79.4,low_volume,8,simulated
+HYPD,1,6.12,10.0,B,9,Biotechnology,-80.1,low_volume,8,simulated
+HYT,1,5.0,4.09,C,9,,,neutral,0,simulated
+IACQU,3,5.0,4.12,C,9,,,neutral,0,simulated
+IAUX,1,5.0,4.09,C,9,,,neutral,0,simulated
+IBCP,1,5.0,4.09,C,9,,,neutral,0,simulated
+IBG,1,5.0,4.09,C,9,,,neutral,0,simulated
+IBIDF,3,5.0,4.12,C,9,,,neutral,0,simulated
+IBM,1,5.53,7.32,B,5,Information Technology Services,-18.0,low_volume,8,simulated
+IBN,1,4.84,3.12,B,9,Banks - Regional,-17.5,neutral,6,simulated
+IBO,1,5.0,4.09,C,9,,,neutral,0,simulated
+IBP,1,5.0,4.09,C,9,,,neutral,0,simulated
+ICCC,3,5.05,4.41,A,9,Biotechnology,-11.0,low_volume,8,polygon
+ICE,1,5.0,4.09,C,9,,,neutral,0,simulated
+ICFI,3,4.92,3.65,B,9,Consulting Services,-27.4,low_volume,8,simulated
+ICHR,1,5.0,4.09,C,9,,,neutral,0,simulated
+ICLR,1,5.0,4.09,C,9,,,neutral,0,simulated
+ICON,1,7.04,10.0,B,9,Marine Shipping,-94.2,dark_pool_buying,8,simulated
+IDCC,1,5.0,4.09,C,9,,,neutral,0,simulated
+IDE,3,5.0,4.12,C,9,,,neutral,0,simulated
+IDN,1,5.0,4.09,C,9,,,neutral,0,simulated
+IDT,3,5.42,6.59,A,9,Telecom Services,-23.1,neutral,6,finnhub
+IDXX,1,5.42,6.65,B,9,Diagnostics & Research,-25.8,neutral,7,simulated
+IEX,1,5.0,4.09,C,9,,,neutral,0,simulated
+IFF,1,5.38,6.4,B,9,Specialty Chemicals,-6.1,neutral,6,simulated
+IFNNY,3,5.32,6.0,B,2,Semiconductors,-10.4,low_volume,7,simulated
+IFRX,3,5.0,4.12,C,9,,,neutral,0,simulated
+IFS,3,5.0,4.12,C,9,,,neutral,0,finnhub
+IGA,1,5.0,4.09,C,9,,,neutral,0,simulated
+IGIC,1,5.0,4.09,C,9,,,neutral,0,simulated
+IH,1,5.53,7.32,B,9,Education & Training Services,-54.6,neutral,7,simulated
+IHG,1,5.0,4.09,C,9,,,neutral,0,simulated
+IHS,1,5.0,4.09,C,9,,,neutral,0,simulated
+IHT,3,5.0,4.12,C,9,,,neutral,0,simulated
+IIIV,3,5.0,4.12,C,9,,,neutral,0,finnhub
+IINN,1,5.0,4.09,C,9,,,neutral,0,simulated
+ILLR,1,5.88,9.45,B,5,Software - Application,-88.1,low_volume,8,simulated
+ILLRW,3,5.0,4.12,C,9,,,neutral,3,simulated
+ILMN,1,5.0,4.09,C,9,,,neutral,0,simulated
+ILPT,1,5.0,4.09,C,9,,,neutral,0,simulated
+IMA,1,5.0,4.09,C,9,,,neutral,0,simulated
+IMKTA,1,5.0,4.09,C,9,,,neutral,0,simulated
+IMMP,3,5.76,8.6,A,9,Biotechnology,-88.5,low_volume,7,polygon
+IMNM,3,5.0,4.12,C,9,,,neutral,0,finnhub
+IMNN,1,5.92,9.69,B,9,Biotechnology,-87.0,low_volume,6,simulated
+IMOS,1,5.0,4.09,C,9,,,neutral,0,simulated
+IMPP,1,5.0,4.09,C,9,,,neutral,0,simulated
+IMPPP,1,5.0,4.09,C,9,,,neutral,0,simulated
+IMRX,3,5.89,9.37,A,9,Biotechnology,-55.3,low_volume,7,finnhub
+IMSR,1,5.82,9.08,B,1,Utilities - Regulated Electric,-72.0,low_volume,6,simulated
+IMTE,3,6.84,10.0,A,2,Electronic Components,-64.6,dark_pool_buying,7,finnhub
+IMTX,3,5.0,4.12,C,9,,,neutral,0,polygon
+IMUX,1,5.0,4.09,C,9,,,neutral,0,simulated
+INBK,2,4.66,1.98,B,9,Banks - Regional,-7.6,low_volume,7,simulated
+INCY,1,5.0,4.09,C,9,,,neutral,0,simulated
+INDB,3,5.0,4.12,C,9,,,neutral,0,polygon
+INDI,1,5.88,9.45,B,2,Semiconductors,-32.3,low_volume,7,simulated
+INDV,3,5.0,4.12,C,9,,,neutral,0,simulated
+INFQ,3,5.0,4.12,C,9,,,neutral,0,finnhub
+INFY,3,5.0,4.12,C,9,,,neutral,0,simulated
+ING,1,5.0,4.09,C,9,,,neutral,0,simulated
+INGM,1,5.52,7.26,B,3,Information Technology Services,-7.5,neutral,7,simulated
+INGN,3,5.09,4.65,B,9,Medical Devices,-29.1,low_volume,7,simulated
+INGR,2,5.5,7.18,B,9,Packaged Foods,-25.2,neutral,6,simulated
+INKT,3,5.84,9.07,B,9,Biotechnology,-81.7,neutral,5,simulated
+INLF,2,6.18,10.0,B,9,Specialty Industrial Machinery,-80.4,dark_pool_buying,8,simulated
+INM,3,5.74,8.48,A,9,Drug Manufacturers - Specialty & Generic,-61.5,low_volume,7,polygon
+INMB,3,5.76,8.6,A,9,Biotechnology,-84.2,low_volume,6,finnhub
+INN,1,5.0,4.09,C,9,,,neutral,0,simulated
+INNV,3,5.0,4.12,C,9,,,neutral,0,polygon
+INO,3,5.0,4.12,C,9,,,neutral,0,polygon
+INOD,1,5.0,4.09,C,9,,,neutral,0,simulated
+INR,1,5.0,4.09,C,9,,,neutral,0,simulated
+INTC,1,5.41,6.59,C,2,,,neutral,0,simulated
+INTJ,3,5.0,4.12,C,9,,,neutral,0,simulated
+INTS,2,5.0,4.08,C,9,,,neutral,0,simulated
+INTU,1,5.0,4.09,C,9,,,neutral,0,simulated
+INTZ,2,5.0,4.08,C,9,,,neutral,0,simulated
+INUV,1,5.0,4.09,C,9,,,neutral,0,simulated
+INV,3,5.0,4.12,C,9,,,neutral,0,simulated
+INVH,1,5.0,4.09,C,9,,,neutral,0,simulated
+IONQ,1,5.41,6.59,C,5,,,neutral,0,simulated
+IONR,1,5.0,4.09,C,9,,,neutral,0,simulated
+IONS,2,5.47,6.99,B,9,Biotechnology,-15.9,neutral,7,simulated
+IOT,1,5.8,8.96,B,4,Software - Infrastructure,-29.0,neutral,7,simulated
+IP,1,5.0,4.09,C,9,,,neutral,0,simulated
+IPCX,3,5.12,4.83,B,9,Shell Companies,0.0,elevated_volume,6,simulated
+IPDN,1,5.51,7.19,B,9,Staffing & Employment Services,-93.3,low_volume,7,simulated
+IPGP,3,5.0,4.12,C,9,,,neutral,0,simulated
+IPI,1,5.0,4.09,C,9,,,neutral,0,simulated
+IPM,3,5.51,7.13,B,5,Software - Application,-27.9,neutral,7,simulated
+IPOD,1,5.22,5.43,B,9,Shell Companies,-1.0,low_volume,6,simulated
+IPW,3,5.0,4.12,C,9,,,neutral,0,simulated
+IPX,2,5.23,5.51,B,9,Other Industrial Metals & Mining,-46.8,neutral,5,simulated
+IQ,1,5.99,10.0,B,9,Entertainment,-62.8,neutral,7,simulated
+IQE,3,5.23,5.47,C,9,,,neutral,0,simulated
+IQI,3,5.0,4.12,C,9,,,neutral,0,finnhub
+IQV,1,5.0,4.09,C,9,,,neutral,0,simulated
+IR,3,5.0,4.12,C,9,,,neutral,0,simulated
+IRAB,1,5.0,4.09,C,9,,,neutral,0,simulated
+IRDM,1,5.0,4.09,C,9,,,neutral,0,simulated
+IREN,1,5.35,6.22,C,3,,,neutral,0,simulated
+IRIX,1,5.0,4.09,C,9,,,neutral,0,simulated
+IRM,1,5.0,4.09,C,9,,,neutral,0,simulated
+IRMD,1,5.23,5.49,B,9,Medical Devices,-12.6,neutral,6,simulated
+IRTC,1,5.0,4.09,C,9,,,neutral,0,simulated
+ISD,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ISRG,1,5.0,4.09,C,9,,,neutral,0,simulated
+ITGR,3,5.47,6.89,A,9,Medical Devices,-26.2,low_volume,7,polygon
+ITHA,1,5.0,4.09,C,9,,,neutral,0,simulated
+ITRI,1,5.89,9.51,B,9,Scientific & Technical Instruments,-41.0,low_volume,7,simulated
+ITW,1,5.0,4.09,C,9,,,neutral,0,simulated
+IVA,1,5.0,4.09,C,9,,,neutral,0,simulated
+IVPAF,3,5.0,4.12,C,9,,,neutral,0,simulated
+IVR,1,5.0,4.09,C,9,,,neutral,0,simulated
+IVT,3,5.0,4.12,C,9,,,neutral,0,simulated
+J,3,5.0,4.12,C,9,,,neutral,0,finnhub
+JACS,3,5.0,4.12,C,9,,,neutral,0,simulated
+JAGX,2,5.0,4.08,C,9,,,neutral,0,simulated
+JAN,3,5.0,4.12,C,9,,,neutral,0,simulated
+JBDI,3,5.0,4.12,C,9,,,neutral,0,finnhub
+JBGS,3,5.0,4.12,C,9,,,neutral,0,finnhub
+JBHT,1,5.0,4.09,C,9,,,neutral,0,simulated
+JBIO,1,5.0,4.09,C,9,,,neutral,0,simulated
+JBL,3,5.41,6.54,B,2,Electronic Components,-0.9,neutral,6,simulated
+JBLU,1,4.92,3.6,B,9,Airlines,-17.0,neutral,6,simulated
+JBSS,1,4.91,3.54,B,9,Packaged Foods,-4.0,low_volume,8,simulated
+JCAP,1,5.0,4.09,C,9,,,neutral,0,simulated
+JCE,3,5.31,5.95,A,9,Asset Management,-0.0,neutral,5,finnhub
+JCI,1,5.0,4.09,C,9,,,neutral,0,simulated
+JD,1,5.0,4.09,C,9,,,neutral,0,simulated
+JELD,3,5.0,4.12,C,9,,,neutral,0,finnhub
+JEM,3,5.65,7.95,B,9,Apparel Retail,-98.4,elevated_volume,8,simulated
+JFIN,2,5.0,4.08,C,9,,,neutral,0,simulated
+JFR,2,4.99,4.02,B,9,Asset Management,-0.1,low_volume,6,simulated
+JFU,2,5.0,4.08,C,9,,,neutral,0,simulated
+JG,3,5.0,4.12,C,9,,,neutral,0,finnhub
+JHG,3,5.22,5.42,A,9,Asset Management,-2.6,low_volume,8,polygon
+JHI,1,5.0,4.09,C,9,,,neutral,0,simulated
+JHS,3,5.37,6.3,A,9,Asset Management,-5.0,elevated_volume,6,polygon
+JKHY,1,5.0,4.09,C,9,,,neutral,0,simulated
+JKS,1,5.0,4.09,C,9,,,neutral,0,simulated
+JL,3,5.0,4.12,C,9,,,neutral,0,finnhub
+JLHL,1,5.0,4.09,C,9,,,neutral,0,simulated
+JLL,1,4.91,3.54,B,9,Real Estate Services,-15.8,low_volume,7,simulated
+JLS,3,5.0,4.12,C,9,,,neutral,0,simulated
+JMIA,1,5.13,4.88,B,9,Internet Retail,-49.7,low_volume,8,simulated
+JMM,1,5.0,4.09,C,9,,,neutral,0,simulated
+JNJ,1,5.08,4.58,B,9,Drug Manufacturers - General,-5.9,neutral,7,simulated
+JOB,1,4.9,3.48,B,9,Staffing & Employment Services,-15.1,low_volume,8,simulated
+JOBY,1,5.51,7.19,B,9,Airports & Air Services,-54.1,neutral,6,simulated
+JOYY,1,5.41,6.59,B,5,Internet Content & Information,-1.7,neutral,7,simulated
+JPC,1,5.0,4.09,C,9,,,neutral,0,simulated
+JPM,1,5.0,4.09,C,9,,,neutral,0,simulated
+JQC,3,5.0,4.12,C,9,,,neutral,0,simulated
+JRI,1,5.31,5.98,B,9,Asset Management,-1.5,neutral,4,simulated
+JRSH,3,5.0,4.12,C,9,,,neutral,0,simulated
+JSPRW,3,4.67,2.17,B,9,,0.0,neutral,4,simulated
+JWEL,1,4.98,3.97,B,9,Internet Retail,-10.3,neutral,7,simulated
+JXN,3,5.0,4.12,C,9,,,neutral,0,simulated
+JYNT,1,5.0,4.09,C,9,,,neutral,0,simulated
+JZ,1,5.82,9.08,B,3,Information Technology Services,-94.4,low_volume,8,simulated
+KALA,3,5.0,4.12,C,9,,,neutral,0,finnhub
+KALU,3,5.0,4.12,C,9,,,neutral,0,simulated
+KARO,1,5.0,4.09,C,9,,,neutral,0,simulated
+KB,1,5.0,4.09,C,9,,,neutral,0,simulated
+KBR,3,5.0,4.12,C,9,,,neutral,0,simulated
+KC,1,5.0,4.09,C,9,,,neutral,0,simulated
+KCHVR,3,5.0,4.12,C,9,,,neutral,0,simulated
+KDK,3,5.0,4.12,C,9,,,neutral,0,finnhub
+KDKRW,1,5.0,4.09,C,9,,,neutral,0,simulated
+KDP,1,5.0,4.09,C,9,,,neutral,0,simulated
+KEEL,3,5.0,4.12,C,9,,,neutral,0,finnhub
+KEYS,1,4.91,3.54,B,9,Scientific & Technical Instruments,-3.3,low_volume,8,simulated
+KFFB,1,5.0,4.09,C,9,,,neutral,0,simulated
+KFIIU,1,5.59,7.68,B,9,Shell Companies,-9.3,elevated_volume,6,simulated
+KFRC,1,5.0,4.09,C,9,,,neutral,0,simulated
+KFS,3,5.0,4.12,C,9,,,neutral,0,polygon
+KG,1,5.0,4.09,C,9,,,neutral,0,simulated
+KGC,3,5.0,4.12,C,9,,,neutral,0,polygon
+KHC,1,5.06,4.46,B,9,Packaged Foods,-13.1,low_volume,7,simulated
+KIDZ,1,5.0,4.09,C,9,,,neutral,0,simulated
+KIM,1,6.18,10.0,B,9,REIT - Retail,-3.5,dark_pool_buying,7,simulated
+KIO,1,5.0,4.09,C,9,,,neutral,0,simulated
+KKR,1,5.27,5.73,B,9,Asset Management,-34.9,neutral,7,simulated
+KKRT,1,5.0,4.09,C,9,,,neutral,0,simulated
+KLAC,1,5.41,6.59,C,2,,,neutral,0,simulated
+KLIC,1,5.0,4.09,C,9,,,neutral,0,simulated
+KLRS,1,5.0,4.09,C,9,,,neutral,0,simulated
+KMB,1,5.0,4.09,C,9,,,neutral,0,simulated
+KMDA,3,5.15,5.0,A,9,Drug Manufacturers - Specialty & Generic,-17.4,low_volume,7,finnhub
+KMI,1,5.42,6.65,B,1,Oil & Gas Midstream,-8.9,neutral,7,simulated
+KMRK,3,6.41,10.0,B,9,Leisure,-73.1,dark_pool_buying,8,simulated
+KMX,1,4.85,3.18,B,9,Auto & Truck Dealerships,-26.4,neutral,6,simulated
+KNTK,1,5.0,4.09,C,9,,,neutral,0,simulated
+KNX,3,5.0,4.12,C,9,,,neutral,0,simulated
+KO,1,5.0,4.09,C,9,,,neutral,0,simulated
+KODK,1,5.0,4.09,C,9,,,neutral,0,simulated
+KOP,1,5.28,5.79,B,9,Specialty Chemicals,0.0,low_volume,7,simulated
+KOSS,1,5.0,4.09,C,9,,,neutral,0,simulated
+KOYNU,2,5.22,5.45,B,9,Shell Companies,-0.9,low_volume,6,simulated
+KPLT,1,5.0,4.09,C,9,,,neutral,0,simulated
+KR,1,5.23,5.49,B,9,Grocery Stores,-14.7,neutral,6,simulated
+KRAQ,1,4.9,3.48,B,9,Shell Companies,0.0,neutral,5,simulated
+KRT,1,4.59,1.6,B,9,Packaging & Containers,0.0,neutral,7,simulated
+KRYS,3,5.0,4.12,C,9,,,neutral,0,simulated
+KTH,1,5.0,4.09,C,9,,,neutral,0,simulated
+KTN,3,5.31,5.95,B,9,,-0.3,neutral,4,simulated
+KTOS,1,5.0,4.09,C,9,,,neutral,0,simulated
+KTWO,2,5.0,4.08,C,9,,,neutral,0,simulated
+KULR,1,5.35,6.22,C,3,,,neutral,0,simulated
+KURA,1,5.45,6.83,B,9,Biotechnology,-24.0,neutral,7,simulated
+KVACW,1,6.66,10.0,B,9,,-72.5,dark_pool_buying,5,simulated
+KVHI,2,5.0,4.08,C,9,,,neutral,0,simulated
+KVUE,1,5.13,4.88,B,9,Household & Personal Products,-16.0,low_volume,7,simulated
+KW,1,5.27,5.73,B,9,Real Estate Services,-0.1,elevated_volume,7,simulated
+KWM,3,6.94,10.0,B,9,Entertainment,-96.3,dark_pool_buying,8,simulated
+KWMWW,1,5.0,4.09,C,9,,,neutral,0,simulated
+KWR,1,5.0,4.09,C,9,,,neutral,0,simulated
+KYIVW,1,4.9,3.48,B,9,,-14.0,neutral,6,simulated
+KYMR,3,5.0,4.12,C,9,,,neutral,0,simulated
+KYOCY,3,5.0,4.12,C,9,,,neutral,0,simulated
+KZIA,1,5.0,4.09,C,9,,,neutral,0,simulated
+L,1,5.0,4.09,C,9,,,neutral,0,simulated
+LAB,1,5.96,9.93,B,9,Medical Devices,-49.5,neutral,6,simulated
+LABT,1,4.66,2.02,B,9,Biotechnology,,low_volume,5,simulated
+LAC,1,5.0,4.09,C,9,,,neutral,0,simulated
+LADR,1,5.0,4.09,C,9,,,neutral,0,simulated
+LAES,3,5.41,6.54,C,2,,,neutral,0,simulated
+LANV,1,5.51,7.19,B,9,Luxury Goods,-42.2,elevated_volume,7,simulated
+LARK,3,5.0,4.12,C,9,,,neutral,0,finnhub
+LASE,3,5.84,9.07,A,9,Specialty Industrial Machinery,-64.7,neutral,7,finnhub
+LASR,1,5.0,4.09,C,9,,,neutral,0,simulated
+LAW,1,5.0,4.09,C,9,,,neutral,0,simulated
+LAZ,3,5.0,4.12,C,9,,,neutral,0,finnhub
+LBGJ,1,5.0,4.09,C,9,,,neutral,0,simulated
+LBRDA,3,5.85,9.13,A,9,Telecom Services,-64.7,neutral,5,polygon
+LBRX,3,5.0,4.12,C,9,,,neutral,0,simulated
+LBTYA,1,5.0,4.09,B,9,Telecom Services,-8.0,neutral,7,simulated
+LBTYB,1,4.85,3.18,B,9,Telecom Services,-24.5,low_volume,8,simulated
+LC,1,5.0,4.09,C,9,,,neutral,0,simulated
+LCCCR,1,5.0,4.09,C,9,,,neutral,0,simulated
+LCFY,3,5.0,4.12,C,9,,,neutral,0,finnhub
+LCID,1,5.0,4.09,C,9,,,neutral,0,simulated
+LCNB,3,5.0,4.12,C,9,,,neutral,0,finnhub
+LCUT,1,5.0,4.09,C,9,,,neutral,0,simulated
+LDI,3,5.0,4.12,C,9,,,neutral,0,finnhub
+LDOS,1,6.38,10.0,B,3,Information Technology Services,-42.4,low_volume,7,simulated
+LDP,3,5.0,4.12,C,9,,,neutral,0,finnhub
+LE,3,5.0,4.12,C,9,,,neutral,0,simulated
+LECO,3,5.0,4.12,B,9,Tools & Accessories,-7.4,neutral,7,simulated
+LEDS,3,5.48,6.95,B,2,Semiconductors,-41.2,neutral,7,simulated
+LEGN,3,5.16,5.06,A,9,Biotechnology,-24.4,low_volume,8,polygon
+LEN,1,5.32,6.04,B,9,Residential Construction,-36.5,neutral,6,simulated
+LESL,3,5.0,4.12,C,9,,,neutral,0,polygon
+LEU,1,5.35,6.22,C,1,,,neutral,0,simulated
+LFAC,3,5.0,4.12,C,9,,,neutral,0,polygon
+LFACU,3,5.0,4.12,C,9,,,neutral,0,finnhub
+LFCR,1,5.58,7.62,B,9,Drug Manufacturers - Specialty & Generic,-39.7,low_volume,7,simulated
+LFMD,3,5.0,4.12,C,9,,,neutral,0,finnhub
+LFMDP,1,5.08,4.58,B,9,Health Information Services,-1.8,neutral,6,simulated
+LFST,3,5.0,4.12,C,9,,,neutral,0,finnhub
+LFVN,1,5.0,4.09,C,9,,,neutral,0,simulated
+LGCL,3,5.0,4.12,C,9,,,neutral,0,finnhub
+LGCY,1,5.24,5.55,B,9,Education & Training Services,-22.9,low_volume,8,simulated
+LGL,1,5.38,6.4,B,9,Scientific & Technical Instruments,-10.2,neutral,7,simulated
+LGRDY,3,5.28,5.77,B,9,Electrical Equipment & Parts,-13.7,elevated_volume,7,simulated
+LGVN,3,5.0,4.12,C,9,,,neutral,0,polygon
+LHX,2,5.0,4.08,C,9,,,neutral,0,polygon
+LII,3,5.28,5.77,A,9,Building Products & Equipment,-19.6,low_volume,8,finnhub
+LILA,3,5.0,4.12,C,9,,,neutral,0,finnhub
+LIN,2,5.0,4.08,C,9,,,neutral,0,polygon
+LITE,2,5.0,4.08,C,9,,,neutral,0,polygon
+LITS,3,5.84,9.07,A,9,Biotechnology,-87.7,neutral,6,polygon
+LIVN,2,5.0,4.08,C,9,,,neutral,0,polygon
+LKSP,3,5.0,4.12,C,9,,,neutral,0,simulated
+LKSPR,2,5.0,4.08,C,9,,,neutral,1,polygon
+LLY,2,5.23,5.51,A,9,Drug Manufacturers - General,-3.2,neutral,7,polygon
+LMND,2,5.0,4.08,C,9,,,neutral,0,polygon
+LMNR,3,5.47,6.89,B,9,Farm Products,-20.2,elevated_volume,8,simulated
+LMT,2,5.0,4.08,C,9,,,neutral,0,polygon
+LNC,2,5.0,4.08,C,9,,,neutral,0,polygon
+LND,2,4.75,2.54,A,9,Farm Products,-15.1,low_volume,8,polygon
+LNKS,3,5.0,4.12,C,9,,,neutral,0,simulated
+LNT,2,5.9,9.65,A,1,Utilities - Regulated Electric,-0.1,neutral,7,polygon
+LNZA,3,6.33,10.0,A,9,Waste Management,-90.5,dark_pool_buying,8,polygon
+LNZAW,2,5.0,4.08,C,9,,,neutral,0,finnhub
+LOCO,2,5.0,4.08,C,9,,,neutral,0,finnhub
+LODE,2,5.0,4.08,C,9,,,neutral,0,finnhub
+LOGI,3,5.0,4.12,C,9,,,neutral,0,polygon
+LONA,2,5.18,5.2,A,9,Biotechnology,-28.9,low_volume,6,polygon
+LOT,2,5.0,4.08,C,9,,,neutral,0,polygon
+LOVE,3,5.0,4.12,C,9,,,neutral,0,simulated
+LOW,2,5.0,4.08,C,9,,,neutral,0,polygon
+LPAA,3,5.18,5.18,A,9,Shell Companies,0.0,elevated_volume,6,polygon
+LPAAW,2,4.82,2.97,B,9,,-17.3,neutral,4,polygon
+LPCN,2,6.12,10.0,A,9,Biotechnology,-79.4,elevated_volume,8,polygon
+LPCV,3,5.0,4.12,C,9,,,neutral,0,finnhub
+LPCVU,2,5.22,5.45,A,9,Shell Companies,-0.2,low_volume,6,finnhub
+LPCVW,2,5.23,5.51,C,9,,,neutral,1,polygon
+LPKF,3,5.0,4.12,C,9,,,neutral,0,simulated
+LPLA,2,5.52,7.3,A,8,Capital Markets,-23.7,neutral,7,finnhub
+LPRO,2,5.0,4.08,C,9,,,neutral,0,polygon
+LPTH,3,5.0,4.12,C,9,,,neutral,0,simulated
+LQDA,2,5.0,4.08,C,9,,,neutral,0,polygon
+LQDT,3,5.0,4.12,C,9,,,neutral,0,finnhub
+LRCX,2,5.41,6.62,C,2,,,neutral,0,polygon
+LRE,2,5.13,4.89,A,9,Real Estate - Development,-40.1,low_volume,7,polygon
+LRN,2,5.91,9.71,A,9,Education & Training Services,-49.9,neutral,6,polygon
+LSAK,2,5.47,6.99,A,4,Software - Infrastructure,-13.8,low_volume,8,polygon
+LSCC,3,5.45,6.77,B,2,Semiconductors,-5.1,low_volume,8,simulated
+LSPD,3,5.35,6.18,C,8,,,neutral,0,simulated
+LSTR,3,5.23,5.47,B,9,Integrated Freight & Logistics,-4.7,neutral,6,simulated
+LTBR,3,5.35,6.18,C,1,,,neutral,0,polygon
+LTC,2,5.0,4.08,C,9,,,neutral,0,polygon
+LTH,2,5.0,4.08,C,9,,,neutral,0,polygon
+LTM,2,5.23,5.51,A,9,Airlines,-18.9,neutral,7,polygon
+LTRYW,3,5.0,4.12,C,9,,,neutral,0,simulated
+LUCYW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+LUD,2,5.0,4.08,C,9,,,neutral,0,finnhub
+LULU,3,5.76,8.6,A,9,Apparel Retail,-52.8,neutral,6,finnhub
+LUMN,3,5.0,4.12,C,9,,,neutral,0,finnhub
+LUNG,3,5.93,9.6,B,9,Medical Devices,-66.0,neutral,7,simulated
+LUNR,2,5.0,4.08,C,9,,,neutral,0,finnhub
+LUV,2,4.98,3.96,A,9,Airlines,-11.4,neutral,7,polygon
+LUXE,2,5.0,4.08,C,9,,,neutral,0,finnhub
+LVLU,2,5.0,4.08,C,9,,,neutral,0,polygon
+LVS,3,5.0,4.12,C,9,,,neutral,0,simulated
+LVWR,3,5.0,4.12,C,9,,,neutral,0,simulated
+LW,2,5.09,4.64,A,9,Packaged Foods,-30.8,low_volume,7,polygon
+LWAY,3,5.0,4.12,C,9,,,neutral,0,polygon
+LWLG,3,5.36,6.24,B,9,Specialty Chemicals,-47.0,low_volume,8,simulated
+LX,3,5.0,4.12,C,9,,,neutral,0,polygon
+LXEO,3,5.0,4.12,C,9,,,neutral,0,polygon
+LXFR,3,4.83,3.12,B,9,Specialty Industrial Machinery,-0.1,neutral,7,simulated
+LXU,2,5.0,4.08,C,9,,,neutral,0,simulated
+LYB,2,5.0,4.08,C,9,,,neutral,0,polygon
+LYEL,2,5.0,4.08,C,9,,,neutral,0,polygon
+LYFT,2,5.0,4.08,C,9,,,neutral,0,finnhub
+LYSCF,2,5.0,4.08,C,9,,,neutral,0,polygon
+LYV,2,5.0,4.08,C,9,,,neutral,0,polygon
+M,2,5.0,4.08,C,9,,,neutral,0,polygon
+MA,2,5.35,6.25,C,8,,,neutral,0,polygon
+MAA,2,5.08,4.58,A,9,REIT - Residential,-7.7,neutral,6,polygon
+MAAS,2,5.0,4.08,C,9,,,neutral,0,simulated
+MAC,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MAIN,2,5.27,5.75,A,9,Asset Management,-19.1,low_volume,6,polygon
+MAMA,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MAMO,2,5.0,4.08,C,9,,,neutral,0,polygon
+MAN,2,5.0,4.08,C,9,,,neutral,0,polygon
+MANE,2,5.0,4.08,C,9,,,neutral,0,polygon
+MANH,2,6.05,10.0,A,5,Software - Application,-37.1,neutral,7,polygon
+MANU,3,5.0,4.12,C,9,,,neutral,0,polygon
+MAR,3,5.0,4.12,C,9,,,neutral,0,polygon
+MARA,2,5.16,5.07,A,3,Capital Markets,-34.8,neutral,7,polygon
+MAS,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MATW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+MATX,3,5.0,4.12,C,9,,,neutral,0,simulated
+MAX,2,5.42,6.68,A,5,Internet Content & Information,-25.5,neutral,7,polygon
+MAYS,3,5.0,4.12,C,9,,,neutral,0,simulated
+MBBC,2,5.04,4.33,A,9,Banks - Regional,-4.5,elevated_volume,7,polygon
+MBI,2,5.0,4.08,C,9,,,neutral,0,polygon
+MBIO,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MBOT,2,5.42,6.68,A,9,Medical Instruments & Supplies,-58.5,low_volume,6,polygon
+MBUU,2,5.24,5.57,A,9,Recreational Vehicles,-30.2,low_volume,7,polygon
+MBWM,3,5.0,4.12,C,9,,,neutral,0,simulated
+MCBS,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MCD,2,5.0,4.08,C,9,,,neutral,0,polygon
+MCHP,2,5.62,7.92,A,2,Semiconductors,-3.9,neutral,6,polygon
+MCHPP,3,5.0,4.12,C,9,,,neutral,0,simulated
+MCI,3,5.0,4.12,C,9,,,neutral,0,simulated
+MCK,2,5.0,4.08,C,9,,,neutral,0,polygon
+MCO,2,5.0,4.08,C,9,,,neutral,0,polygon
+MCRI,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MCRP,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MCS,3,5.0,4.12,C,9,,,neutral,0,simulated
+MD,2,4.72,2.35,A,9,Medical Care Facilities,-0.8,low_volume,7,polygon
+MDAIW,2,5.0,4.08,C,9,,,neutral,0,polygon
+MDB,2,5.35,6.25,C,4,,,neutral,0,polygon
+MDCX,3,5.0,4.12,C,9,,,neutral,0,finnhub
+MDCXW,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MDGL,2,5.0,4.08,C,9,,,neutral,0,polygon
+MDT,3,5.0,4.12,C,9,,,neutral,0,simulated
+MEGL,3,5.0,4.12,C,9,,,neutral,0,polygon
+MEHA,2,5.0,4.08,C,9,,,neutral,0,simulated
+MELI,2,5.38,6.43,A,9,Internet Retail,-35.6,low_volume,8,polygon
+MESH,2,5.0,4.08,C,9,,,neutral,0,polygon
+MESHU,2,5.0,4.08,C,9,,,neutral,0,polygon
+MESHW,2,5.0,4.08,C,9,,,neutral,0,polygon
+MET,2,5.0,4.08,C,9,,,neutral,0,polygon
+META,2,5.41,6.62,C,5,,,neutral,0,finnhub
+METC,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MEVO,3,5.0,4.12,C,9,,,neutral,0,finnhub
+MEVOU,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MFAN,2,5.31,6.0,B,9,,-0.3,neutral,4,polygon
+MFI,2,5.0,4.08,C,9,,,neutral,0,polygon
+MFIC,3,4.93,3.7,A,9,Asset Management,-15.1,neutral,6,polygon
+MG,2,5.0,4.08,C,9,,,neutral,0,polygon
+MGEE,3,5.55,7.36,B,1,Utilities - Regulated Electric,-13.6,low_volume,8,simulated
+MGF,2,5.16,5.07,A,9,Asset Management,-5.4,neutral,6,polygon
+MGLD,2,5.0,4.08,C,9,,,neutral,0,polygon
+MGM,2,4.81,2.91,A,9,Resorts & Casinos,-5.2,low_volume,7,finnhub
+MGPI,2,5.51,7.24,A,9,Beverages - Wineries & Distilleries,-49.4,neutral,7,polygon
+MGRC,2,5.23,5.51,A,9,Rental & Leasing Services,-8.5,neutral,6,polygon
+MGRD,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MGRX,2,5.0,4.08,C,9,,,neutral,0,polygon
+MGYR,3,4.99,4.06,A,9,Banks - Regional,-5.8,low_volume,6,polygon
+MHD,2,5.0,4.08,C,9,,,neutral,0,polygon
+MHK,2,5.15,5.01,A,9,"Furnishings, Fixtures & Appliances",-19.3,neutral,7,polygon
+MIAX,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MIELY,3,5.13,4.88,B,9,Electrical Equipment & Parts,-13.9,low_volume,6,simulated
+MIMI,2,5.0,4.08,C,9,,,neutral,0,polygon
+MIN,3,5.0,4.12,C,9,,,neutral,0,finnhub
+MIR,3,5.0,4.12,C,9,,,neutral,0,finnhub
+MIRM,3,5.28,5.77,A,9,Biotechnology,-8.6,low_volume,8,polygon
+MITK,3,5.0,4.12,C,9,,,neutral,0,polygon
+MITP,2,5.31,6.0,B,9,,-1.3,neutral,4,polygon
+MKC,2,5.0,4.08,C,9,,,neutral,0,polygon
+MKDWW,3,5.0,4.12,C,9,,,neutral,0,polygon
+MKKGY,3,5.0,4.12,C,9,,,neutral,0,simulated
+MKLYU,2,4.8,2.85,A,9,Shell Companies,0.0,low_volume,6,polygon
+MKSI,2,5.41,6.62,C,2,,,neutral,0,polygon
+MKTX,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MLAB,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MLACR,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MLCI,2,5.0,4.08,C,9,,,neutral,0,polygon
+MLCIL,3,5.22,5.42,A,9,,-6.3,low_volume,5,polygon
+MLECW,3,5.0,4.12,C,9,,,neutral,0,simulated
+MLM,2,5.0,4.08,C,9,,,neutral,0,polygon
+MLP,2,5.0,4.08,C,9,,,neutral,0,polygon
+MLR,2,5.0,4.08,C,9,,,neutral,0,polygon
+MMC,2,5.0,4.08,C,9,,,neutral,0,polygon
+MMD,3,5.0,4.12,C,9,,,neutral,0,polygon
+MMED,3,4.66,2.11,B,9,Medical Instruments & Supplies,-19.5,neutral,7,simulated
+MMI,2,4.91,3.53,A,9,Real Estate Services,-8.4,low_volume,8,polygon
+MMM,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MMSI,2,5.42,6.68,A,9,Medical Instruments & Supplies,-29.4,neutral,7,polygon
+MMTX,2,5.0,4.08,C,9,,,neutral,0,polygon
+MNDY,2,5.35,6.25,C,4,,,neutral,0,polygon
+MNR,3,5.35,6.18,A,1,Oil & Gas E&P,-12.1,neutral,7,finnhub
+MNSBP,3,5.0,4.12,C,9,,,neutral,0,finnhub
+MNST,3,5.0,4.12,C,9,,,neutral,0,simulated
+MNTS,2,5.0,4.08,C,9,,,neutral,0,polygon
+MO,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MOB,3,5.13,4.88,B,9,Aerospace & Defense,-44.9,low_volume,8,simulated
+MOBBW,2,5.0,4.08,C,9,,,neutral,0,simulated
+MOBXW,2,6.73,10.0,A,9,,-66.8,dark_pool_buying,7,polygon
+MOD,3,4.92,3.65,B,9,Auto Parts,-6.4,neutral,7,simulated
+MODD,2,5.61,7.86,A,9,Medical Devices,-79.5,neutral,5,polygon
+MOH,2,5.0,4.08,C,9,,,neutral,0,polygon
+MOMO,2,5.0,4.08,C,9,,,neutral,0,polygon
+MORN,3,5.35,6.18,C,8,,,neutral,0,simulated
+MOS,2,5.0,4.08,C,9,,,neutral,0,polygon
+MP,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MPA,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MPAA,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MPB,3,5.0,4.12,C,9,,,neutral,0,simulated
+MPC,2,5.56,7.55,A,1,Oil & Gas Refining & Marketing,-7.2,neutral,6,polygon
+MPLT,2,4.91,3.53,A,9,Biotechnology,-15.3,neutral,5,polygon
+MPLX,2,5.0,4.08,C,9,,,neutral,0,polygon
+MPTI,2,5.59,7.73,A,2,Electronic Components,-4.8,elevated_volume,8,polygon
+MPV,2,5.0,4.08,C,9,,,neutral,0,polygon
+MPWR,3,5.41,6.54,B,2,Semiconductors,-7.3,neutral,7,simulated
+MPX,3,6.1,10.0,A,9,Recreational Vehicles,-14.8,dark_pool_buying,8,polygon
+MQY,3,5.08,4.59,B,9,Asset Management,-1.6,neutral,6,simulated
+MRAAY,3,5.54,7.3,B,2,Electronic Components,-2.6,neutral,6,simulated
+MRLN,2,5.0,4.08,C,9,,,neutral,0,polygon
+MRM,3,5.0,4.12,C,9,,,neutral,0,polygon
+MRNA,2,5.68,8.29,A,9,Biotechnology,-7.2,neutral,7,polygon
+MRNO,2,5.36,6.31,A,9,Real Estate - Development,-97.4,low_volume,8,polygon
+MRNOW,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MRVL,2,5.41,6.62,C,2,,,neutral,0,polygon
+MRX,3,5.0,4.12,C,9,,,neutral,0,simulated
+MS,2,5.0,4.08,C,9,,,neutral,0,simulated
+MSA,2,5.0,4.08,C,9,,,neutral,0,polygon
+MSAI,2,5.0,4.08,C,9,,,neutral,0,simulated
+MSC,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MSCI,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MSEX,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MSFT,2,5.41,6.62,C,5,,,neutral,0,polygon
+MSGM,2,5.0,4.08,C,9,,,neutral,0,polygon
+MSI,2,5.72,8.54,A,3,Communication Equipment,-17.2,low_volume,8,polygon
+MSLE,3,5.99,9.96,B,9,Biotechnology,-56.4,neutral,5,simulated
+MSTR,2,5.35,6.25,C,8,,,neutral,0,polygon
+MT,2,5.0,4.08,C,9,,,neutral,0,polygon
+MTA,2,5.0,4.08,C,9,,,neutral,0,polygon
+MTB,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MTC,2,5.0,4.08,C,9,,,neutral,0,polygon
+MTCH,2,5.0,4.08,C,9,,,neutral,0,polygon
+MTD,2,5.09,4.64,A,9,Diagnostics & Research,-23.3,low_volume,8,polygon
+MTDR,2,5.52,7.3,A,1,Oil & Gas E&P,-21.2,neutral,7,polygon
+MTEX,2,5.0,4.08,C,9,,,neutral,0,polygon
+MTG,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MTN,3,5.0,4.12,C,9,,,neutral,0,polygon
+MTNB,2,5.51,7.24,A,9,Biotechnology,-68.2,low_volume,6,polygon
+MTRN,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MTRX,3,5.0,4.12,C,9,,,neutral,0,simulated
+MTSI,2,5.41,6.62,C,2,,,neutral,0,finnhub
+MTW,3,5.23,5.47,B,9,Farm & Heavy Construction Machinery,-14.2,neutral,7,simulated
+MTZ,3,5.0,4.12,C,9,,,neutral,0,simulated
+MU,2,5.41,6.62,C,2,,,neutral,0,polygon
+MUC,2,5.08,4.58,B,9,Asset Management,-0.2,neutral,6,simulated
+MUFG,2,5.0,4.08,C,9,,,neutral,0,polygon
+MVIS,3,6.32,10.0,B,9,Scientific & Technical Instruments,-73.8,neutral,7,simulated
+MVSTW,2,6.51,10.0,A,9,,-85.5,dark_pool_buying,7,polygon
+MWYN,3,5.0,4.12,C,9,,,neutral,0,finnhub
+MX,3,5.53,7.24,A,2,Semiconductors,-36.7,low_volume,7,polygon
+MXC,2,5.0,4.08,C,9,,,neutral,0,polygon
+MYFW,3,5.0,4.12,C,9,,,neutral,0,simulated
+MYRG,2,5.23,5.51,A,9,Engineering & Construction,-4.8,neutral,7,polygon
+MYSE,2,5.0,4.08,C,9,,,neutral,0,finnhub
+MYSZ,3,6.63,10.0,B,5,Software - Application,-69.1,dark_pool_buying,8,simulated
+MYXXU,2,5.08,4.58,C,9,Shell Companies,,neutral,3,polygon
+NA,2,6.31,10.0,A,2,Semiconductors,-86.5,elevated_volume,8,polygon
+NAII,3,5.0,4.12,C,9,,,neutral,0,simulated
+NAK,2,5.0,4.08,C,9,,,neutral,0,polygon
+NAMMW,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NAMSW,2,5.84,9.28,A,9,,-37.3,elevated_volume,5,polygon
+NAN,3,5.08,4.59,A,9,Asset Management,-0.4,neutral,5,polygon
+NAUT,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NAVI,3,5.0,4.12,C,9,,,neutral,0,polygon
+NB,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NBB,3,5.0,4.12,C,9,,,neutral,0,simulated
+NBIX,2,5.0,4.08,C,9,,,neutral,0,polygon
+NBRGR,3,5.0,4.12,C,9,,,neutral,0,finnhub
+NBTB,2,5.0,4.08,C,9,,,neutral,0,polygon
+NBXG,2,5.22,5.45,A,9,Asset Management,-0.4,low_volume,6,polygon
+NC,2,5.47,6.99,A,1,Thermal Coal,-11.6,low_volume,7,polygon
+NCDL,2,5.31,6.0,A,9,Asset Management,-19.8,neutral,5,polygon
+NCLH,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NCMI,2,5.0,4.08,C,9,,,neutral,0,polygon
+NCNA,3,5.89,9.37,B,9,Biotechnology,-92.8,elevated_volume,6,simulated
+NCNO,2,5.35,6.25,C,6,,,neutral,0,polygon
+NCPLW,3,5.0,4.12,C,9,,,neutral,0,simulated
+NCRA,2,5.61,7.86,A,9,Packaged Foods,-94.3,low_volume,8,polygon
+NCT,3,5.0,4.12,C,9,,,neutral,0,simulated
+NDAQ,2,5.63,7.98,A,8,Financial Data & Stock Exchanges,-11.0,neutral,7,polygon
+NDLS,3,5.0,4.12,C,9,,,neutral,0,finnhub
+NDSN,2,5.08,4.58,A,9,Specialty Industrial Machinery,-0.9,neutral,7,polygon
+NE,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NECB,2,5.0,4.08,C,9,,,neutral,0,polygon
+NEE,2,5.35,6.25,C,1,,,neutral,0,finnhub
+NEGG,2,5.0,4.08,C,9,,,neutral,0,polygon
+NEM,2,5.0,4.08,C,9,,,neutral,0,polygon
+NEN,2,4.99,4.02,A,9,Real Estate Services,-19.5,low_volume,8,polygon
+NEOG,2,4.82,2.97,A,9,Medical Devices,-16.4,low_volume,7,finnhub
+NEON,3,5.0,4.12,C,9,,,neutral,0,polygon
+NEPH,3,5.0,4.12,C,9,,,neutral,0,finnhub
+NESR,3,5.0,4.12,C,9,,,neutral,0,polygon
+NET,2,5.19,5.26,A,4,Software - Infrastructure,-14.1,low_volume,8,finnhub
+NEU,2,5.0,4.08,C,9,,,neutral,0,polygon
+NEWP,2,5.13,4.89,A,9,Silver,-19.3,neutral,6,polygon
+NEWTI,2,5.0,4.08,C,9,,,neutral,0,polygon
+NEWTO,3,5.0,4.12,C,9,,,neutral,0,simulated
+NEWTP,3,5.0,4.12,C,9,,,neutral,0,simulated
+NEXM,2,5.51,7.24,B,9,Other Industrial Metals & Mining,-74.7,low_volume,7,simulated
+NEXN,2,5.47,6.99,A,9,Advertising Agencies,-24.7,low_volume,8,polygon
+NEXR,2,5.66,8.17,A,9,Internet Retail,-99.4,low_volume,8,polygon
+NEXT,2,5.0,4.08,C,9,,,neutral,0,polygon
+NFGC,2,5.8,9.03,A,9,Gold,-51.7,elevated_volume,7,polygon
+NFLX,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NGEN,3,5.0,4.12,C,9,,,neutral,0,simulated
+NGS,2,5.56,7.55,A,1,Oil & Gas Equipment & Services,-4.7,neutral,7,polygon
+NHC,2,5.0,4.08,C,9,,,neutral,0,polygon
+NHIC,2,5.0,4.08,C,9,,,neutral,0,polygon
+NHICW,2,4.85,3.16,A,9,,0.0,elevated_volume,5,polygon
+NHP,2,5.0,4.08,A,9,REIT - Healthcare Facilities,,neutral,5,polygon
+NHS,2,4.99,4.02,A,9,Asset Management,-14.5,low_volume,6,polygon
+NICE,3,5.94,9.66,A,5,Software - Application,-49.2,neutral,7,polygon
+NIPG,3,6.33,10.0,B,9,Entertainment,-83.9,dark_pool_buying,8,simulated
+NIU,2,5.91,9.71,B,9,Auto Manufacturers,-58.5,neutral,7,simulated
+NIVF,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NIXX,2,5.0,4.08,C,9,,,neutral,0,polygon
+NJR,2,5.0,4.08,C,9,,,neutral,0,polygon
+NKE,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NKSH,2,4.91,3.53,A,9,Banks - Regional,-6.1,low_volume,7,polygon
+NKTR,2,5.8,9.03,A,9,Biotechnology,-40.2,neutral,6,polygon
+NKX,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NMAX,2,5.8,9.03,A,9,Broadcasting,-53.0,neutral,7,polygon
+NMP,2,5.0,4.08,C,9,,,neutral,0,polygon
+NMR,2,5.0,4.08,C,9,,,neutral,0,polygon
+NMRK,3,5.19,5.24,B,9,Real Estate Services,-21.3,neutral,6,simulated
+NMTC,2,5.0,4.08,C,9,,,neutral,0,simulated
+NMZ,2,5.08,4.58,A,9,Asset Management,-1.0,neutral,5,polygon
+NNAVW,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NNDM,2,5.0,4.08,C,9,,,neutral,0,simulated
+NNE,2,6.13,10.0,A,1,Specialty Industrial Machinery,-57.0,neutral,5,polygon
+NNI,2,5.0,4.08,C,9,,,neutral,0,polygon
+NOA,2,5.22,5.45,A,1,Oil & Gas Equipment & Services,-23.1,low_volume,8,polygon
+NOAH,2,5.13,4.89,A,9,Asset Management,-16.1,low_volume,7,polygon
+NOC,2,5.0,4.08,C,9,,,neutral,0,polygon
+NOEMR,2,5.0,4.08,C,9,,,neutral,1,polygon
+NOEMW,2,4.87,3.28,A,9,,-11.4,elevated_volume,5,polygon
+NOG,2,5.87,9.46,A,1,Oil & Gas E&P,-34.8,neutral,7,polygon
+NOK,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NOMA,3,6.12,10.0,A,9,Leisure,-69.1,low_volume,8,polygon
+NOMD,2,5.23,5.51,A,9,Packaged Foods,-40.1,low_volume,8,polygon
+NOV,2,5.0,4.08,C,9,,,neutral,0,polygon
+NOVT,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NOVTU,2,4.91,3.53,A,9,Scientific & Technical Instruments,-5.7,low_volume,8,polygon
+NOW,2,5.41,6.62,C,5,,,neutral,0,polygon
+NPB,3,5.0,4.12,A,9,Banks - Regional,-7.1,neutral,6,finnhub
+NPCE,3,5.49,7.01,A,9,Medical Devices,-22.2,low_volume,7,finnhub
+NPFD,2,4.99,4.02,A,9,Asset Management,-3.2,low_volume,7,polygon
+NPO,3,5.0,4.12,C,9,,,neutral,0,polygon
+NPPXF,3,5.0,4.12,C,9,,,neutral,0,simulated
+NPWR,2,5.51,7.24,A,9,Specialty Industrial Machinery,-64.5,low_volume,7,polygon
+NRDS,3,5.97,9.84,A,5,Internet Content & Information,-46.9,low_volume,7,polygon
+NRDY,2,6.64,10.0,B,5,Software - Application,-47.5,dark_pool_buying,7,simulated
+NREF,2,5.96,10.0,A,9,REIT - Mortgage,-4.3,dark_pool_buying,6,polygon
+NRG,2,5.35,6.25,C,1,,,neutral,0,polygon
+NRIM,2,5.15,5.01,A,9,Banks - Regional,-14.7,neutral,6,polygon
+NRK,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NRSN,2,5.0,4.08,C,9,,,neutral,0,polygon
+NRXS,3,5.0,4.12,C,9,,,neutral,0,simulated
+NSC,2,5.14,4.95,A,9,Railroads,-4.2,low_volume,7,polygon
+NSP,2,5.0,4.08,C,9,,,neutral,0,polygon
+NSSC,3,5.38,6.36,B,9,Security & Protection Services,-19.0,neutral,7,simulated
+NSTS,2,5.22,5.45,A,9,Banks - Regional,-0.5,low_volume,7,polygon
+NSYS,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NTAP,2,5.78,8.91,A,3,Software - Infrastructure,-12.9,low_volume,8,polygon
+NTCT,3,5.0,4.12,C,9,,,neutral,0,simulated
+NTES,3,5.0,4.12,C,9,,,neutral,0,simulated
+NTGR,3,6.05,10.0,B,3,Communication Equipment,-32.1,neutral,6,simulated
+NTIC,2,4.91,3.53,A,9,Specialty Chemicals,-18.5,low_volume,8,polygon
+NTIP,2,5.0,4.08,C,9,,,neutral,0,polygon
+NTLA,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NTRB,2,5.74,8.66,A,9,Biotechnology,-69.2,neutral,7,polygon
+NTRP,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NTRS,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NTSK,3,5.0,4.12,C,9,,,neutral,0,simulated
+NTWOW,2,5.0,4.08,C,9,,,neutral,0,polygon
+NUCLW,3,5.0,4.12,C,9,,,neutral,1,polygon
+NUE,2,4.75,2.54,A,9,Steel,-2.2,neutral,7,polygon
+NUTX,2,5.0,4.08,C,9,,,neutral,0,polygon
+NUVB,2,5.0,4.08,C,9,,,neutral,0,polygon
+NUVL,3,5.72,8.36,A,9,Biotechnology,-0.0,elevated_volume,6,polygon
+NVAX,2,5.0,4.08,C,9,,,neutral,0,simulated
+NVCR,3,5.0,4.12,C,9,,,neutral,0,simulated
+NVDA,2,5.41,6.62,C,2,,,neutral,0,polygon
+NVEC,3,5.0,4.12,C,9,,,neutral,0,simulated
+NVMI,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NVNIW,3,5.0,4.12,C,9,,,neutral,0,simulated
+NVO,3,5.39,6.42,B,9,Drug Manufacturers - General,-40.4,neutral,7,simulated
+NVR,2,4.79,2.79,A,9,Residential Construction,-24.7,neutral,7,polygon
+NVT,3,5.0,4.12,C,9,,,neutral,0,simulated
+NVTS,2,5.13,4.89,A,2,Semiconductors,-31.0,low_volume,8,polygon
+NWBI,2,5.0,4.08,C,9,,,neutral,0,polygon
+NWFL,3,5.0,4.12,C,9,,,neutral,0,simulated
+NWL,2,5.24,5.57,A,9,Household & Personal Products,-21.5,neutral,6,polygon
+NWSA,2,5.08,4.58,A,9,Entertainment,-17.0,neutral,6,polygon
+NXDCF,3,5.0,4.12,C,9,,,neutral,0,simulated
+NXDR,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NXE,2,5.35,6.25,C,1,,,neutral,0,finnhub
+NXG,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NXGL,3,5.0,4.12,C,9,,,neutral,0,polygon
+NXP,3,5.31,5.95,B,9,Asset Management,-0.1,neutral,6,simulated
+NXPI,2,5.41,6.62,A,2,Semiconductors,-7.9,neutral,7,polygon
+NXPL,3,5.48,6.95,A,5,Software - Application,-38.1,neutral,7,polygon
+NXPLW,2,5.0,4.08,C,9,,,neutral,0,polygon
+NXRT,2,5.0,4.08,C,9,,,neutral,0,polygon
+NXT,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NXTC,2,5.0,4.08,C,9,,,neutral,0,finnhub
+NYXH,2,5.0,4.08,C,9,,,neutral,0,finnhub
+O,2,5.23,5.51,A,9,REIT - Retail,-6.6,neutral,7,polygon
+OABIW,2,5.0,4.08,C,9,,,neutral,0,finnhub
+OBA,3,5.0,4.12,C,9,,,neutral,0,simulated
+OBAI,2,5.79,8.97,A,4,Software - Infrastructure,-97.0,elevated_volume,6,polygon
+OC,3,4.85,3.23,B,9,Building Products & Equipment,-17.4,neutral,7,simulated
+OCCI,2,5.65,8.1,A,9,Asset Management,-45.6,neutral,6,finnhub
+OCCIM,3,5.0,4.12,C,9,,,neutral,0,simulated
+OCFC,2,5.0,4.08,C,9,,,neutral,0,polygon
+OCGN,2,6.14,10.0,A,9,Biotechnology,-52.6,low_volume,6,polygon
+OCSAW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+OCSL,2,5.0,4.08,C,9,,,neutral,0,polygon
+ODFL,2,5.0,4.08,A,9,Trucking,-6.2,neutral,6,polygon
+ODYS,2,5.0,4.08,C,9,,,neutral,0,polygon
+OESX,3,5.0,4.12,C,9,,,neutral,0,simulated
+OFAL,2,5.0,4.08,C,9,,,neutral,0,polygon
+OFRM,2,5.0,4.08,C,9,,,neutral,0,polygon
+OFSSH,2,5.59,7.73,B,9,,-0.8,elevated_volume,5,simulated
+OFSSO,3,5.0,4.12,C,9,,,neutral,0,simulated
+OGE,2,5.56,7.55,A,1,Utilities - Regulated Electric,-3.4,neutral,6,polygon
+OGEN,2,5.0,4.08,C,9,,,neutral,0,finnhub
+OGN,3,4.82,3.06,A,9,Drug Manufacturers - General,-0.1,low_volume,7,polygon
+OGS,3,5.0,4.12,C,9,,,neutral,0,finnhub
+OIA,2,5.41,6.62,B,9,Asset Management,-3.8,neutral,5,simulated
+OII,2,5.0,4.08,C,9,,,neutral,0,finnhub
+OIOWW,2,5.23,5.51,C,9,,,neutral,1,simulated
+OIS,2,5.0,4.08,C,9,,,neutral,0,simulated
+OKE,2,5.49,7.11,A,1,Oil & Gas Midstream,-9.6,neutral,7,polygon
+OKLO,2,5.35,6.25,C,1,,,neutral,0,polygon
+OKTA,2,5.45,6.87,A,7,Software - Infrastructure,-17.5,low_volume,8,polygon
+OKYO,2,5.0,4.08,C,9,,,neutral,0,polygon
+OLED,3,5.0,4.12,C,9,,,neutral,0,simulated
+OLN,3,5.0,4.12,C,9,,,neutral,0,simulated
+OLP,2,5.0,4.08,C,9,,,neutral,0,polygon
+OMAB,2,5.0,4.08,C,9,,,neutral,0,finnhub
+OMC,2,5.0,4.08,C,9,,,neutral,0,finnhub
+OMCL,3,5.0,4.12,C,9,,,neutral,0,finnhub
+OMDA,3,6.0,10.0,A,9,Health Information Services,-35.5,neutral,7,finnhub
+OMEX,2,5.0,4.08,C,9,,,neutral,0,polygon
+OMF,2,5.44,6.81,B,3,Credit Services,-15.7,low_volume,7,simulated
+ON,2,5.41,6.62,C,2,,,neutral,0,polygon
+ONCH,2,5.0,4.08,C,9,,,neutral,0,polygon
+ONCHU,2,5.31,6.0,A,9,Shell Companies,-2.8,neutral,5,finnhub
+ONCHW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ONMD,2,5.0,4.08,C,9,,,neutral,0,polygon
+ONTO,2,5.31,6.0,A,2,Semiconductor Equipment & Materials,-3.7,neutral,7,finnhub
+OOMA,3,5.0,4.12,C,9,,,neutral,0,finnhub
+OPBK,3,5.0,4.12,B,9,Banks - Regional,-6.1,neutral,6,simulated
+OPCH,2,5.47,6.99,A,9,Medical Care Facilities,-40.7,neutral,6,polygon
+OPEN,2,5.36,6.31,A,9,Real Estate Services,-52.8,neutral,7,polygon
+OPFI,2,6.08,10.0,B,3,Credit Services,-41.4,low_volume,7,simulated
+OPK,2,5.0,4.08,C,9,,,neutral,0,polygon
+OPLN,2,4.89,3.4,A,9,Auto & Truck Dealerships,-0.0,low_volume,8,polygon
+OPRA,3,5.47,6.89,A,5,Internet Content & Information,-5.3,neutral,7,polygon
+OPTU,2,5.0,4.08,C,9,,,neutral,0,polygon
+OPTX,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ORCL,2,5.97,10.0,A,4,Software - Infrastructure,-41.7,elevated_volume,8,polygon
+ORGNW,2,6.73,10.0,A,9,,-94.1,dark_pool_buying,6,polygon
+ORGO,2,5.0,4.08,C,9,,,neutral,0,polygon
+ORKA,3,5.0,4.12,C,9,,,neutral,0,simulated
+ORLY,2,5.0,4.08,C,9,,,neutral,0,finnhub
+ORN,2,5.0,4.08,C,9,,,neutral,0,polygon
+OSCR,2,5.0,4.08,C,9,,,neutral,0,polygon
+OSIS,2,5.72,8.54,A,2,Electronic Components,-28.4,neutral,5,finnhub
+OSK,3,5.0,4.12,C,9,,,neutral,0,simulated
+OSS,2,5.0,4.08,C,9,,,neutral,0,finnhub
+OTH,2,5.7,8.41,A,9,Auto & Truck Dealerships,-46.1,neutral,7,finnhub
+OUST,2,5.3,5.94,A,2,Electronic Components,-7.2,low_volume,8,finnhub
+OVLY,2,5.0,4.08,C,9,,,neutral,0,finnhub
+OVV,2,5.26,5.69,A,1,Oil & Gas E&P,-14.5,low_volume,7,finnhub
+OWL,3,5.63,7.83,A,9,Asset Management,-49.3,neutral,7,polygon
+OXBR,2,5.74,8.66,A,9,Insurance - Reinsurance,-66.2,elevated_volume,7,finnhub
+OXBRW,2,4.19,0.0,A,9,,-10.0,neutral,5,finnhub
+OXLCG,3,4.99,4.06,B,9,,-0.3,low_volume,6,simulated
+OXLCL,2,5.0,4.08,C,9,,,neutral,0,finnhub
+OXLCP,3,4.42,0.7,B,9,Asset Management,-0.3,low_volume,7,simulated
+OXY,2,5.21,5.38,A,1,Oil & Gas E&P,-18.7,neutral,7,finnhub
+OYSER,2,5.0,4.08,C,9,,,neutral,0,finnhub
+P,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PAA,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PAAC,2,5.35,6.25,A,9,Shell Companies,,elevated_volume,5,finnhub
+PAC,2,4.91,3.53,A,9,Airports & Air Services,-16.3,low_volume,7,finnhub
+PACH,3,5.0,4.12,C,9,,,neutral,0,simulated
+PACS,2,5.17,5.14,A,9,Medical Care Facilities,-14.9,neutral,7,finnhub
+PAGS,3,5.0,4.12,C,9,,,neutral,0,simulated
+PAI,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PAII,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PANW,2,5.41,6.62,C,7,,,neutral,0,finnhub
+PASW,2,6.18,10.0,A,9,Textile Manufacturing,-95.0,dark_pool_buying,8,finnhub
+PATH,2,5.41,6.62,C,5,,,neutral,0,finnhub
+PAVM,2,6.32,10.0,A,9,Medical Devices,-73.3,neutral,7,finnhub
+PAX,3,5.25,5.59,B,9,Asset Management,-32.3,low_volume,8,simulated
+PAXS,2,5.0,4.08,C,9,,,neutral,0,simulated
+PAY,3,5.0,4.12,C,9,,,neutral,0,finnhub
+PAYX,2,6.1,10.0,A,6,Software - Application,-32.0,neutral,7,finnhub
+PB,3,5.0,4.12,C,9,,,neutral,0,simulated
+PBI,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PBR,3,5.0,4.12,C,9,,,neutral,0,finnhub
+PCAPU,2,5.56,7.55,A,9,Shell Companies,-13.2,dark_pool_buying,6,finnhub
+PCF,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PCG,2,5.35,6.25,C,1,,,neutral,0,finnhub
+PCN,3,5.0,4.12,C,9,,,neutral,0,polygon
+PCSA,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PCSC,3,5.0,4.12,C,9,,,neutral,0,polygon
+PCTY,2,5.35,6.25,C,6,,,neutral,0,simulated
+PCYO,3,5.26,5.65,A,1,Utilities - Regulated Water,-7.4,neutral,7,finnhub
+PD,3,5.0,4.12,C,9,,,neutral,0,polygon
+PDD,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PDEX,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PDFS,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PDPA,3,5.31,5.95,B,9,Asset Management,-0.6,neutral,5,simulated
+PDSB,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PDYN,3,5.0,4.12,C,9,,,neutral,0,finnhub
+PDYNW,2,7.2,10.0,A,9,,-65.4,dark_pool_buying,7,finnhub
+PEB,2,5.0,4.08,C,9,,,neutral,0,simulated
+PECO,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PEG,2,5.35,6.25,C,1,,,neutral,0,finnhub
+PENG,2,5.19,5.26,A,3,Information Technology Services,-13.9,low_volume,8,finnhub
+PENN,3,4.89,3.47,A,9,Resorts & Casinos,0.0,neutral,7,finnhub
+PERF,3,5.68,8.13,A,5,Software - Application,-37.0,low_volume,8,polygon
+PESI,3,5.0,4.12,C,9,,,neutral,0,polygon
+PETS,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PFE,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PFG,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PFL,3,5.0,4.12,C,9,,,neutral,0,polygon
+PFN,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PFO,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PFSI,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PG,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PGNY,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PGR,2,5.08,4.58,A,9,Insurance - Property & Casualty,-18.0,neutral,6,finnhub
+PGY,2,6.12,10.0,A,4,Software - Infrastructure,-64.0,neutral,7,finnhub
+PGYWW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+PH,2,4.89,3.4,A,9,Specialty Industrial Machinery,-7.5,low_volume,8,finnhub
+PHAT,3,5.0,4.12,C,9,,,neutral,0,finnhub
+PHK,3,5.08,4.59,A,9,Asset Management,-3.7,neutral,5,finnhub
+PHR,3,5.91,9.48,A,9,Health Information Services,-71.5,low_volume,8,polygon
+PHUN,3,5.0,4.12,C,9,,,neutral,0,finnhub
+PHVS,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PI,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PII,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PIIIW,3,5.0,4.12,C,9,,,neutral,0,polygon
+PINS,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PKE,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PKG,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PKOH,3,5.0,4.12,C,9,,,neutral,0,simulated
+PL,2,5.56,7.55,A,9,Aerospace & Defense,-45.1,neutral,7,finnhub
+PLAB,3,5.0,4.12,C,9,,,neutral,0,simulated
+PLAG,3,5.8,8.84,A,9,Conglomerates,-58.8,low_volume,8,polygon
+PLAY,3,5.0,4.12,C,9,,,neutral,0,simulated
+PLBC,3,5.0,4.12,C,9,,,neutral,0,finnhub
+PLD,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PLMKU,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PLTR,2,5.98,10.0,A,5,Software - Infrastructure,-36.7,neutral,7,finnhub
+PLUG,2,6.03,10.0,A,1,Electrical Equipment & Parts,-33.8,low_volume,8,finnhub
+PLUR,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PLUS,2,5.41,6.62,A,5,Software - Application,-10.3,neutral,7,finnhub
+PLXS,3,5.62,7.77,B,2,Electronic Components,-0.9,neutral,7,simulated
+PM,3,5.0,4.12,C,9,,,neutral,0,polygon
+PML,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PMM,3,5.0,4.12,C,9,,,neutral,0,finnhub
+PMO,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PMT,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PMTR,2,5.08,4.58,A,9,Shell Companies,-1.6,neutral,5,finnhub
+PMTRU,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PMTU,3,5.0,4.12,C,9,,,neutral,0,polygon
+PNC,2,4.84,3.1,A,9,Banks - Regional,-2.2,neutral,6,finnhub
+PNR,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PNRG,2,5.8,9.03,A,1,Oil & Gas E&P,-37.2,neutral,7,finnhub
+PNTG,3,5.13,4.88,B,9,Medical Care Facilities,-9.0,low_volume,8,simulated
+POCI,3,5.0,4.12,C,9,,,neutral,0,simulated
+PODD,2,5.99,10.0,A,9,Medical Devices,-58.3,neutral,7,finnhub
+POET,3,6.05,10.0,B,2,Semiconductors,-35.3,low_volume,6,simulated
+POLA,2,5.0,4.08,C,9,,,neutral,0,finnhub
+POM,3,5.0,4.12,C,9,,,neutral,0,finnhub
+PONOU,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PONY,3,5.0,4.12,C,9,,,neutral,0,finnhub
+POWI,3,5.41,6.54,C,2,,,neutral,0,simulated
+POWL,3,5.0,4.12,C,9,,,neutral,0,simulated
+PPG,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PPL,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PPLC,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PPTA,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PR,2,5.35,6.25,A,1,Oil & Gas E&P,-18.0,neutral,6,finnhub
+PRAA,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PRCT,2,6.09,10.0,A,9,Medical Devices,-62.9,neutral,7,finnhub
+PRG,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PRGO,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PRHIZ,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PRI,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PRIM,3,5.0,4.12,C,9,,,neutral,0,simulated
+PRK,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PRLB,3,5.0,4.12,B,9,Metal Fabrication,0.0,neutral,7,simulated
+PRLD,2,4.85,3.16,A,9,Biotechnology,-23.6,low_volume,6,finnhub
+PRMB,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PRME,2,5.84,9.28,A,9,Biotechnology,-57.6,neutral,6,finnhub
+PROP,3,5.0,4.12,C,9,,,neutral,0,finnhub
+PRPL,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PRPO,2,5.08,4.58,A,9,Diagnostics & Research,-30.7,low_volume,8,finnhub
+PRQR,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PRSU,2,5.13,4.89,A,9,Travel Services,0.0,neutral,7,finnhub
+PRTH,2,5.66,8.17,A,4,Software - Infrastructure,-25.7,neutral,7,finnhub
+PRU,2,4.99,4.02,A,9,Insurance - Life,-4.6,neutral,6,finnhub
+PRVA,3,5.0,4.12,C,9,,,neutral,0,finnhub
+PS,2,5.0,4.08,C,9,,,neutral,0,simulated
+PSFE,2,6.32,10.0,A,4,Software - Infrastructure,-51.4,low_volume,8,finnhub
+PSIX,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PSKY,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PSN,3,5.0,4.12,C,9,,,neutral,0,polygon
+PSNL,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PSO,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PSQH,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PSTG,3,5.0,4.12,C,9,,,neutral,0,simulated
+PSX,2,5.56,7.55,A,1,Oil & Gas Refining & Marketing,-8.7,neutral,7,finnhub
+PTC,2,5.35,6.25,C,4,,,neutral,0,finnhub
+PTLE,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PTLO,2,5.83,9.22,A,9,Restaurants,-64.5,low_volume,7,finnhub
+PTON,2,5.53,7.36,B,9,Leisure,-35.8,low_volume,7,simulated
+PTOR,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PTORW,2,5.0,4.08,C,9,,,neutral,0,simulated
+PTRN,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PUBM,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PUMP,2,5.0,4.08,C,9,,,neutral,0,simulated
+PURR,2,5.33,6.13,A,8,Capital Markets,-4.8,neutral,5,finnhub
+PVLA,3,5.0,4.12,C,9,,,neutral,0,polygon
+PW,2,5.0,4.08,C,9,,,neutral,0,finnhub
+PWP,3,5.0,4.12,C,9,,,neutral,0,finnhub
+PWR,2,5.73,8.6,A,3,Engineering & Construction,-7.1,neutral,7,finnhub
+PXLW,3,5.0,4.12,C,9,,,neutral,0,simulated
+PXS,3,5.0,4.12,C,9,,,neutral,0,polygon
+PYPL,2,5.35,6.25,C,8,,,neutral,0,finnhub
+PYXS,3,5.0,4.12,C,9,,,neutral,0,finnhub
+QADRU,2,5.0,4.08,C,9,,,neutral,0,finnhub
+QBTS,2,5.6,7.79,A,5,Computer Hardware,-44.9,low_volume,8,finnhub
+QCLS,3,5.0,4.12,C,9,,,neutral,0,simulated
+QCOM,2,5.41,6.62,C,2,,,neutral,0,finnhub
+QCRH,3,5.0,4.12,C,9,,,neutral,0,simulated
+QETAR,3,5.0,4.12,C,9,,,neutral,1,finnhub
+QGEN,3,5.42,6.59,A,9,Diagnostics & Research,-32.6,neutral,6,finnhub
+QNC,3,5.26,5.65,B,4,Software - Infrastructure,-13.2,neutral,4,finnhub
+QNCX,2,5.76,8.78,A,9,Biotechnology,-97.9,low_volume,6,finnhub
+QNRX,3,5.0,4.12,C,9,,,neutral,0,finnhub
+QQQX,2,5.0,4.08,C,9,,,neutral,0,finnhub
+QRHC,3,5.11,4.77,B,9,Waste Management,-38.8,elevated_volume,8,simulated
+QRVO,2,5.41,6.62,C,2,,,neutral,0,finnhub
+QS,2,5.94,9.9,A,9,Auto Parts,-61.9,low_volume,6,finnhub
+QSEAU,2,5.0,4.08,C,9,,,neutral,0,finnhub
+QSIAW,2,4.35,0.07,A,9,,0.0,neutral,6,finnhub
+QTTB,2,5.0,4.08,C,9,,,neutral,0,finnhub
+QTWO,3,5.0,4.12,C,9,,,neutral,0,finnhub
+QUBT,2,5.41,6.62,C,5,,,neutral,0,finnhub
+QUCY,2,5.61,7.86,A,9,Diagnostics & Research,-46.2,low_volume,7,finnhub
+QURE,2,5.0,4.08,C,9,,,neutral,0,finnhub
+QXL,3,5.45,6.77,A,3,Information Technology Services,-6.2,elevated_volume,8,finnhub
+QXO,2,5.0,4.08,C,9,,,neutral,0,finnhub
+R,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RAAQ,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RAAQW,2,4.85,3.16,A,9,,0.0,elevated_volume,5,finnhub
+RAC,3,5.31,5.95,B,9,Shell Companies,-0.2,neutral,4,polygon
+RAINW,2,4.67,2.04,A,9,,-2.5,neutral,5,finnhub
+RAL,2,5.1,4.7,A,2,Electronic Components,0.0,neutral,7,finnhub
+RAMP,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RAND,3,5.56,7.42,B,9,Asset Management,-39.6,low_volume,7,simulated
+RANG,2,5.0,4.08,C,9,,,neutral,0,simulated
+RANGR,2,5.23,5.51,C,9,,,neutral,1,finnhub
+RARE,2,5.51,7.24,A,9,Biotechnology,-40.2,neutral,6,finnhub
+RAVE,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RAYA,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RBA,3,5.0,4.12,C,9,,,neutral,0,simulated
+RBCAA,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RBLX,2,6.0,10.0,A,9,Electronic Gaming & Multimedia,-66.3,neutral,7,finnhub
+RC,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RCAT,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RCD,3,5.0,4.12,C,9,,,neutral,0,polygon
+RCEL,3,5.7,8.25,A,9,Medical Devices,-42.2,neutral,6,finnhub
+RCI,3,5.0,4.12,C,9,,,neutral,0,simulated
+RCL,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RCON,2,7.3,10.0,A,1,Oil & Gas Equipment & Services,-88.6,dark_pool_buying,8,finnhub
+RCUS,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RDAC,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RDACR,3,5.0,4.12,C,9,,,neutral,0,finnhub
+RDACU,3,5.0,4.12,C,9,,,neutral,0,finnhub
+RDAGW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+RDCM,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RDDT,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RDHL,3,5.0,4.12,C,9,,,neutral,0,simulated
+RDNW,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RDW,2,5.0,4.08,C,9,,,neutral,0,finnhub
+REBN,2,5.0,4.08,C,9,,,neutral,0,finnhub
+REE,2,5.0,4.08,C,9,,,neutral,0,finnhub
+REG,2,5.31,6.0,A,9,REIT - Retail,-1.4,neutral,7,finnhub
+REGN,2,5.19,5.26,A,9,Biotechnology,-24.2,neutral,7,finnhub
+REKR,2,6.03,10.0,A,4,Software - Infrastructure,-78.2,low_volume,8,finnhub
+RELY,2,5.35,6.25,C,8,,,neutral,0,finnhub
+RENT,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RENX,2,5.0,4.08,C,9,,,neutral,0,finnhub
+REPL,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RETO,3,6.71,10.0,A,9,Building Materials,-95.9,dark_pool_buying,8,polygon
+REVBW,2,4.67,2.04,B,9,,-1.1,neutral,4,simulated
+RF,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RFAIR,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RFAM,3,5.0,4.12,C,9,,,neutral,0,simulated
+RFM,3,5.0,4.12,C,9,,,neutral,0,finnhub
+RFMZ,3,5.0,4.12,C,9,,,neutral,0,simulated
+RGA,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RGC,3,6.1,10.0,A,9,Drug Manufacturers - Specialty & Generic,-77.7,neutral,5,polygon
+RGEN,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RGNT,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RGP,3,5.0,4.12,C,9,,,neutral,0,simulated
+RGT,2,5.59,7.73,A,9,Asset Management,-1.5,elevated_volume,6,finnhub
+RGTI,2,5.41,6.62,C,5,,,neutral,0,finnhub
+RH,3,5.0,4.12,C,9,,,neutral,0,simulated
+RHI,2,4.96,3.84,A,9,Staffing & Employment Services,-18.9,neutral,6,finnhub
+RHP,2,4.67,2.04,A,9,REIT - Hotel & Motel,0.0,neutral,7,finnhub
+RIBBU,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RIBER,3,5.0,4.12,C,9,,,neutral,0,simulated
+RIGL,3,5.0,4.12,C,9,,,neutral,0,finnhub
+RILY,3,5.0,4.12,C,9,,,neutral,0,finnhub
+RILYZ,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RIME,2,6.12,10.0,A,9,Consumer Electronics,-77.9,low_volume,8,finnhub
+RIO,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RIOT,2,5.35,6.25,C,3,,,neutral,0,finnhub
+RIVN,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RKLB,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RLAY,3,5.0,4.12,C,9,,,neutral,0,finnhub
+RLI,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RLX,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RMBI,2,4.91,3.53,A,9,Banks - Regional,-5.6,low_volume,7,finnhub
+RMBS,3,5.35,6.18,B,2,Semiconductors,-20.3,neutral,7,simulated
+RMCF,2,5.63,7.98,A,9,Confectioners,-45.5,neutral,7,finnhub
+RMD,3,5.0,4.12,C,9,,,neutral,0,simulated
+RMNI,3,5.28,5.77,A,5,Software - Application,-20.3,neutral,6,polygon
+RMR,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RMT,3,4.93,3.7,A,9,Asset Management,0.0,neutral,6,finnhub
+RNAC,3,5.0,4.12,C,9,,,neutral,0,finnhub
+RNAZ,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RNG,2,5.77,8.85,A,5,Software - Application,-22.0,low_volume,8,finnhub
+RNGR,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RNTX,3,5.0,4.12,C,9,,,neutral,0,polygon
+RNWWW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+RNXT,3,5.0,4.12,C,9,,,neutral,0,simulated
+ROK,3,5.13,4.88,B,9,Specialty Industrial Machinery,0.0,low_volume,8,simulated
+ROKU,2,5.0,4.08,C,9,,,neutral,0,finnhub
+ROL,2,5.0,4.08,C,9,,,neutral,0,finnhub
+ROOT,2,5.0,4.08,C,9,,,neutral,0,finnhub
+ROST,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RPID,2,6.18,10.0,A,9,Medical Devices,-63.9,neutral,7,finnhub
+RQI,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RR,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RREVU,2,5.08,4.58,C,9,Shell Companies,,neutral,3,finnhub
+RRGB,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RRR,3,4.98,4.0,A,9,Resorts & Casinos,-6.1,neutral,6,finnhub
+RS,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RSG,2,5.22,5.45,A,9,Waste Management,-15.7,low_volume,7,finnhub
+RSI,2,4.92,3.59,A,9,Gambling,-3.1,neutral,7,finnhub
+RSSS,3,5.0,4.12,C,9,,,neutral,0,simulated
+RSVR,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RTACU,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RTO,3,5.0,4.12,C,9,,,neutral,0,simulated
+RTX,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RUBI,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RUN,2,6.38,10.0,A,1,Solar,-41.1,neutral,7,finnhub
+RUSHA,3,5.23,5.47,A,9,Auto & Truck Dealerships,-7.4,neutral,6,finnhub
+RVI,3,5.0,4.12,C,9,,,neutral,0,simulated
+RVLV,2,5.24,5.57,A,9,Internet Retail,-32.7,low_volume,8,finnhub
+RVMD,3,5.0,4.12,C,9,,,neutral,0,simulated
+RVSN,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RVT,2,5.59,7.73,A,9,Asset Management,-2.1,elevated_volume,7,finnhub
+RVTY,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RWAY,2,5.76,8.78,A,9,Asset Management,-41.0,neutral,6,finnhub
+RWT,2,4.85,3.16,A,9,REIT - Mortgage,-17.9,neutral,6,finnhub
+RWTN,3,5.0,4.12,C,9,,,neutral,0,finnhub
+RWTP,2,4.93,3.65,A,9,,-6.1,neutral,5,finnhub
+RWTQ,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RXRX,3,5.41,6.54,C,5,,,neutral,0,simulated
+RXST,2,5.0,4.08,C,9,,,neutral,0,simulated
+RXT,3,4.9,3.53,A,4,Software - Infrastructure,-10.5,neutral,6,finnhub
+RY,2,4.96,3.84,A,9,Banks - Diversified,0.0,elevated_volume,7,finnhub
+RYAAY,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RYF,2,5.0,4.08,C,9,,,neutral,0,simulated
+RYN,3,5.0,4.12,C,9,,,neutral,0,finnhub
+RYTM,2,5.0,4.08,C,9,,,neutral,0,finnhub
+RZLT,3,5.0,4.12,C,9,,,neutral,0,simulated
+RZLVW,3,5.0,4.12,C,9,,,neutral,0,simulated
+S,2,5.41,6.62,C,7,,,neutral,0,finnhub
+SA,2,5.0,4.08,C,9,,,neutral,0,finnhub
+SABR,2,5.0,4.08,C,9,,,neutral,0,finnhub
+SABS,3,5.04,4.35,A,9,Biotechnology,-14.6,elevated_volume,6,polygon
+SABSW,2,5.0,4.08,C,9,,,neutral,0,finnhub
+SAFE,2,5.0,4.08,C,9,,,neutral,0,finnhub
+SAFT,2,5.0,4.08,C,9,,,neutral,0,finnhub
+SAH,2,5.0,4.08,C,9,,,neutral,0,finnhub
+SAIA,2,5.0,4.08,A,9,Trucking,-5.4,neutral,6,finnhub
+SAIC,3,5.93,9.6,B,6,Information Technology Services,-9.7,neutral,6,simulated
+SAIL,2,5.41,6.62,C,7,,,neutral,0,finnhub
+SAM,2,5.0,4.08,C,9,,,neutral,0,finnhub
+SANA,3,5.0,4.12,C,9,,,neutral,0,simulated
+SANM,3,5.0,4.12,C,9,,,neutral,0,simulated
+SAP,2,5.0,4.08,C,9,,,neutral,0,finnhub
+SATA,2,5.0,4.08,C,9,,,neutral,0,simulated
+SATL,2,5.0,4.08,C,9,,,neutral,0,finnhub
+SATS,2,5.0,4.08,C,9,,,neutral,0,finnhub
+SAV,3,5.0,4.12,C,9,,,neutral,0,polygon
+SBAC,2,5.0,4.08,C,9,,,neutral,0,finnhub
+SBCWW,2,6.09,10.0,A,9,,-25.4,dark_pool_buying,7,finnhub
+SBET,2,5.0,4.08,C,9,,,neutral,0,finnhub
+SBFM,3,5.0,4.12,C,9,,,neutral,0,simulated
+SBFMW,2,5.0,4.08,C,9,,,neutral,0,finnhub
+SBGSY,3,5.0,4.12,C,9,,,neutral,0,simulated
+SBI,3,5.08,4.59,A,9,Asset Management,-0.0,neutral,5,polygon
+SBLK,3,5.0,4.12,C,9,,,neutral,0,simulated
+SBR,2,5.0,4.08,C,9,,,neutral,0,simulated
+SBRA,2,5.0,4.08,C,9,,,neutral,0,simulated
+SBS,2,5.0,4.08,C,9,,,neutral,0,simulated
+SBSI,3,5.23,5.47,A,9,Banks - Regional,-1.9,neutral,6,finnhub
+SBUX,2,5.0,4.08,C,9,,,neutral,0,simulated
+SCAGW,3,5.0,4.12,C,9,,,neutral,0,simulated
+SCCD,2,5.46,6.93,B,9,,-1.6,low_volume,5,simulated
+SCCF,2,5.0,4.08,C,9,,,neutral,0,simulated
+SCCO,2,5.0,4.08,C,9,,,neutral,0,simulated
+SCD,2,5.08,4.58,B,9,Asset Management,0.0,neutral,6,simulated
+SCHW,2,5.35,6.25,C,8,,,neutral,0,simulated
+SCI,2,5.0,4.08,C,9,,,neutral,0,simulated
+SCII,3,5.0,4.12,C,9,,,neutral,0,finnhub
+SCIIU,3,5.0,4.12,C,9,,,neutral,0,simulated
+SCKT,2,5.83,9.22,B,3,Computer Hardware,-35.2,elevated_volume,8,simulated
+SCNI,3,5.89,9.37,A,9,Biotechnology,-86.7,elevated_volume,8,polygon
+SCOR,3,5.0,4.12,C,9,,,neutral,0,simulated
+SCSC,2,5.0,4.08,C,9,,,neutral,0,simulated
+SCWO,2,5.0,4.08,C,9,,,neutral,0,simulated
+SD,2,5.65,8.1,B,1,Oil & Gas E&P,-20.4,low_volume,8,simulated
+SDA,3,5.51,7.13,A,9,Auto & Truck Dealerships,-72.7,low_volume,7,finnhub
+SDHC,2,5.18,5.2,B,9,Real Estate - Development,-38.1,low_volume,8,simulated
+SDHIU,2,5.54,7.42,B,9,Shell Companies,-4.3,low_volume,6,simulated
+SDRL,2,5.0,4.08,C,9,,,neutral,0,simulated
+SDST,2,5.0,4.08,C,9,,,neutral,0,simulated
+SE,2,5.0,4.08,C,9,,,neutral,0,simulated
+SEB,2,5.0,4.08,C,9,,,neutral,0,simulated
+SEDG,2,5.35,6.25,C,1,,,neutral,0,simulated
+SEER,2,5.42,6.68,B,9,Biotechnology,-27.0,low_volume,8,simulated
+SEGG,2,5.0,4.08,C,9,,,neutral,0,simulated
+SEI,3,5.47,6.89,A,1,Oil & Gas Equipment & Services,0.0,neutral,7,polygon
+SELF,2,5.0,4.08,C,9,,,neutral,0,simulated
+SEM,3,5.0,4.12,C,9,,,neutral,0,simulated
+SENEB,2,4.72,2.35,B,9,Packaged Foods,0.0,low_volume,8,simulated
+SEPN,2,5.0,4.08,C,9,,,neutral,0,simulated
+SERA,2,5.27,5.75,B,9,Medical Devices,-54.9,low_volume,8,simulated
+SERV,2,5.35,6.25,C,6,,,neutral,0,simulated
+SEV,2,5.0,4.08,C,9,,,neutral,0,simulated
+SEVN,2,5.0,4.08,C,9,,,neutral,0,simulated
+SEZL,3,5.0,4.12,C,9,,,neutral,0,simulated
+SFD,3,5.0,4.12,C,9,,,neutral,0,simulated
+SFL,2,5.0,4.08,C,9,,,neutral,0,simulated
+SFNC,2,5.0,4.08,C,9,,,neutral,0,simulated
+SFWL,3,5.0,4.12,C,9,,,neutral,0,polygon
+SGHT,2,5.36,6.31,B,9,Medical Devices,-44.4,low_volume,8,simulated
+SGML,2,5.0,4.08,C,9,,,neutral,0,simulated
+SGMT,2,5.0,4.08,C,9,,,neutral,0,simulated
+SHBI,3,5.0,4.12,C,9,,,neutral,0,simulated
+SHC,2,5.13,4.89,B,9,Diagnostics & Research,-16.4,low_volume,8,simulated
+SHECY,3,5.0,4.12,C,9,,,neutral,0,simulated
+SHEN,3,5.0,4.12,C,9,,,neutral,0,finnhub
+SHFS,3,6.66,10.0,A,9,Banks - Regional,-96.5,dark_pool_buying,7,finnhub
+SHG,3,5.0,4.12,C,9,,,neutral,0,simulated
+SHIM,2,5.0,4.08,C,9,,,neutral,0,simulated
+SHIP,3,5.0,4.12,C,9,,,neutral,0,finnhub
+SHOP,2,5.35,6.25,C,6,,,neutral,0,simulated
+SHPH,2,5.0,4.08,C,9,,,neutral,0,simulated
+SHW,2,5.0,4.08,C,9,,,neutral,0,simulated
+SID,3,5.0,4.12,C,9,,,neutral,0,simulated
+SIEGY,3,5.0,4.12,C,9,,,neutral,0,simulated
+SIGI,2,5.0,4.08,B,9,Insurance - Property & Casualty,0.0,neutral,6,simulated
+SII,3,5.0,4.12,C,9,,,neutral,0,polygon
+SILC,2,5.0,4.08,C,9,,,neutral,0,simulated
+SILO,2,5.0,4.08,C,9,,,neutral,0,simulated
+SIMO,3,5.0,4.12,C,9,,,neutral,0,simulated
+SIRI,2,5.0,4.08,C,9,,,neutral,0,simulated
+SITC,2,5.0,4.08,C,9,,,neutral,0,simulated
+SITM,3,5.41,6.54,C,2,,,neutral,0,simulated
+SIV,3,5.23,5.47,C,9,,,neutral,0,simulated
+SJM,2,5.0,4.08,C,9,,,neutral,0,simulated
+SKIN,2,6.22,10.0,B,9,Household & Personal Products,-75.7,low_volume,8,simulated
+SKM,2,5.0,4.08,C,9,,,neutral,0,simulated
+SKWD,3,5.0,4.12,C,9,,,neutral,0,simulated
+SKY,2,5.0,4.08,C,9,,,neutral,0,simulated
+SKYH,3,5.19,5.24,B,9,Real Estate - Development,-14.4,low_volume,8,simulated
+SKYT,3,5.0,4.12,C,9,,,neutral,0,finnhub
+SKYW,2,5.0,4.08,C,9,,,neutral,0,simulated
+SLAB,3,5.89,9.37,B,2,Semiconductors,0.0,neutral,7,simulated
+SLB,2,5.0,4.08,C,9,,,neutral,0,simulated
+SLDE,3,5.28,5.77,B,9,Insurance - Property & Casualty,-27.5,low_volume,7,simulated
+SLDP,3,5.0,4.12,C,9,,,neutral,0,finnhub
+SLF,3,5.0,4.12,C,9,,,neutral,0,simulated
+SLGN,2,5.0,4.08,C,9,,,neutral,0,simulated
+SLI,2,5.0,4.08,C,9,,,neutral,0,simulated
+SLMBP,2,5.13,4.89,B,3,Credit Services,-0.1,low_volume,6,simulated
+SLNG,2,5.16,5.07,B,1,Oil & Gas Integrated,-26.9,neutral,7,simulated
+SLQT,2,5.51,7.24,B,9,Insurance Brokers,-61.2,low_volume,8,simulated
+SLRC,3,5.0,4.12,C,9,,,neutral,0,finnhub
+SLSN,3,5.74,8.48,A,9,Household & Personal Products,-75.9,neutral,7,polygon
+SLSR,3,4.92,3.65,A,9,Other Precious Metals & Mining,-9.5,neutral,5,finnhub
+SLVM,3,5.0,4.12,C,9,,,neutral,0,polygon
+SLXNW,3,4.79,2.88,A,9,,0.0,elevated_volume,5,finnhub
+SM,2,5.0,4.08,C,9,,,neutral,0,simulated
+SMBK,2,5.0,4.08,C,9,,,neutral,0,simulated
+SMC,3,5.56,7.42,A,1,Oil & Gas Midstream,-12.4,neutral,5,finnhub
+SMCI,2,6.83,10.0,B,3,Computer Hardware,-51.2,dark_pool_buying,8,simulated
+SMHI,3,5.0,4.12,C,9,,,neutral,0,simulated
+SMID,3,5.75,8.54,B,9,Building Materials,-31.1,elevated_volume,8,simulated
+SMP,2,5.0,4.08,C,9,,,neutral,0,simulated
+SMPL,3,5.0,4.12,C,9,,,neutral,0,simulated
+SMR,2,5.35,6.25,C,1,,,neutral,0,simulated
+SMSI,3,5.0,4.12,C,9,,,neutral,0,finnhub
+SMTC,2,5.41,6.62,C,2,,,neutral,0,simulated
+SMX,3,5.51,7.13,A,9,Specialty Business Services,-99.7,low_volume,7,finnhub
+SMXT,3,5.0,4.12,C,9,,,neutral,0,finnhub
+SNA,2,5.0,4.08,C,9,,,neutral,0,simulated
+SNAP,2,5.0,4.08,C,9,,,neutral,0,simulated
+SNDK,2,5.41,6.62,C,2,,,neutral,0,simulated
+SNDR,3,5.38,6.36,B,9,Trucking,-4.2,neutral,6,simulated
+SNEX,3,5.0,4.12,C,9,,,neutral,0,polygon
+SNN,2,5.0,4.08,C,9,,,neutral,0,simulated
+SNOW,2,5.35,6.25,C,4,,,neutral,0,simulated
+SNPS,2,5.41,6.62,C,2,,,neutral,0,simulated
+SNT,2,5.0,4.08,C,9,,,neutral,0,simulated
+SNX,3,5.0,4.12,C,9,,,neutral,0,simulated
+SO,2,5.35,6.25,C,1,,,neutral,0,simulated
+SOAR,3,5.59,7.6,B,9,Airports & Air Services,-94.7,low_volume,8,simulated
+SOFI,2,5.35,6.25,C,8,,,neutral,0,simulated
+SOHU,3,5.89,9.37,B,9,Electronic Gaming & Multimedia,-23.7,neutral,6,simulated
+SOIT,3,5.0,4.12,C,9,,,neutral,0,simulated
+SOLV,2,5.0,4.08,C,9,,,neutral,0,simulated
+SOMN,3,6.3,10.0,A,1,Utilities - Regulated Electric,-7.6,dark_pool_buying,8,finnhub
+SON,2,5.0,4.08,C,9,,,neutral,0,simulated
+SONO,3,5.0,4.12,C,9,,,neutral,0,simulated
+SOPA,2,5.0,4.08,C,9,,,neutral,0,simulated
+SOPH,2,4.92,3.59,B,9,Health Information Services,-10.4,neutral,7,simulated
+SOUN,2,5.41,6.62,C,5,,,neutral,0,simulated
+SOUNW,3,5.0,4.12,C,9,,,neutral,0,simulated
+SOWG,3,5.0,4.12,C,9,,,neutral,0,simulated
+SPAI,3,5.0,4.12,C,9,,,neutral,0,finnhub
+SPB,2,5.0,4.08,C,9,,,neutral,0,simulated
+SPCE,2,5.65,8.1,B,9,Aerospace & Defense,-55.3,elevated_volume,8,simulated
+SPCX,3,5.23,5.47,C,9,Aerospace & Defense,,neutral,3,simulated
+SPEG,2,5.0,4.08,C,9,,,neutral,0,simulated
+SPEGR,2,5.0,4.08,C,9,,,neutral,0,simulated
+SPEGU,2,5.0,4.08,C,9,,,neutral,0,simulated
+SPGI,2,5.0,4.08,C,9,,,neutral,0,simulated
+SPKLW,2,5.0,4.08,C,9,,,neutral,0,simulated
+SPMA,3,5.0,4.12,C,9,,,neutral,0,simulated
+SPME,3,5.0,4.12,C,9,,,neutral,0,simulated
+SPNT,2,5.0,4.08,C,9,,,neutral,0,simulated
+SPPL,2,5.0,4.08,C,9,,,neutral,0,simulated
+SPWR,2,5.35,6.25,C,1,,,neutral,0,simulated
+SPXC,3,5.0,4.12,C,9,,,neutral,0,simulated
+SPXX,3,5.0,4.12,C,9,,,neutral,0,finnhub
+SQM,2,5.0,4.08,C,9,,,neutral,0,simulated
+SQNS,2,5.0,4.08,C,9,,,neutral,0,simulated
+SRAD,2,5.0,4.08,C,9,,,neutral,0,simulated
+SRCE,2,5.08,4.58,B,9,Banks - Regional,-0.9,neutral,6,simulated
+SRE,2,5.0,4.08,C,9,,,neutral,0,simulated
+SRFM,3,5.0,4.12,C,9,,,neutral,0,polygon
+SRI,3,5.0,4.12,C,9,,,neutral,0,polygon
+SRPT,2,5.42,6.68,B,9,Biotechnology,-36.2,low_volume,7,simulated
+SRRK,3,5.0,4.12,C,9,,,neutral,0,polygon
+SRTS,2,5.59,7.73,B,9,Medical Devices,-52.2,low_volume,8,simulated
+SRUUF,3,5.0,4.12,C,9,,,neutral,0,simulated
+SRXH,3,5.48,6.95,B,9,Packaged Foods,-71.6,elevated_volume,7,simulated
+SRZN,3,5.0,4.12,C,9,,,neutral,0,finnhub
+SRZNW,2,4.97,3.9,B,9,,-14.1,neutral,5,simulated
+SSACR,2,5.0,4.08,C,9,,,neutral,0,simulated
+SSACW,3,5.23,5.47,C,9,,,neutral,1,finnhub
+SSM,2,5.0,4.08,C,9,,,neutral,0,simulated
+SSNC,2,5.0,4.08,C,9,,,neutral,0,simulated
+SSNLF,3,5.0,4.12,C,9,,,neutral,0,simulated
+SSRM,3,5.15,5.0,B,9,Gold,-11.4,neutral,7,simulated
+SSSS,2,5.0,4.08,C,9,,,neutral,0,simulated
+SST,3,5.0,4.12,C,9,,,neutral,0,simulated
+SSTK,2,5.0,4.08,C,9,,,neutral,0,simulated
+SSYS,2,5.0,4.08,C,9,,,neutral,0,simulated
+ST,3,5.0,4.12,C,9,,,neutral,0,simulated
+STAA,2,5.0,4.08,C,9,,,neutral,0,simulated
+STAG,3,5.08,4.59,A,9,REIT - Industrial,-3.0,neutral,7,polygon
+STEX,2,5.0,4.08,C,9,,,neutral,0,simulated
+STG,2,5.0,4.08,C,9,,,neutral,0,simulated
+STI,2,5.13,4.89,B,9,Electrical Equipment & Parts,-42.5,low_volume,7,simulated
+STKE,3,5.0,4.12,C,9,,,neutral,0,simulated
+STKH,3,5.0,4.12,C,9,,,neutral,0,simulated
+STLD,2,4.75,2.54,B,9,Steel,-2.4,neutral,7,simulated
+STM,3,5.33,6.06,B,2,Semiconductors,-4.5,neutral,7,simulated
+STN,3,5.0,4.12,C,9,,,neutral,0,simulated
+STNG,2,5.0,4.08,C,9,,,neutral,0,simulated
+STRK,2,5.0,4.08,C,9,,,neutral,0,simulated
+STRR,3,5.28,5.77,B,9,Conglomerates,-4.7,elevated_volume,8,simulated
+STRRP,2,5.0,4.08,C,9,,,neutral,0,simulated
+STRS,2,5.0,4.08,C,9,,,neutral,0,simulated
+STSSW,2,5.0,4.08,C,9,,,neutral,0,simulated
+STWD,2,5.0,4.08,C,9,,,neutral,0,simulated
+STX,2,5.26,5.69,B,3,Computer Hardware,0.0,neutral,7,simulated
+STXS,2,5.0,4.08,C,9,,,neutral,0,simulated
+STZ,2,4.85,3.16,B,9,Beverages - Brewers,-14.8,neutral,7,simulated
+SUI,2,5.31,6.0,B,9,REIT - Residential,-8.8,neutral,7,simulated
+SUMCF,3,5.0,4.12,C,9,,,neutral,0,simulated
+SUNC,3,5.0,4.12,C,9,,,neutral,0,simulated
+SUNE,3,5.8,8.84,A,1,Solar,-56.1,low_volume,8,finnhub
+SUNS,2,5.0,4.08,C,9,,,neutral,0,simulated
+SUPN,2,5.0,4.08,C,9,,,neutral,0,simulated
+SURG,2,5.84,9.28,B,9,Telecom Services,-87.5,neutral,7,simulated
+SUUN,3,5.35,6.18,C,1,,,neutral,0,simulated
+SVACU,3,6.28,10.0,B,9,Shell Companies,-10.5,dark_pool_buying,6,simulated
+SVC,3,5.0,4.12,C,9,,,neutral,0,simulated
+SVIV,2,5.0,4.08,C,9,,,neutral,0,simulated
+SVRA,2,5.0,4.08,C,9,,,neutral,0,simulated
+SVV,2,5.0,4.08,C,9,,,neutral,0,simulated
+SWK,2,4.98,3.96,B,9,Tools & Accessories,-5.9,neutral,6,simulated
+SWKS,2,5.41,6.62,C,2,,,neutral,0,simulated
+SWVL,2,5.0,4.08,C,9,,,neutral,0,simulated
+SXI,2,5.0,4.08,C,9,,,neutral,0,simulated
+SXTPW,3,5.0,4.12,C,9,,,neutral,0,simulated
+SYK,2,5.0,4.08,C,9,,,neutral,0,simulated
+SYM,2,5.0,4.08,C,9,,,neutral,0,simulated
+SYPR,2,4.98,3.96,B,9,Auto Parts,-37.8,low_volume,8,simulated
+SYRE,2,5.0,4.08,C,9,,,neutral,0,simulated
+SYY,2,4.75,2.54,B,9,Food Distribution,-11.6,neutral,6,simulated
+SZZLR,2,5.23,5.51,C,9,,,neutral,1,simulated
+T,2,5.08,4.58,B,9,Telecom Services,-19.5,neutral,6,simulated
+TACHW,2,4.85,3.16,B,9,,0.0,elevated_volume,5,simulated
+TACO,2,5.0,4.08,C,9,,,neutral,0,simulated
+TAL,2,5.61,7.86,B,9,Education & Training Services,-28.7,neutral,7,simulated
+TALO,3,5.0,4.12,C,9,,,neutral,0,polygon
+TAP,2,5.0,4.08,C,9,,,neutral,0,simulated
+TARS,2,5.0,4.08,C,9,,,neutral,0,simulated
+TAVI,3,5.0,4.12,C,9,,,neutral,0,simulated
+TAYD,2,5.0,4.08,C,9,,,neutral,0,simulated
+TBBB,2,5.0,4.08,C,9,,,neutral,0,simulated
+TBBK,3,5.0,4.12,C,9,,,neutral,0,finnhub
+TBN,3,5.0,4.12,C,9,,,neutral,0,simulated
+TBPH,2,5.0,4.08,C,9,,,neutral,0,simulated
+TBRG,3,4.82,3.06,A,9,Health Information Services,0.0,neutral,6,polygon
+TCBIO,2,5.0,4.08,C,9,,,neutral,0,simulated
+TCRX,3,5.7,8.25,B,9,Biotechnology,-65.0,neutral,6,simulated
+TCS.NS,3,5.0,4.12,C,9,,,neutral,0,simulated
+TD,2,5.0,4.08,C,9,,,neutral,0,simulated
+TDAY,2,5.51,7.24,B,9,Publishing,-5.4,neutral,6,simulated
+TDC,3,5.0,4.12,C,9,,,neutral,0,finnhub
+TDF,2,5.0,4.08,C,9,,,neutral,0,simulated
+TDG,2,5.13,4.89,B,9,Aerospace & Defense,-14.1,low_volume,8,simulated
+TDKCY,3,5.0,4.12,C,9,,,neutral,0,simulated
+TDS,2,5.0,4.08,C,9,,,neutral,0,simulated
+TDUP,2,5.0,4.08,C,9,,,neutral,0,simulated
+TDW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+TEAD,3,5.0,4.12,C,9,,,neutral,0,finnhub
+TEAM,2,5.0,4.08,C,9,,,neutral,0,simulated
+TECH,2,4.94,3.71,B,9,Biotechnology,-21.1,neutral,6,simulated
+TECK,3,5.0,4.12,C,9,,,neutral,0,simulated
+TEL,2,5.0,4.08,C,9,,,neutral,0,simulated
+TELA,2,5.0,4.08,C,9,,,neutral,0,simulated
+TEM,2,5.77,8.85,B,9,Health Information Services,-49.5,neutral,7,simulated
+TENB,2,5.41,6.62,C,7,,,neutral,0,simulated
+TEO,3,5.0,4.12,C,9,,,neutral,0,finnhub
+TER,2,5.0,4.08,C,9,,,neutral,0,simulated
+TEVA,3,5.0,4.12,C,9,,,neutral,0,finnhub
+TEX,3,5.0,4.12,C,9,,,neutral,0,finnhub
+TFC,2,5.0,4.08,C,9,,,neutral,0,simulated
+TFSL,3,5.0,4.12,C,9,,,neutral,0,finnhub
+TFX,2,4.91,3.53,B,9,Medical Instruments & Supplies,-7.6,low_volume,8,simulated
+TGB,2,5.0,4.08,C,9,,,neutral,0,simulated
+TGE,3,5.0,4.12,C,9,,,neutral,0,finnhub
+TGEN,2,5.27,5.75,B,9,Electrical Equipment & Parts,-52.3,low_volume,8,simulated
+TGL,2,5.0,4.08,C,9,,,neutral,0,simulated
+TGT,3,5.0,4.12,C,9,,,neutral,0,simulated
+THC,2,5.0,4.08,C,9,,,neutral,0,simulated
+THCH,3,5.81,8.89,B,9,Restaurants,-47.0,neutral,7,simulated
+THFF,2,5.0,4.08,C,9,,,neutral,0,simulated
+THG,2,4.84,3.1,B,9,Insurance - Property & Casualty,0.0,neutral,6,simulated
+THO,2,5.0,4.08,C,9,,,neutral,0,simulated
+THQ,2,5.0,4.08,C,9,,,neutral,0,simulated
+THR,3,5.51,7.13,B,9,Specialty Industrial Machinery,-14.2,elevated_volume,8,simulated
+THW,2,5.0,4.08,C,9,,,neutral,0,simulated
+TIC,3,6.15,10.0,A,9,Specialty Business Services,-42.4,neutral,7,polygon
+TIGO,2,5.23,5.51,B,9,Telecom Services,-7.4,neutral,7,simulated
+TIGR,2,5.0,4.08,C,9,,,neutral,0,simulated
+TITN,2,5.95,9.96,B,9,Industrial Distribution,-16.9,dark_pool_buying,7,simulated
+TJGC,3,5.0,4.12,C,9,,,neutral,0,simulated
+TJX,2,5.0,4.08,C,9,,,neutral,0,simulated
+TK,2,5.0,4.08,C,9,,,neutral,0,simulated
+TKNO,2,5.0,4.08,C,9,,,neutral,0,simulated
+TLIH,3,5.0,4.12,C,9,,,neutral,0,finnhub
+TLK,3,5.0,4.12,C,9,,,neutral,0,simulated
+TLN,2,5.35,6.25,C,1,,,neutral,0,simulated
+TLNC,3,5.22,5.42,A,9,Shell Companies,-0.5,low_volume,5,polygon
+TLRY,2,5.0,4.08,C,9,,,neutral,0,simulated
+TLS,2,5.77,8.85,B,4,Software - Infrastructure,-41.6,neutral,7,simulated
+TLX,2,5.0,4.08,C,9,,,neutral,0,simulated
+TM,2,5.0,4.08,C,9,,,neutral,0,simulated
+TMC,2,5.0,4.08,C,9,,,neutral,0,simulated
+TMCI,2,5.0,4.08,C,9,,,neutral,0,simulated
+TMCR,2,5.0,4.08,C,9,,,neutral,0,simulated
+TMDX,3,5.0,4.12,C,9,,,neutral,0,simulated
+TME,2,5.0,4.08,C,9,,,neutral,0,simulated
+TMO,3,5.0,4.12,C,9,,,neutral,0,simulated
+TMQ,3,5.0,4.12,C,9,,,neutral,0,finnhub
+TMTSW,2,5.23,5.51,C,9,,,neutral,1,simulated
+TMUSL,3,5.0,4.12,C,9,,,neutral,0,finnhub
+TMUSZ,2,5.0,4.08,C,9,,,neutral,0,simulated
+TNC,2,5.0,4.08,C,9,,,neutral,0,simulated
+TNK,2,5.0,4.08,C,9,,,neutral,0,simulated
+TNL,3,4.59,1.7,A,9,Travel Services,-3.7,neutral,6,polygon
+TNXP,3,5.0,4.12,C,9,,,neutral,0,simulated
+TOELY,3,5.0,4.12,C,9,,,neutral,0,simulated
+TOL,2,4.6,1.61,B,9,Residential Construction,-8.8,neutral,7,simulated
+TOP,2,5.0,4.08,C,9,,,neutral,0,simulated
+TOPPY,3,5.0,4.12,C,9,,,neutral,0,simulated
+TOPS,3,5.0,4.12,C,9,,,neutral,0,finnhub
+TORO,2,5.0,4.08,C,9,,,neutral,0,simulated
+TPB,2,5.0,4.08,C,9,,,neutral,0,simulated
+TPC,3,5.13,4.88,B,9,Engineering & Construction,-20.0,low_volume,8,simulated
+TPGXL,3,5.31,5.95,B,9,,-7.6,neutral,4,finnhub
+TPH,2,5.13,4.89,B,9,Residential Construction,-0.0,elevated_volume,8,simulated
+TPR,2,5.0,4.08,C,9,,,neutral,0,simulated
+TPTA,2,5.0,4.08,C,9,,,neutral,0,simulated
+TPVG,2,5.0,4.08,C,9,,,neutral,0,simulated
+TR,2,5.51,7.24,B,9,Confectioners,-15.3,neutral,6,simulated
+TRAD,3,5.22,5.42,B,9,Shell Companies,,low_volume,5,simulated
+TRC,2,5.5,7.18,B,9,Conglomerates,-5.3,low_volume,8,simulated
+TRDA,3,5.0,4.12,C,9,,,neutral,0,polygon
+TREE,2,5.81,9.09,B,9,Financial Conglomerates,-50.6,low_volume,8,simulated
+TRGP,2,5.42,6.68,B,1,Oil & Gas Midstream,-6.5,neutral,7,simulated
+TRGSU,2,5.54,7.42,B,9,Shell Companies,-0.4,low_volume,6,simulated
+TRI,3,6.23,10.0,A,9,Specialty Business Services,-61.1,neutral,7,finnhub
+TRIN,2,5.0,4.08,C,9,,,neutral,0,simulated
+TRINI,2,5.0,4.08,C,9,,,neutral,0,simulated
+TRIP,2,5.0,4.08,C,9,,,neutral,0,simulated
+TRMB,2,5.0,4.08,C,9,,,neutral,0,simulated
+TRN,2,4.82,2.97,B,9,Railroads,-3.7,neutral,7,simulated
+TRNS,2,5.0,4.08,C,9,,,neutral,0,simulated
+TROW,2,5.12,4.83,B,9,Asset Management,0.0,neutral,7,simulated
+TRP,3,5.0,4.12,C,9,,,neutral,0,simulated
+TRS,2,5.0,4.08,C,9,,,neutral,0,simulated
+TRSG,2,5.0,4.08,C,9,,,neutral,0,simulated
+TRST,2,5.0,4.08,C,9,,,neutral,0,simulated
+TRT,3,6.05,10.0,B,2,Semiconductor Equipment & Materials,-35.7,low_volume,8,simulated
+TRTX,2,5.0,4.08,C,9,,,neutral,0,simulated
+TRUG,2,5.0,4.08,C,9,,,neutral,0,simulated
+TRUP,2,6.03,10.0,B,9,Insurance - Property & Casualty,-57.3,neutral,7,simulated
+TRVG,3,5.0,4.12,C,9,,,neutral,0,simulated
+TRX,3,5.0,4.12,C,9,,,neutral,0,polygon
+TS,2,5.0,4.08,C,9,,,neutral,0,simulated
+TSAT,2,5.0,4.08,C,9,,,neutral,0,simulated
+TSEM,3,5.0,4.12,C,9,,,neutral,0,simulated
+TSHA,2,5.0,4.08,C,9,,,neutral,0,simulated
+TSLA,2,5.0,4.08,C,9,,,neutral,0,simulated
+TSM,2,5.62,7.92,B,2,Semiconductors,-3.3,neutral,7,simulated
+TSN,2,5.33,6.13,B,9,Farm Products,-15.5,neutral,6,simulated
+TSQ,3,5.0,4.12,C,9,,,neutral,0,simulated
+TSSI,2,5.0,4.08,C,9,,,neutral,0,simulated
+TT,2,5.0,4.08,C,9,,,neutral,0,simulated
+TTAM,2,5.0,4.08,C,9,,,neutral,0,simulated
+TTD,2,5.0,4.08,C,9,,,neutral,0,simulated
+TTEK,3,5.0,4.12,C,9,,,neutral,0,finnhub
+TTI,2,5.0,4.08,C,9,,,neutral,0,simulated
+TTMI,3,5.39,6.42,B,2,Electronic Components,0.0,neutral,7,simulated
+TTRX,2,5.0,4.08,C,9,,,neutral,0,simulated
+TTWO,2,5.0,4.08,C,9,,,neutral,0,simulated
+TULP,2,4.85,3.16,B,9,Advertising Agencies,-34.1,low_volume,7,simulated
+TUSK,2,4.82,2.97,B,9,Conglomerates,-19.5,low_volume,8,simulated
+TUYA,3,5.0,4.12,C,9,,,neutral,0,simulated
+TVA,2,5.0,4.08,C,9,,,neutral,0,simulated
+TVAIR,2,5.0,4.08,C,9,,,neutral,0,simulated
+TVC,3,5.0,4.12,C,9,,,neutral,0,simulated
+TVE,2,5.31,6.0,B,9,,-4.4,neutral,4,simulated
+TVTX,2,5.0,4.08,C,9,,,neutral,0,simulated
+TW,2,5.0,4.08,C,9,,,neutral,0,simulated
+TWAV,3,5.0,4.12,C,9,,,neutral,0,finnhub
+TWFG,2,5.36,6.31,B,9,Insurance Brokers,-40.6,low_volume,8,simulated
+TWI,2,5.09,4.64,B,9,Farm & Heavy Construction Machinery,-33.9,low_volume,7,simulated
+TWLO,2,5.35,6.25,C,6,,,neutral,0,simulated
+TWLV,3,5.59,7.6,A,9,Shell Companies,-3.9,elevated_volume,6,finnhub
+TWN,2,5.51,7.24,B,9,Asset Management,-5.2,elevated_volume,7,simulated
+TWST,2,5.02,4.21,B,9,Diagnostics & Research,0.0,neutral,7,simulated
+TXG,2,5.05,4.39,B,9,Health Information Services,-1.9,neutral,6,simulated
+TXN,2,5.41,6.62,C,2,,,neutral,0,simulated
+TYG,2,5.0,4.08,C,9,,,neutral,0,simulated
+TYL,2,5.0,4.08,C,9,,,neutral,0,simulated
+TYOYY,3,5.0,4.12,C,9,,,neutral,0,simulated
+UAA,2,5.16,5.07,B,9,Apparel Manufacturing,-26.0,low_volume,7,simulated
+UBER,2,5.0,4.08,C,9,,,neutral,0,simulated
+UBS,3,5.0,4.12,C,9,,,neutral,0,simulated
+UCAR,2,5.0,4.08,C,9,,,neutral,0,simulated
+UCTT,2,5.0,4.08,C,9,,,neutral,0,simulated
+UDR,2,5.22,5.45,B,9,REIT - Residential,-3.0,low_volume,7,simulated
+UEC,2,5.35,6.25,C,1,,,neutral,0,simulated
+UFCS,2,5.0,4.08,C,9,,,neutral,0,simulated
+UFI,2,5.0,4.08,C,9,,,neutral,0,simulated
+UG,2,5.0,4.08,C,9,,,neutral,0,simulated
+UHGWW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+UHS,2,5.0,4.08,C,9,,,neutral,0,simulated
+UHT,2,5.0,4.08,C,9,,,neutral,0,simulated
+UI,3,5.92,9.54,B,3,Communication Equipment,-48.5,neutral,7,simulated
+UIS,3,5.0,4.12,C,9,,,neutral,0,simulated
+UK,2,5.89,9.59,B,9,Real Estate Services,-83.6,elevated_volume,7,simulated
+ULBI,3,5.0,4.12,C,9,,,neutral,0,simulated
+ULH,3,5.13,4.88,B,9,Trucking,-43.9,low_volume,7,simulated
+ULTA,2,5.0,4.08,C,9,,,neutral,0,simulated
+UMC,3,5.33,6.06,A,2,Semiconductors,-3.6,neutral,7,polygon
+UMH,2,5.0,4.08,C,9,,,neutral,0,simulated
+UNCY,2,5.0,4.08,C,9,,,neutral,0,simulated
+UNH,2,4.66,1.98,B,9,Healthcare Plans,-0.2,low_volume,7,simulated
+UNIT,3,5.0,4.12,C,9,,,neutral,0,simulated
+UNP,2,5.0,4.08,C,9,,,neutral,0,simulated
+UONE,3,5.0,4.12,C,9,,,neutral,0,simulated
+UP,2,5.0,4.08,C,9,,,neutral,0,simulated
+UPB,3,6.18,10.0,A,9,Biotechnology,-81.4,neutral,6,polygon
+UPLD,3,5.0,4.12,C,9,,,neutral,0,simulated
+UPS,2,4.98,3.96,B,9,Integrated Freight & Logistics,-4.8,neutral,6,simulated
+UPST,2,5.35,6.25,C,8,,,neutral,0,simulated
+UPWK,2,5.0,4.08,C,9,,,neutral,0,simulated
+UPXI,3,5.0,4.12,C,9,,,neutral,0,finnhub
+URG,2,5.35,6.25,C,1,,,neutral,0,simulated
+URGN,2,5.0,4.08,C,9,,,neutral,0,simulated
+URI,2,5.0,4.08,C,9,,,neutral,0,simulated
+UROY,3,5.0,4.12,C,9,,,neutral,0,polygon
+USA,3,4.93,3.7,A,9,Asset Management,-5.7,neutral,6,finnhub
+USAS,2,5.84,9.28,B,9,Other Industrial Metals & Mining,-41.6,neutral,6,simulated
+USB,2,5.0,4.08,C,9,,,neutral,0,simulated
+USBC,2,5.0,4.08,C,9,,,neutral,0,simulated
+USLM,2,5.7,8.41,B,9,Building Materials,-21.1,elevated_volume,7,simulated
+USNA,3,5.63,7.83,B,9,Packaged Foods,-45.1,neutral,6,simulated
+USPH,3,5.42,6.59,A,9,Medical Care Facilities,-28.4,neutral,7,polygon
+UTG,2,5.0,4.08,C,9,,,neutral,0,simulated
+UTHR,3,5.0,4.12,C,9,,,neutral,0,simulated
+UTI,2,5.0,4.08,C,9,,,neutral,0,simulated
+UTSI,2,5.0,4.08,C,9,,,neutral,0,simulated
+UUUU,2,5.35,6.25,C,1,,,neutral,0,simulated
+UYSCR,2,5.0,4.08,C,9,,,neutral,0,simulated
+UZE,2,5.0,4.08,C,9,,,neutral,0,simulated
+V,2,5.35,6.25,C,8,,,neutral,0,simulated
+VABK,2,5.0,4.08,B,9,Banks - Regional,0.0,neutral,5,simulated
+VALE,2,5.0,4.08,B,9,Other Industrial Metals & Mining,-9.6,neutral,6,simulated
+VALN,2,5.0,4.08,C,9,,,neutral,0,simulated
+VBIO,2,6.8,10.0,B,9,Biotechnology,-87.7,dark_pool_buying,7,simulated
+VCTR,2,5.0,4.08,C,9,,,neutral,0,simulated
+VCV,3,5.0,4.12,C,9,,,neutral,0,finnhub
+VECO,2,5.0,4.08,C,9,,,neutral,0,simulated
+VEEA,2,5.0,4.08,C,9,,,neutral,0,simulated
+VEEV,2,6.14,10.0,B,6,Health Information Services,-47.4,low_volume,8,simulated
+VEL,2,5.0,4.08,C,9,,,neutral,0,simulated
+VELO,2,5.38,6.43,B,3,Computer Hardware,-17.4,elevated_volume,8,simulated
+VERA,2,5.0,4.08,C,9,,,neutral,0,simulated
+VET,3,5.0,4.12,C,9,,,neutral,0,polygon
+VFC,2,5.23,5.51,B,9,Apparel Manufacturing,-16.3,neutral,6,simulated
+VFL,3,5.08,4.59,B,9,Asset Management,-0.1,neutral,5,simulated
+VFS,2,5.0,4.08,C,9,,,neutral,0,simulated
+VGAS,2,5.0,4.08,C,9,,,neutral,0,simulated
+VGI,3,5.22,5.42,A,9,Asset Management,-2.7,low_volume,6,polygon
+VHCPU,2,4.97,3.9,B,9,Shell Companies,-0.2,low_volume,6,simulated
+VHUB,3,5.0,4.12,C,9,,,neutral,0,polygon
+VIA,2,6.31,10.0,B,5,Software - Application,-73.9,neutral,7,simulated
+VIASP,3,5.0,4.12,C,9,,,neutral,0,polygon
+VIAV,2,5.0,4.08,C,9,,,neutral,0,simulated
+VICR,3,5.0,4.12,C,9,,,neutral,0,simulated
+VINP,2,5.0,4.08,C,9,,,neutral,0,simulated
+VIPS,2,5.0,4.08,C,9,,,neutral,0,simulated
+VIRT,2,5.0,4.08,C,9,,,neutral,0,simulated
+VIV,3,5.23,5.47,A,9,Telecom Services,-20.0,neutral,7,polygon
+VKI,2,5.0,4.08,C,9,,,neutral,0,simulated
+VKQ,2,4.99,4.02,B,9,Asset Management,0.0,low_volume,6,simulated
+VKTX,2,5.65,8.1,B,9,Biotechnology,-30.2,neutral,5,simulated
+VLO,2,5.56,7.55,B,1,Oil & Gas Refining & Marketing,-8.2,neutral,7,simulated
+VLY,3,4.91,3.59,B,9,Banks - Regional,-2.1,neutral,6,simulated
+VLYPN,2,5.0,4.08,C,9,,,neutral,0,simulated
+VMC,2,5.0,4.08,C,9,,,neutral,0,simulated
+VMD,2,5.0,4.08,C,9,,,neutral,0,simulated
+VMET,3,5.0,4.12,C,9,,,neutral,0,polygon
+VNDA,3,5.57,7.48,B,9,Biotechnology,-40.1,neutral,6,simulated
+VNET,3,5.0,4.12,C,9,,,neutral,0,simulated
+VNME,3,5.35,6.18,B,9,Shell Companies,0.0,elevated_volume,6,simulated
+VNO,3,4.59,1.7,A,9,REIT - Office,-9.7,neutral,6,polygon
+VNOM,3,5.0,4.12,C,9,,,neutral,0,finnhub
+VOC,2,5.51,7.24,B,1,Oil & Gas E&P,-21.5,low_volume,7,simulated
+VOR,3,5.85,9.13,B,9,Biotechnology,-73.7,neutral,5,simulated
+VOYA,2,5.0,4.08,C,9,,,neutral,0,simulated
+VOYG,2,5.0,4.08,C,9,,,neutral,0,simulated
+VPV,2,5.0,4.08,C,9,,,neutral,0,simulated
+VREX,2,5.0,4.08,C,9,,,neutral,0,simulated
+VRNS,2,5.41,6.62,C,7,,,neutral,0,simulated
+VRSK,2,5.0,4.08,C,9,,,neutral,0,simulated
+VRSN,2,5.0,4.08,C,9,,,neutral,0,simulated
+VRT,2,5.27,5.75,B,3,Electrical Equipment & Parts,-17.8,neutral,7,simulated
+VRTS,3,5.0,4.12,C,9,,,neutral,0,finnhub
+VS,2,5.0,4.08,C,9,,,neutral,0,simulated
+VSAT,2,5.0,4.08,C,9,,,neutral,0,simulated
+VSCO,3,5.0,4.12,C,9,,,neutral,0,simulated
+VSEE,3,5.0,4.12,C,9,,,neutral,0,finnhub
+VSH,2,5.0,4.08,C,9,,,neutral,0,simulated
+VST,2,5.35,6.25,C,1,,,neutral,0,simulated
+VSTD,2,5.0,4.08,C,9,,,neutral,0,simulated
+VTIX,2,5.0,4.08,C,9,,,neutral,0,simulated
+VTOL,2,5.0,4.08,C,9,,,neutral,0,simulated
+VTR,2,5.0,4.08,C,9,,,neutral,0,simulated
+VTSI,3,5.0,4.12,C,9,,,neutral,0,finnhub
+VVOS,2,5.74,8.66,B,9,Medical Devices,-92.4,low_volume,8,simulated
+VVR,2,4.93,3.65,B,9,Asset Management,-11.4,neutral,6,simulated
+VVV,2,5.0,4.08,C,9,,,neutral,0,simulated
+VYX,2,6.2,10.0,B,3,Information Technology Services,-48.3,neutral,6,simulated
+VZ,2,5.0,4.08,C,9,,,neutral,0,simulated
+VZLA,2,5.54,7.42,B,9,Other Industrial Metals & Mining,-46.7,neutral,6,simulated
+W,2,5.0,4.08,C,9,,,neutral,0,simulated
+WALD,3,4.89,3.47,A,9,Household & Personal Products,-42.2,low_volume,7,polygon
+WAT,3,4.91,3.59,B,9,Diagnostics & Research,-11.3,low_volume,8,simulated
+WATT,2,5.0,4.08,C,9,,,neutral,0,simulated
+WAY,3,5.89,9.37,A,9,Health Information Services,-54.8,low_volume,8,polygon
+WB,2,5.0,4.08,C,9,,,neutral,0,simulated
+WBD,2,5.23,5.51,B,9,Entertainment,-10.9,neutral,6,simulated
+WBTN,2,5.79,8.97,B,5,Internet Content & Information,-41.1,low_volume,7,simulated
+WBUY,2,5.0,4.08,C,9,,,neutral,0,simulated
+WCC,3,5.0,4.12,C,9,,,neutral,0,simulated
+WDC,2,5.0,4.08,C,9,,,neutral,0,simulated
+WDFC,2,4.82,2.97,B,9,Specialty Chemicals,-9.0,neutral,7,simulated
+WDI,3,5.0,4.12,C,9,,,neutral,0,finnhub
+WDS,3,5.0,4.12,C,9,,,neutral,0,polygon
+WEC,2,5.56,7.55,B,1,Utilities - Regulated Electric,-2.2,neutral,7,simulated
+WELL,2,5.31,6.0,B,9,REIT - Healthcare Facilities,-2.8,neutral,7,simulated
+WEN,2,5.53,7.36,B,9,Restaurants,-41.1,low_volume,7,simulated
+WENNU,2,5.0,4.08,C,9,,,neutral,0,simulated
+WES,2,5.42,6.68,B,1,Oil & Gas Midstream,-7.6,neutral,7,simulated
+WEST,3,5.07,4.53,A,9,Packaged Foods,-4.4,neutral,7,finnhub
+WETO,3,5.98,9.9,B,4,Software - Infrastructure,-62.1,neutral,7,simulated
+WEYS,2,5.0,4.08,C,9,,,neutral,0,simulated
+WF,2,5.19,5.26,B,9,Banks - Regional,-21.4,neutral,6,simulated
+WFC,2,5.0,4.08,C,9,,,neutral,0,simulated
+WFCF,2,5.13,4.89,B,9,Specialty Business Services,-36.2,low_volume,7,simulated
+WFF,2,5.0,4.08,C,9,,,neutral,0,simulated
+WGO,2,5.0,4.08,C,9,,,neutral,0,simulated
+WGSWW,2,5.0,4.08,C,9,,,neutral,0,simulated
+WHF,3,5.0,4.12,C,9,,,neutral,0,polygon
+WHLRD,3,5.0,4.12,C,9,,,neutral,0,polygon
+WHLRL,2,5.0,4.08,C,9,,,neutral,0,simulated
+WHR,2,5.0,4.08,C,9,,,neutral,0,simulated
+WHWK,3,5.0,4.12,C,9,,,neutral,0,finnhub
+WICOF,3,5.0,4.12,C,9,,,neutral,0,simulated
+WINA,2,5.0,4.08,C,9,,,neutral,0,simulated
+WIT,2,5.0,4.08,C,9,,,neutral,0,simulated
+WKEY,3,6.52,10.0,A,2,Semiconductors,-55.5,low_volume,8,polygon
+WKHS,2,5.0,4.08,C,9,,,neutral,0,simulated
+WLDS,2,6.27,10.0,B,9,Consumer Electronics,-97.1,elevated_volume,8,simulated
+WLII,2,5.0,4.08,C,9,,,neutral,0,simulated
+WLIIU,2,5.0,4.08,C,9,,,neutral,0,simulated
+WLIIW,2,5.0,4.08,C,9,,,neutral,0,simulated
+WLK,2,5.0,4.08,C,9,,,neutral,0,simulated
+WLY,2,5.0,4.08,C,9,,,neutral,0,simulated
+WM,2,5.0,4.08,C,9,,,neutral,0,simulated
+WMB,2,5.0,4.08,C,9,,,neutral,0,simulated
+WMS,3,5.0,4.12,C,9,,,neutral,0,finnhub
+WMT,2,5.0,4.08,C,9,,,neutral,0,simulated
+WNEB,2,5.0,4.08,B,9,Banks - Regional,-4.3,neutral,6,simulated
+WOLF,2,5.41,6.62,C,2,,,neutral,0,simulated
+WPAC,2,5.0,4.08,C,9,,,neutral,0,simulated
+WPM,2,5.0,4.08,C,9,,,neutral,0,simulated
+WPRT,2,5.0,4.08,C,9,,,neutral,0,simulated
+WRB,2,5.08,4.58,B,9,Insurance - Property & Casualty,-10.7,neutral,5,simulated
+WRBY,2,4.75,2.54,B,9,Medical Instruments & Supplies,-12.6,neutral,7,simulated
+WRD,3,5.77,8.66,A,5,Software - Application,-48.3,neutral,7,finnhub
+WRN,2,5.0,4.08,C,9,,,neutral,0,simulated
+WS,2,5.0,4.08,C,9,,,neutral,0,simulated
+WSBCO,3,5.37,6.3,A,9,Banks - Regional,0.0,low_volume,7,finnhub
+WSHP,2,5.0,4.08,C,9,,,neutral,0,simulated
+WSR,2,5.0,4.08,C,9,,,neutral,0,simulated
+WST,2,5.0,4.08,C,9,,,neutral,0,simulated
+WSTNR,3,5.0,4.12,C,9,,,neutral,0,polygon
+WT,3,5.0,4.12,C,9,,,neutral,0,finnhub
+WTFC,2,5.0,4.08,C,9,,,neutral,0,simulated
+WTI,3,5.0,4.12,C,9,,,neutral,0,polygon
+WTS,2,5.0,4.08,C,9,,,neutral,0,simulated
+WTTR,2,5.0,4.08,C,9,,,neutral,0,simulated
+WTW,2,5.0,4.08,C,9,,,neutral,0,simulated
+WU,2,5.0,4.08,C,9,,,neutral,0,simulated
+WULF,2,5.26,5.69,B,3,Capital Markets,0.0,neutral,6,simulated
+WVVI,2,5.0,4.08,C,9,,,neutral,0,simulated
+WW,2,5.0,4.08,C,9,,,neutral,0,simulated
+WWD,2,5.0,4.08,C,9,,,neutral,0,simulated
+WY,2,5.0,4.08,C,9,,,neutral,0,simulated
+WYNN,2,5.0,4.08,C,9,,,neutral,0,simulated
+XBP,3,5.82,8.95,B,4,Software - Infrastructure,-85.3,low_volume,7,simulated
+XBPEW,2,5.0,4.08,C,9,,,neutral,0,simulated
+XCBEU,3,5.0,4.12,C,9,,,neutral,0,finnhub
+XE,2,5.0,4.08,C,9,,,neutral,0,simulated
+XEL,2,5.77,8.85,B,1,Utilities - Regulated Electric,-3.4,neutral,6,simulated
+XELLL,2,5.0,4.08,C,9,,,neutral,0,simulated
+XFAB,3,5.0,4.12,C,9,,,neutral,0,simulated
+XFLH,2,6.03,10.0,B,9,Shell Companies,-2.6,dark_pool_buying,6,simulated
+XFLT,2,5.0,4.08,C,9,,,neutral,0,simulated
+XNCR,2,5.24,5.57,B,9,Biotechnology,-33.8,neutral,6,simulated
+XNDU,3,6.61,10.0,B,4,Software - Infrastructure,-63.3,low_volume,8,simulated
+XOM,2,5.42,6.68,B,1,Oil & Gas Integrated,-16.9,neutral,6,simulated
+XOMAO,2,5.0,4.08,C,9,,,neutral,0,simulated
+XOMAP,3,5.0,4.12,C,9,,,neutral,0,finnhub
+XOSWW,3,4.85,3.23,A,9,,0.0,elevated_volume,5,finnhub
+XP,2,5.0,4.08,C,9,,,neutral,0,simulated
+XPEL,3,5.0,4.12,C,9,,,neutral,0,simulated
+XPER,3,5.0,4.12,C,9,,,neutral,0,simulated
+XPL,2,5.0,4.08,C,9,,,neutral,0,simulated
+XPO,3,5.23,5.47,B,9,Trucking,-5.1,neutral,7,simulated
+XPOF,3,5.0,4.12,C,9,,,neutral,0,simulated
+XRX,2,5.0,4.08,C,9,,,neutral,0,simulated
+XRXDW,3,5.0,4.12,C,9,,,neutral,0,finnhub
+XSLLW,2,5.0,4.08,C,9,,,neutral,1,simulated
+XTIA,3,5.8,8.84,B,9,Aerospace & Defense,-55.7,low_volume,8,simulated
+XTLB,2,5.0,4.08,C,9,,,neutral,0,simulated
+XXI,2,5.0,4.08,C,9,,,neutral,0,simulated
+XXII,3,6.07,10.0,A,9,Tobacco,-99.9,elevated_volume,8,finnhub
+XYL,2,5.0,4.08,C,9,,,neutral,0,simulated
+XYZ,3,5.0,4.12,C,9,,,neutral,0,simulated
+XZO,2,5.0,4.08,C,9,,,neutral,0,simulated
+YCY,2,5.0,4.08,C,9,,,neutral,0,simulated
+YDES,3,5.0,4.12,C,9,,,neutral,0,finnhub
+YDKG,2,5.0,4.08,C,9,,,neutral,0,simulated
+YEXT,3,5.0,4.12,C,9,,,neutral,0,finnhub
+YI,3,5.0,4.12,C,9,,,neutral,0,simulated
+YIBO,3,5.0,4.12,C,9,,,neutral,0,finnhub
+YOOV,2,5.0,4.08,C,9,,,neutral,0,simulated
+YORW,2,5.0,4.08,C,9,,,neutral,0,simulated
+YOUL,3,5.0,4.12,C,9,,,neutral,0,finnhub
+YPF,2,5.27,5.75,B,1,Oil & Gas Integrated,-9.1,neutral,7,simulated
+YSG,2,5.0,4.08,C,9,,,neutral,0,simulated
+YSXT,2,5.0,4.08,C,9,,,neutral,0,simulated
+YTRA,2,5.81,9.09,B,9,Travel Services,-50.3,elevated_volume,8,simulated
+YUM,2,5.0,4.08,C,9,,,neutral,0,simulated
+YXT,2,5.0,4.08,C,9,,,neutral,0,simulated
+Z,3,5.0,4.12,C,9,,,neutral,0,simulated
+ZBAO,3,6.07,10.0,B,9,Insurance Brokers,-53.6,neutral,7,simulated
+ZBH,2,4.75,2.54,B,9,Medical Devices,-16.5,neutral,7,simulated
+ZBRA,2,5.0,4.08,C,9,,,neutral,0,simulated
+ZEOWW,2,5.0,4.08,C,9,,,neutral,0,simulated
+ZION,2,4.75,2.54,B,9,Banks - Regional,-0.8,neutral,6,simulated
+ZIONP,2,5.0,4.08,C,9,,,neutral,0,simulated
+ZIP,2,5.0,4.08,C,9,,,neutral,0,simulated
+ZKPW,2,5.23,5.51,C,9,,,neutral,1,simulated
+ZM,2,5.35,6.25,C,6,,,neutral,0,simulated
+ZONE,3,5.0,4.12,C,9,,,neutral,0,simulated
+ZOOZ,2,5.74,8.66,B,9,Specialty Retail,-92.6,elevated_volume,8,simulated
+ZS,2,5.41,6.62,C,7,,,neutral,0,simulated
+ZTEK,2,5.0,4.08,C,9,,,neutral,0,simulated
+ZTR,2,4.99,4.02,B,9,,-1.6,low_volume,5,simulated
+ZTS,2,5.0,4.08,C,9,,,neutral,0,simulated
+ZUMZ,3,5.0,4.12,C,9,,,neutral,0,finnhub
+ZYBT,3,5.0,4.12,C,9,,,neutral,0,polygon

@@ -1,10 +1,28 @@
 {
   "export_type": "all_ticker_scores_from_existing_daily_workflow",
   "note": "Created from scores_chunk_*.json artifacts. Scanner was not run a second time.",
-  "generated_at_utc": "2026-06-16T16:52:29+00:00",
-  "ticker_count": 3144,
+  "generated_at_utc": "2026-06-20T18:50:02+00:00",
+  "ticker_count": 3161,
+  "chunks_seen": [
+    1,
+    2,
+    3
+  ],
+  "duplicate_ticker_count": 0,
+  "duplicate_tickers": [],
+  "data_source_counts": {
+    "finnhub": 893,
+    "polygon": 648,
+    "simulated": 1620
+  },
+  "conviction_counts": {
+    "A": 492,
+    "B": 557,
+    "C": 2112
+  },
+  "zero_real_fields_count": 2096,
   "latest_json": "raw_data_payload/scanner_runs/latest/all_ticker_scores_latest.json",
   "latest_csv": "raw_data_payload/scanner_runs/latest/all_ticker_scores_latest.csv",
-  "archive_json": "raw_data_payload/scanner_runs/archive/all_ticker_scores_2026-06-16_1652.json",
-  "archive_csv": "raw_data_payload/scanner_runs/archive/all_ticker_scores_2026-06-16_1652.csv"
+  "archive_json": "raw_data_payload/scanner_runs/archive/all_ticker_scores_2026-06-20_185001.json",
+  "archive_csv": "raw_data_payload/scanner_runs/archive/all_ticker_scores_2026-06-20_185001.csv"
 }

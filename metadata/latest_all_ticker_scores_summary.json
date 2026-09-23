@@ -1,8 +1,8 @@
 {
   "export_type": "all_ticker_scores_from_existing_daily_workflow",
   "note": "Created from scores_chunk_*.json artifacts. Scanner was not run a second time. Norm and percentile are globally recomputed after all chunks are merged.",
-  "generated_at_utc": "2026-09-22T03:44:36+00:00",
-  "ticker_count": 3161,
+  "generated_at_utc": "2026-09-23T03:35:13+00:00",
+  "ticker_count": 3172,
   "chunks_seen": [
     1,
     2,
@@ -11,32 +11,32 @@
   "duplicate_ticker_count": 0,
   "duplicate_tickers": [],
   "data_source_counts": {
-    "finnhub": 878,
-    "polygon": 649,
-    "simulated": 1634
+    "finnhub": 879,
+    "polygon": 653,
+    "simulated": 1640
   },
   "market_activity_data_type_counts": {
-    "neutral_default": 1634,
-    "stock_market_proxy": 1527
+    "neutral_default": 1640,
+    "stock_market_proxy": 1532
   },
   "fundamentals_quality_counts": {
-    "high": 923,
-    "none": 2104,
-    "partial": 56,
-    "substantial": 78
+    "high": 860,
+    "none": 2184,
+    "partial": 40,
+    "substantial": 88
   },
   "conviction_counts": {
-    "A": 474,
-    "B": 527,
-    "C": 2160
+    "A": 460,
+    "B": 488,
+    "C": 2224
   },
-  "zero_real_fields_count": 2104,
+  "zero_real_fields_count": 2184,
   "missing_raw_score_count": 0,
   "global_normalization_applied": true,
   "options_premium_is_real": false,
   "dark_pool_data_is_real": false,
   "latest_json": "raw_data_payload/scanner_runs/latest/all_ticker_scores_latest.json",
   "latest_csv": "raw_data_payload/scanner_runs/latest/all_ticker_scores_latest.csv",
-  "archive_json": "raw_data_payload/scanner_runs/archive/all_ticker_scores_2026-09-22_034435.json",
-  "archive_csv": "raw_data_payload/scanner_runs/archive/all_ticker_scores_2026-09-22_034435.csv"
+  "archive_json": "raw_data_payload/scanner_runs/archive/all_ticker_scores_2026-09-23_033512.json",
+  "archive_csv": "raw_data_payload/scanner_runs/archive/all_ticker_scores_2026-09-23_033512.csv"
 }
